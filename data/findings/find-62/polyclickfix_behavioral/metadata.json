@@ -1,0 +1,168 @@
+{
+  "type": "BEHAVIORAL CLUSTER AGGREGATE",
+  "cluster_id": 258,
+  "distinct_sites": 2,
+  "occurrences": 1,
+  "source_observations": [
+    {
+      "domain": "www.strauss-reisen.de",
+      "signature": "7d41a6d7a95111472315cffcae72b36fae4ffac3666373429209f46d787f8702",
+      "original_path": "watchlist_batch_20260318_202935/chunk-95/www.strauss-reisen.de_9832b414d4a2/loaded_js/external/external_0006_94982219c64c.js"
+    },
+    {
+      "domain": "costplusunits.com",
+      "signature": "ec6ed96f9b0073045a8d3459048b6ae4b9954ddbe40eb993c8a9e615578d70f3",
+      "original_path": "watchlist_batch_20260318_202935/chunk-23/costplusunits.com_6d7e0ef33d8f/loaded_js/external/external_0016_4bfa2e6c43ac.js"
+    }
+  ],
+  "plugin_info": {
+    "contact-form-7": {
+      "frequency": 1,
+      "versions": [
+        "5.1.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "5.1.7",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": "5.1.7",
+          "cve": "CVE-2024-4704",
+          "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+          "affected_range": "* - 5.9.4"
+        },
+        {
+          "version": "5.1.7",
+          "cve": "CVE-2024-2242",
+          "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+          "published": "2024-03-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": "5.1.7",
+          "cve": "CVE-2023-6449",
+          "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+          "published": "2023-11-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+          "affected_range": "* - 5.8.3"
+        },
+        {
+          "version": "5.1.7",
+          "cve": "CVE-2020-35489",
+          "title": "Contact Form 7 <= 5.3.1 - Arbitrary File Upload via Bypass",
+          "published": "2020-12-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-35489",
+          "affected_range": "[*, 5.3.2)"
+        }
+      ]
+    },
+    "new-royalslider1": {
+      "frequency": 1,
+      "versions": [
+        "3.1.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "script-b7296d2c-b7296d2c": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    }
+  },
+  "theme_info": {
+    "strauss_reisen": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    }
+  },
+  "source_component_instances": [
+    {
+      "domain": "www.strauss-reisen.de",
+      "signature": "7d41a6d7a95111472315cffcae72b36fae4ffac3666373429209f46d787f8702",
+      "plugin_info": {
+        "contact-form-7": {
+          "frequency": 1,
+          "versions": [
+            "5.1.7"
+          ],
+          "vulnerabilities_cve": [
+            {
+              "version": "5.1.7",
+              "cve": "CVE-2025-3247",
+              "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+              "published": "2025-04-15 16:56:22",
+              "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+              "affected_range": "* - 6.0.5"
+            },
+            {
+              "version": "5.1.7",
+              "cve": "CVE-2024-4704",
+              "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+              "published": "2024-06-05 00:00:00",
+              "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+              "affected_range": "* - 5.9.4"
+            },
+            {
+              "version": "5.1.7",
+              "cve": "CVE-2024-2242",
+              "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+              "published": "2024-03-13 00:00:00",
+              "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+              "affected_range": "* - 5.9"
+            },
+            {
+              "version": "5.1.7",
+              "cve": "CVE-2023-6449",
+              "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+              "published": "2023-11-30 00:00:00",
+              "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+              "affected_range": "* - 5.8.3"
+            },
+            {
+              "version": "5.1.7",
+              "cve": "CVE-2020-35489",
+              "title": "Contact Form 7 <= 5.3.1 - Arbitrary File Upload via Bypass",
+              "published": "2020-12-17 00:00:00",
+              "link": "https://www.cve.org/CVERecord?id=CVE-2020-35489",
+              "affected_range": "[*, 5.3.2)"
+            }
+          ]
+        },
+        "new-royalslider1": {
+          "frequency": 1,
+          "versions": [
+            "3.1.9"
+          ],
+          "vulnerabilities_cve": []
+        },
+        "script-b7296d2c-b7296d2c": {
+          "frequency": 1,
+          "versions": [],
+          "vulnerabilities_cve": []
+        }
+      },
+      "theme_info": {
+        "strauss_reisen": {
+          "frequency": 1,
+          "versions": [],
+          "vulnerabilities_cve": []
+        }
+      }
+    },
+    {
+      "domain": "costplusunits.com",
+      "signature": "ec6ed96f9b0073045a8d3459048b6ae4b9954ddbe40eb993c8a9e615578d70f3",
+      "plugin_info": {},
+      "theme_info": {}
+    }
+  ]
+}

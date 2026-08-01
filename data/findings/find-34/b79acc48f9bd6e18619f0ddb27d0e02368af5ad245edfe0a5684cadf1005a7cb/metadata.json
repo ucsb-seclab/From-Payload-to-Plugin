@@ -1,0 +1,100 @@
+{
+  "signature": "b79acc48f9bd6e18619f0ddb27d0e02368af5ad245edfe0a5684cadf1005a7cb",
+  "type": "EDITED",
+  "distinct_sites": 21,
+  "occurrences": 26,
+  "locations": [
+    {
+      "path": "ba298f04.js",
+      "count": 21
+    }
+  ],
+  "snippet": "d8ca4d057b2d4289042f80b0b6661bce560672de7255d7fa3cfbe4295ba73ed9",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-17/breakingnews60s.com_ff1533c7d81d/loaded_js/external/external_0009_50e337678fe4.js",
+    "watchlist_batch_20260302_001952/chunk-19/celebritieshollywoods.com_7d8bcccea757/loaded_js/external/external_0006_50e337678fe4.js",
+    "watchlist_batch_20260302_001952/chunk-23/cotingihay24.com_263faaddb01c/loaded_js/external/external_0005_50e337678fe4.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "ali-post-editor": {
+      "frequency": 21,
+      "versions": [
+        "6.9",
+        "6.9.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "url-shortify": {
+      "frequency": 16,
+      "versions": [
+        "1.12.2",
+        "1.8.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.8.6",
+          "cve": "CVE-2025-32134",
+          "title": "URL Shortify <= 1.10.5.1 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-04-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-32134",
+          "affected_range": "* - 1.10.5.1"
+        }
+      ]
+    },
+    "simple-tags": {
+      "frequency": 10,
+      "versions": [
+        "3.28.1",
+        "3.44.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-11972",
+          "title": "Tag, Category, and Taxonomy Manager \u2013 AI Autotagger with OpenAI <= 3.40.0 - Authenticated (Editor+) SQL Injection",
+          "published": "2025-11-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11972",
+          "affected_range": "* - 3.40.0"
+        },
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-55710",
+          "title": "Tag, Category, and Taxonomy Manager \u2013 AI Autotagger with OpenAI <= 3.37.2 - Authenticated (Subscriber+) Information Exposure",
+          "published": "2025-08-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-55710",
+          "affected_range": "* - 3.37.2"
+        },
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-0627",
+          "title": "WordPress Tag, Category, and Taxonomy Manager \u2013 AI Autotagger <= 3.32.0 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-04-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-0627",
+          "affected_range": "* - 3.32.0"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "enjoymini": {
+      "frequency": 10,
+      "versions": [
+        "20210601",
+        "6.9",
+        "6.9.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "visualblogger": {
+      "frequency": 10,
+      "versions": [
+        "20231017",
+        "20250902",
+        "6.9",
+        "6.9.1"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

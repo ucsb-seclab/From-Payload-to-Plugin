@@ -1,0 +1,188 @@
+{
+  "signature": "ea860efb5d51ced74993a1fc6acdf928671c61ab2669347c8fa02f2772645d3c",
+  "type": "EDITED",
+  "distinct_sites": 2,
+  "occurrences": 2,
+  "locations": [
+    {
+      "path": "_/static/js/ad.js",
+      "count": 2
+    }
+  ],
+  "snippet": "836a6add0ecdba40fab96b45147ca3d8a19958fcaf6dfa1f62cb178d48a4c0d7",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-06/www.adcbcv.com_05781ec174f9/loaded_js/external/external_0001_12fc930f9239.js",
+    "watchlist_batch_20260302_001952/chunk-07/www.micwestserver5.com_2f28b673151f/loaded_js/external/external_0001_c3568b5c422f.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "contact-form-7": {
+      "frequency": 2,
+      "versions": [
+        "5.5.4",
+        "6.0.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "5.5.4",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": "5.5.4",
+          "cve": "CVE-2024-4704",
+          "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+          "affected_range": "* - 5.9.4"
+        },
+        {
+          "version": "5.5.4",
+          "cve": "CVE-2024-2242",
+          "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+          "published": "2024-03-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": "5.5.4",
+          "cve": "CVE-2023-6449",
+          "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+          "published": "2023-11-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+          "affected_range": "* - 5.8.3"
+        },
+        {
+          "version": "6.0.5",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        }
+      ]
+    },
+    "master-slider": {
+      "frequency": 1,
+      "versions": [
+        "3.7.10"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.7.10",
+          "cve": "CVE-2025-58025",
+          "title": "Master Slider <= 3.11.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-09-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-58025",
+          "affected_range": "* - 3.11.0"
+        },
+        {
+          "version": "3.7.10",
+          "cve": "CVE-2025-5291",
+          "title": "Master Slider <= 3.10.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via masterslider_pb and ms_slide Shortcodes",
+          "published": "2025-06-16 22:19:54",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5291",
+          "affected_range": "* - 3.10.8"
+        },
+        {
+          "version": "3.7.10",
+          "cve": "CVE-2025-39412",
+          "title": "Master Slider <= 3.10.7 - Missing Authorization",
+          "published": "2025-04-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-39412",
+          "affected_range": "* - 3.10.7"
+        },
+        {
+          "version": "3.7.10",
+          "cve": "CVE-2024-13757",
+          "title": "Master Slider \u2013 Responsive Touch Slider <= 3.10.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via ms_layer Shortcode",
+          "published": "2025-03-04 21:15:33",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13757",
+          "affected_range": "* - 3.10.6"
+        },
+        {
+          "version": "3.7.10",
+          "cve": "CVE-2024-11731",
+          "title": "Master Slider \u2013 Responsive Touch Slider <= 3.10.7 - Authenticated (Contributor+) Stored Cross-Site Scripting via ms_slider Shortcode",
+          "published": "2025-03-04 21:15:20",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11731",
+          "affected_range": "* - 3.10.7"
+        }
+      ]
+    },
+    "megamenu": {
+      "frequency": 1,
+      "versions": [
+        "3.3.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-35677",
+          "title": "MegaMenu <= 2.3.12 - Unauthenticated Local File Inclusion",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-35677",
+          "affected_range": "* - 2.3.12"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-28003",
+          "title": "Max Mega Menu <= 3.3. - Missing Authorization",
+          "published": "2024-03-26 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-28003",
+          "affected_range": "* - 3.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2017-18525",
+          "title": "Max Mega Menu <= 2.3.8 - Authenticated Cross-Site Scripting",
+          "published": "2017-10-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2017-18525",
+          "affected_range": "* - 2.3.8"
+        }
+      ]
+    },
+    "page-links-to": {
+      "frequency": 1,
+      "versions": [
+        "3.3.6"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "breeze": {
+      "frequency": 1,
+      "versions": [
+        "2.2.8"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.2.8",
+          "cve": "CVE-2025-23999",
+          "title": "Breeze <= 2.2.13 - Missing Authorization",
+          "published": "2025-06-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-23999",
+          "affected_range": "* - 2.2.13"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "depusa": {
+      "frequency": 1,
+      "versions": [
+        "5.7.10"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "sentynl": {
+      "frequency": 1,
+      "versions": [
+        "20221229"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

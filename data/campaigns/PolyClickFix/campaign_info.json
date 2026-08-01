@@ -1,0 +1,178 @@
+{
+  "campaign": "PolyClickFix",
+  "family": "Blockchain ClickFix",
+  "observations": 4,
+  "finding_ids": [
+    48,
+    53,
+    58,
+    62
+  ],
+  "total_sites": 70,
+  "observations_detail": [
+    {
+      "finding_id": 48,
+      "signature": "69f6107bd7a1f52e",
+      "sites": 53,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 53,
+      "signature": "ec6ed96f9b007304",
+      "sites": 3,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 58,
+      "signature": "7d41a6d7a9511147",
+      "sites": 12,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 62,
+      "signature": "metadata-only",
+      "sites": 2,
+      "type": "BEHAVIORAL CLUSTER AGGREGATE"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "file-updater-7b52e912",
+      "versions": [],
+      "frequency": 47,
+      "cves": 0
+    },
+    {
+      "slug": "script-b7296d2c-b7296d2c",
+      "versions": [],
+      "frequency": 25,
+      "cves": 0
+    },
+    {
+      "slug": "script-c388e164-c388e164",
+      "versions": [],
+      "frequency": 24,
+      "cves": 0
+    },
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.27.6",
+        "3.33.4",
+        "3.32.5",
+        "3.19.4",
+        "3.35.4",
+        "4.7.6",
+        "3.35.5",
+        "8.4.5",
+        "4.8.1",
+        "3.34.2",
+        "4.0.2",
+        "4.6.13",
+        "4.1.4",
+        "3.7.0",
+        "6.5.12",
+        "2.9.14",
+        "3.17.1",
+        "3.25.3",
+        "5.3.6",
+        "3.4.8",
+        "3.35.2"
+      ],
+      "frequency": 19,
+      "cves": 5
+    },
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "6.0.6",
+        "6.1.4",
+        "6.1.1",
+        "5.4.2",
+        "5.7.2",
+        "5.1.9",
+        "6.1.5",
+        "5.9.8"
+      ],
+      "frequency": 15,
+      "cves": 5
+    },
+    {
+      "slug": "elementor-pro",
+      "versions": [
+        "3.32.3",
+        "3.5.1",
+        "3.26.3",
+        "3.34.1",
+        "3.16.2",
+        "3.27.4",
+        "1.0.1",
+        "3.35.1",
+        "3.12.3",
+        "2.10.2",
+        "3.27.7",
+        "3.31.2",
+        "1.2.1",
+        "3.27.1"
+      ],
+      "frequency": 13,
+      "cves": 5
+    },
+    {
+      "slug": "revslider",
+      "versions": [
+        "6.6.20",
+        "5.4.8.3",
+        "6.7.28",
+        "6.7.12",
+        "5.4.8",
+        "6.5.18",
+        "6.5.12",
+        "6.7.29",
+        "6.7.34",
+        "6.5.4",
+        "6.6.14",
+        "6.7.20",
+        "6.5.20"
+      ],
+      "frequency": 13,
+      "cves": 5
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "10.4.3",
+        "7.4.0",
+        "10.5.2",
+        "10.5.1"
+      ],
+      "frequency": 6,
+      "cves": 5
+    },
+    {
+      "slug": "js_composer",
+      "versions": [
+        "5.6",
+        "7.5",
+        "8.5",
+        "7.3",
+        "6.10.0",
+        "6.1"
+      ],
+      "frequency": 6,
+      "cves": 5
+    },
+    {
+      "slug": "wpforms-lite",
+      "versions": [
+        "1.8.5.4",
+        "1.7.5.5",
+        "1.9.7.3",
+        "1.21.0",
+        "1.7.8"
+      ],
+      "frequency": 4,
+      "cves": 5
+    }
+  ]
+}

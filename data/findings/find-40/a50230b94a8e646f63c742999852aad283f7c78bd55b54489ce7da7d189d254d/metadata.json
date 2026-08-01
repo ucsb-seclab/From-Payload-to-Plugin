@@ -1,0 +1,259 @@
+{
+  "signature": "a50230b94a8e646f63c742999852aad283f7c78bd55b54489ce7da7d189d254d",
+  "type": "EDITED",
+  "distinct_sites": 2,
+  "occurrences": 3,
+  "locations": [
+    {
+      "path": "0e697b03.js",
+      "count": 2
+    }
+  ],
+  "snippet": "b4696e96092aa6b90276a0937e585a2beaa943f4a5b06472370740f95576be7c",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-13/athenstimeout.gr_2ada9ca08751/loaded_js/external/external_0005_6506de5eb07a.js",
+    "watchlist_batch_20260302_001952/chunk-53/nikolaosanaximandros.gr_3e98ae38b526/loaded_js/external/external_0006_6506de5eb07a.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "td-cloud-library": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-62032",
+          "title": "tagDiv Cloud Library < 3.9.2 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62032",
+          "affected_range": "[*, 3.9.2)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-1597",
+          "title": "tagDiv Cloud Library < 2.7 - Missing Authorization to Arbitrary User Metadata Update",
+          "published": "2023-06-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-1597",
+          "affected_range": "[*, 2.7)"
+        }
+      ]
+    },
+    "td-composer": {
+      "frequency": 1,
+      "versions": [
+        "12.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-62030",
+          "title": "tagDiv Composer <= 5.4.1 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62030",
+          "affected_range": "* - 5.4.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-62031",
+          "title": "tagDiv Composer <= 5.4.1 - Unauthenticated Stored Cross-Site Scripting",
+          "published": "2025-10-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62031",
+          "affected_range": "* - 5.4.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-2806",
+          "title": "tagDiv Composer <= 5.3 - Reflected Cross-Site Scripting via 'data'",
+          "published": "2025-05-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-2806",
+          "affected_range": "* - 5.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-3510",
+          "title": "tagDiv Composer <= 5.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via Multiple Shortcodes",
+          "published": "2025-05-01 14:50:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3510",
+          "affected_range": "* - 5.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-13645",
+          "title": "TagDiv Composer <= 5.3 - Unauthenticated Arbitrary PHP Object Instantiation",
+          "published": "2025-04-03 16:22:47",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13645",
+          "affected_range": "* - 5.3"
+        }
+      ]
+    },
+    "js_composer": {
+      "frequency": 1,
+      "versions": [
+        "7.9"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "7.9",
+          "cve": "CVE-2025-10006",
+          "title": "WPBakery Page Builder <= 8.6 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-10-17 18:22:34",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10006",
+          "affected_range": "* - 8.6"
+        },
+        {
+          "version": "7.9",
+          "cve": "CVE-2025-11161",
+          "title": "WPBakery Page Builder <= 8.6.1 - Stored Cross-Site Scripting via vc_custom_heading Shortcode",
+          "published": "2025-10-14 17:32:20",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11161",
+          "affected_range": "* - 8.6.1"
+        },
+        {
+          "version": "7.9",
+          "cve": "CVE-2025-11160",
+          "title": "WPBakery Page Builder <= 8.6.1 - Stored Cross-Site Scripting via Custom JS Module",
+          "published": "2025-10-14 17:29:05",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11160",
+          "affected_range": "* - 8.6.1"
+        },
+        {
+          "version": "7.9",
+          "cve": "CVE-2025-7502",
+          "title": "WPBakery Page Builder for WordPress <= 8.5 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-08-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-7502",
+          "affected_range": "* - 8.5"
+        },
+        {
+          "version": "7.9",
+          "cve": "CVE-2025-4968",
+          "title": "WPBakery Page Builder <= 8.4.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Multiple Page Builder Elements",
+          "published": "2025-07-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-4968",
+          "affected_range": "* - 8.4.1"
+        }
+      ]
+    },
+    "mailchimp-for-wp": {
+      "frequency": 1,
+      "versions": [
+        "4.11.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-8680",
+          "title": "MailChimp for Wordpress <= 4.9.16 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2024-09-20 20:24:42",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8680",
+          "affected_range": "* - 4.9.16"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-8850",
+          "title": "MC4WP: Mailchimp for WordPress 4.9.9 - 4.9.16 - Reflected Cross-Site Scripting",
+          "published": "2024-09-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8850",
+          "affected_range": "4.9.9 - 4.9.16"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-51682",
+          "title": "MC4WP <= 4.9.9 - Missing Authorization via listen",
+          "published": "2023-12-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-51682",
+          "affected_range": "* - 4.9.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-36833",
+          "title": "MC4WP: Mailchimp for WordPress <= 4.8.6 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2022-03-02 07:15:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-36833",
+          "affected_range": "* - 4.8.6"
+        },
+        {
+          "version": null,
+          "cve": "bd57edf5-a75e-4677-a51e-9dd262eeba4a",
+          "title": "MC4WP: Mailchimp for WordPress < 4.8.7 - Cross-Site Scripting",
+          "published": "2022-03-02 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/bd57edf5-a75e-4677-a51e-9dd262eeba4a?source=api-prod",
+          "affected_range": "[*, 4.8.7)"
+        }
+      ]
+    },
+    "penci-pennews-recipe": {
+      "frequency": 1,
+      "versions": [
+        "2.3",
+        "2.3.2"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "penci-pennews-review": {
+      "frequency": 1,
+      "versions": [
+        "1.0",
+        "3.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "wordpress-popular-posts": {
+      "frequency": 1,
+      "versions": [
+        "7.3.8"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-11733",
+          "title": "WordPress Popular Posts <= 7.1.0 - Unauthenticated Arbitrary Shortcode Execution",
+          "published": "2025-01-03 10:02:32",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11733",
+          "affected_range": "* - 7.1.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-45607",
+          "title": "WordPress Popular Posts <= 6.3.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2023-10-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-45607",
+          "affected_range": "[*, 6.3.3)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-43468",
+          "title": "WordPress Popular Posts <= 6.0.5 - Unauthenticated Views Changes",
+          "published": "2022-11-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-43468",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": null,
+          "cve": "db2a0b6f-5629-4ebe-8431-ebb3bc583e31",
+          "title": "WordPress Popular Posts <= 5.5.1 - Reflected Cross-Site Scripting",
+          "published": "2022-06-29 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/db2a0b6f-5629-4ebe-8431-ebb3bc583e31?source=api-prod",
+          "affected_range": "* - 5.5.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-42362",
+          "title": "WordPress Popular Posts <= 5.3.2 - Authenticated Arbitrary File Upload",
+          "published": "2021-11-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-42362",
+          "affected_range": "* - 5.3.2"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "pennews": {
+      "frequency": 1,
+      "versions": [
+        "6.6.6"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

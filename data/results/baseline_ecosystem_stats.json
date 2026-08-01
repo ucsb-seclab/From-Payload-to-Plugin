@@ -1,0 +1,98 @@
+{
+  "crawl_window": "watchlist_batch_20260318_202935",
+  "host_allowlist_size": 826952,
+  "compromised_set_size_total": 858,
+  "compromised_set_size_in_allowlist": 539,
+  "wordfence_plugin_slugs": 14210,
+  "wordfence_theme_slugs": 1348,
+  "populations": {
+    "all": {
+      "label": "All crawled WP sites (Mar 18)",
+      "sites_total": 715324,
+      "sites_with_any_component": 552494,
+      "pct_sites_with_any_component": 77.24,
+      "component_occurrences": 2627761,
+      "distinct_component_slugs": 184912,
+      "distinct_component_slugs_in_wordfence": 6203,
+      "pct_distinct_slugs_in_wordfence": 3.35,
+      "occ_with_any_version": 2284626,
+      "pct_occ_with_any_version": 86.94,
+      "occ_with_parseable_version": 2284625,
+      "pct_occ_with_parseable_version": 86.94,
+      "occ_with_cve_record": 1888709,
+      "pct_occ_with_cve_record": 71.88,
+      "occ_with_inrange_cve": 663315,
+      "pct_occ_with_inrange_cve": 25.24,
+      "sites_with_inrange_cve": 297856,
+      "pct_sites_with_inrange_cve": 41.64,
+      "per_site_components": {
+        "median": 3.0,
+        "mean": 3.67,
+        "p75": 6,
+        "p90": 8
+      },
+      "per_site_components_with_version": {
+        "median": 2.0,
+        "mean": 3.19,
+        "p75": 5,
+        "p90": 8
+      },
+      "per_site_components_parseable": {
+        "median": 2.0,
+        "mean": 3.19,
+        "p75": 5,
+        "p90": 8
+      },
+      "per_site_components_inrange_cve": {
+        "median": 0.0,
+        "mean": 0.93,
+        "p75": 1,
+        "p90": 3
+      }
+    },
+    "compromised": {
+      "label": "Compromised sites (in Mar 18 crawl)",
+      "sites_total": 513,
+      "sites_with_any_component": 432,
+      "pct_sites_with_any_component": 84.21,
+      "component_occurrences": 2337,
+      "distinct_component_slugs": 843,
+      "distinct_component_slugs_in_wordfence": 417,
+      "pct_distinct_slugs_in_wordfence": 49.47,
+      "occ_with_any_version": 2064,
+      "pct_occ_with_any_version": 88.32,
+      "occ_with_parseable_version": 2064,
+      "pct_occ_with_parseable_version": 88.32,
+      "occ_with_cve_record": 1694,
+      "pct_occ_with_cve_record": 72.49,
+      "occ_with_inrange_cve": 507,
+      "pct_occ_with_inrange_cve": 21.69,
+      "sites_with_inrange_cve": 253,
+      "pct_sites_with_inrange_cve": 49.32,
+      "per_site_components": {
+        "median": 4,
+        "mean": 4.56,
+        "p75": 7,
+        "p90": 10
+      },
+      "per_site_components_with_version": {
+        "median": 3,
+        "mean": 4.02,
+        "p75": 6,
+        "p90": 9
+      },
+      "per_site_components_parseable": {
+        "median": 3,
+        "mean": 4.02,
+        "p75": 6,
+        "p90": 9
+      },
+      "per_site_components_inrange_cve": {
+        "median": 0,
+        "mean": 0.99,
+        "p75": 2,
+        "p90": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "CSSInject": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "CookieLoader": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "FadeRedirect": {
+    "n": 4,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "GDPRInject": {
+    "n": 4,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "HexArray-A": {
+    "n": 5,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "HexArray-B": {
+    "n": 5,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "HexArray-C": {
+    "n": 7,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "HexLoader": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "JSFiretruck": {
+    "n": 10,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "MalvertKit": {
+    "n": 5,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "MultiC2": {
+    "n": 6,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "RecursiveMal": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "SessHijack-A": {
+    "n": 5,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "SessHijack-B": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "SessHijack-C": {
+    "n": 4,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "TDSRedirect": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "TagInject-A": {
+    "n": 4,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "TagInject-B": {
+    "n": 6,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  },
+  "WooBackdoor": {
+    "n": 1,
+    "cosine_sim": 1.0,
+    "min": 1.0,
+    "max": 1.0
+  }
+}

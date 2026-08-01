@@ -1,0 +1,103 @@
+{
+  "campaign": "SessHijack-C",
+  "family": "Session Redirect",
+  "observations": 1,
+  "finding_ids": [
+    14
+  ],
+  "total_sites": 23,
+  "observations_detail": [
+    {
+      "finding_id": 14,
+      "signature": "a3ba4971201d6b48",
+      "sites": 23,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "6.1.4",
+        "6.0.2"
+      ],
+      "frequency": 3,
+      "cves": 1
+    },
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.34.1",
+        "3.33.4"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "user-submitted-posts",
+      "versions": [
+        "20250329",
+        "20251210"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "honeypot",
+      "versions": [
+        "2.2.05",
+        "2.3.04"
+      ],
+      "frequency": 2,
+      "cves": 2
+    },
+    {
+      "slug": "google-analytics-for-wordpress",
+      "versions": [
+        "9.11.1"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "stop-user-enumeration",
+      "versions": [
+        "1.7.7"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "foxiz-core",
+      "versions": [
+        "1.9.1"
+      ],
+      "frequency": 1,
+      "cves": 0
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "10.4.3",
+        "3.1.6"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "yith-woocommerce-wishlist",
+      "versions": [
+        "4.11.0",
+        "1.2.0"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "all-in-one-seo-pack",
+      "versions": [],
+      "frequency": 1,
+      "cves": 5
+    }
+  ]
+}

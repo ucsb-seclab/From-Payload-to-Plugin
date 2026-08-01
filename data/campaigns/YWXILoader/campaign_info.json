@@ -1,0 +1,18 @@
+{
+  "campaign": "YWXILoader",
+  "family": "CDN Loader",
+  "observations": 1,
+  "finding_ids": [
+    63
+  ],
+  "total_sites": 33,
+  "observations_detail": [
+    {
+      "finding_id": 63,
+      "signature": "behavioral-aggregate",
+      "sites": 33,
+      "type": "BEHAVIORAL CLUSTER AGGREGATE"
+    }
+  ],
+  "top_components": []
+}

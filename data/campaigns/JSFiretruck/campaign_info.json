@@ -1,0 +1,284 @@
+{
+  "campaign": "JSFiretruck",
+  "family": "JSFiretruck Redirect",
+  "observations": 27,
+  "finding_ids": [
+    4,
+    5,
+    6,
+    8,
+    9,
+    11,
+    12,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    23,
+    24,
+    25,
+    28,
+    33,
+    35,
+    37,
+    42,
+    43,
+    47,
+    50,
+    54,
+    56,
+    57
+  ],
+  "total_sites": 565,
+  "observations_detail": [
+    {
+      "finding_id": 4,
+      "signature": "e6a9a52602d41f99",
+      "sites": 20,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 5,
+      "signature": "c1ea8633a865c3d5",
+      "sites": 30,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 6,
+      "signature": "3efc0318fd11ee64",
+      "sites": 20,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 8,
+      "signature": "c058075ec9b3745c",
+      "sites": 22,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 9,
+      "signature": "53ed5b6a4c19d03e",
+      "sites": 21,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 11,
+      "signature": "c1ea8633a865c3d5",
+      "sites": 25,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 12,
+      "signature": "e6a9a52602d41f99",
+      "sites": 22,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 15,
+      "signature": "0a02a21df73b5b4f",
+      "sites": 22,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 16,
+      "signature": "c1ea8633a865c3d5",
+      "sites": 27,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 17,
+      "signature": "3efc0318fd11ee64",
+      "sites": 27,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 18,
+      "signature": "d017988bd88f1494",
+      "sites": 25,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 19,
+      "signature": "3efc0318fd11ee64",
+      "sites": 39,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 21,
+      "signature": "36949312b912f632",
+      "sites": 28,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 23,
+      "signature": "c058075ec9b3745c",
+      "sites": 20,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 24,
+      "signature": "e6a9a52602d41f99",
+      "sites": 35,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 25,
+      "signature": "c1ea8633a865c3d5",
+      "sites": 35,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 28,
+      "signature": "29f76089c3cac212",
+      "sites": 30,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 33,
+      "signature": "ea860efb5d51ced7",
+      "sites": 2,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 35,
+      "signature": "b999b46ea66f05ae",
+      "sites": 5,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 37,
+      "signature": "c058075ec9b3745c",
+      "sites": 34,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 42,
+      "signature": "c1ea8633a865c3d5",
+      "sites": 28,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 43,
+      "signature": "0a02a21df73b5b4f",
+      "sites": 10,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 47,
+      "signature": "c6420a55acd1efdd",
+      "sites": 11,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 50,
+      "signature": "9a03491c15b12fee",
+      "sites": 12,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 54,
+      "signature": "6da78ea64b2581dd",
+      "sites": 2,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 56,
+      "signature": "97b78713223843aa",
+      "sites": 2,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 57,
+      "signature": "0a8ad2ef54ca2a92",
+      "sites": 11,
+      "type": "NEWLY ADDED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.25.11"
+      ],
+      "frequency": 8,
+      "cves": 5
+    },
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "5.8",
+        "5.9.3"
+      ],
+      "frequency": 7,
+      "cves": 5
+    },
+    {
+      "slug": "elementor-pro",
+      "versions": [
+        "1.2.1",
+        "3.22.1"
+      ],
+      "frequency": 6,
+      "cves": 5
+    },
+    {
+      "slug": "revslider",
+      "versions": [],
+      "frequency": 5,
+      "cves": 5
+    },
+    {
+      "slug": "accordion-blocks",
+      "versions": [
+        "1.5.0"
+      ],
+      "frequency": 3,
+      "cves": 0
+    },
+    {
+      "slug": "fusion-builder",
+      "versions": [
+        "2.7.1",
+        "2.0",
+        "1",
+        "1.0"
+      ],
+      "frequency": 3,
+      "cves": 5
+    },
+    {
+      "slug": "fusion-core",
+      "versions": [
+        "1"
+      ],
+      "frequency": 3,
+      "cves": 0
+    },
+    {
+      "slug": "gravityforms",
+      "versions": [
+        "2.9.3"
+      ],
+      "frequency": 3,
+      "cves": 2
+    },
+    {
+      "slug": "megamenu",
+      "versions": [
+        "1744792897"
+      ],
+      "frequency": 3,
+      "cves": 3
+    },
+    {
+      "slug": "megamenu-pro",
+      "versions": [
+        "1744792897"
+      ],
+      "frequency": 3,
+      "cves": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+./tmp/
+./dactylogram/temp/
+*.log
+clean.py
+data.csv
+./data/
+./scan/data/
+scan/data/
+domain.txt
+last-domain.txt
+.env
+__pycache__/

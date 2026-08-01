@@ -1,0 +1,414 @@
+{
+  "signature": "c6420a55acd1efdda6800402e458b717dca90dc29e66fff193670a7a3f54367a",
+  "type": "NEWLY ADDED",
+  "distinct_sites": 11,
+  "occurrences": 11,
+  "locations": [
+    {
+      "path": "_/static/js/ad.js",
+      "count": 3
+    },
+    {
+      "path": "loaded_js/external/external_0001_282e78bbe947.js",
+      "count": 2
+    },
+    {
+      "path": "loaded_js/external/external_0001_2a8208eecd64.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_81e3caede6a4.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_75d183c2d970.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_80328c2646d3.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_21471afeb22a.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_1c047cfeb119.js",
+      "count": 1
+    }
+  ],
+  "snippet": "c6420a55acd1efdda6800402e458b717dca90dc29e66fff193670a7a3f54367a",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-06/www.13000b.com_1612d4caf9d8/loaded_js/external/external_0001_2a8208eecd64.js",
+    "watchlist_batch_20260302_001952/chunk-06/www.bouldertherapeuticmassage.com_c27069feaab2/loaded_js/external/external_0001_81e3caede6a4.js",
+    "watchlist_batch_20260302_001952/chunk-00/www.card369.net_24b5205f340e/loaded_js/external/external_0001_75d183c2d970.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "custom-twitter-feeds-pro": {
+      "frequency": 1,
+      "versions": [
+        "2.4.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "contact-form-7": {
+      "frequency": 1,
+      "versions": [
+        "5.8.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "5.8.1",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": "5.8.1",
+          "cve": "CVE-2024-4704",
+          "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+          "affected_range": "* - 5.9.4"
+        },
+        {
+          "version": "5.8.1",
+          "cve": "CVE-2024-2242",
+          "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+          "published": "2024-03-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": "5.8.1",
+          "cve": "CVE-2023-6449",
+          "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+          "published": "2023-11-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+          "affected_range": "* - 5.8.3"
+        }
+      ]
+    },
+    "fusion-builder": {
+      "frequency": 1,
+      "versions": [
+        "1",
+        "1.0",
+        "2.0",
+        "2.7.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1",
+          "cve": "CVE-2025-49940",
+          "title": "Fusion Builder <= 3.13.2 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-10-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-49940",
+          "affected_range": "* - 3.13.2"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2025-6747",
+          "title": "Avada (Fusion) Builder <= 3.12.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2025-07-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-6747",
+          "affected_range": "* - 3.12.1"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2025-1665",
+          "title": "Avada Builder <= 3.11.14 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-03-31 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1665",
+          "affected_range": "* - 3.11.14"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2024-13345",
+          "title": "Avada Builder <= 3.11.13 - Unauthenticated Arbitrary Shortcode Execution",
+          "published": "2025-02-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13345",
+          "affected_range": "* - 3.11.13"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2024-12477",
+          "title": "Avada Builder <= 3.11.11 - Authenticated (Contributor+) Stored Cross-Site Scripting in Multiple Widgets",
+          "published": "2025-01-22 08:24:14",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-12477",
+          "affected_range": "* - 3.11.11"
+        }
+      ]
+    },
+    "fusion-core": {
+      "frequency": 1,
+      "versions": [
+        "1",
+        "4.2.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "cookie-notice": {
+      "frequency": 1,
+      "versions": [
+        "2.5.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.5.6",
+          "cve": "CVE-2025-11186",
+          "title": "Cookie Notice & Compliance for GDPR / CCPA <= 2.5.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2025-11-21 16:28:14",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11186",
+          "affected_range": "* - 2.5.8"
+        }
+      ]
+    },
+    "gravityforms": {
+      "frequency": 1,
+      "versions": [
+        "2.9.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.9.3",
+          "cve": "CVE-2025-12974",
+          "title": "Gravity Forms <= 2.9.21.1 - Unauthenticated Arbitrary File Upload via Legacy Chunked Upload",
+          "published": "2025-11-17 14:26:45",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12974",
+          "affected_range": "* - 2.9.21.1"
+        },
+        {
+          "version": "2.9.3",
+          "cve": "CVE-2025-12352",
+          "title": "Gravity Forms <= 2.9.20 - Unauthenticated Arbitrary File Upload via 'copy_post_image'",
+          "published": "2025-11-06 16:28:27",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12352",
+          "affected_range": "* - 2.9.20"
+        }
+      ]
+    },
+    "LayerSlider": {
+      "frequency": 1,
+      "versions": [
+        "7.14.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-4575",
+          "title": "LayerSlider 7.11.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via ls_search_form Shortcode",
+          "published": "2024-05-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4575",
+          "affected_range": "7.11.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2879",
+          "title": "LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection",
+          "published": "2024-04-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2879",
+          "affected_range": "7.9.11 - 7.10.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-47785",
+          "title": "LayerSlider <= 7.7.9 - Cross-Site Request Forgery",
+          "published": "2023-11-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-47785",
+          "affected_range": "* - 7.7.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-47786",
+          "title": "LayerSlider <= 7.7.9 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-11-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-47786",
+          "affected_range": "* - 7.7.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-1153",
+          "title": "LayerSlider <= 7.1.1 - Admin+ Stored Cross-Site Scripting",
+          "published": "2022-04-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-1153",
+          "affected_range": "* - 7.1.1"
+        }
+      ]
+    },
+    "trustpilot-reviews": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-57997",
+          "title": "Trustpilot Reviews <= 2.5.925 - Missing Authorization",
+          "published": "2025-09-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-57997",
+          "affected_range": "* - 2.5.925"
+        }
+      ]
+    },
+    "sassy-social-share": {
+      "frequency": 1,
+      "versions": [
+        "1731075856"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-5528",
+          "title": "Social Sharing Plugin \u2013 Sassy Social Share <= 3.3.75 - Reflected Cross-Site Scripting via 'heateor_mastodon_share' Parameter",
+          "published": "2025-06-06 21:59:19",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5528",
+          "affected_range": "* - 3.3.75"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-39404",
+          "title": "Sassy Social Share <= 3.3.73 - Open Redirect",
+          "published": "2025-04-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-39404",
+          "affected_range": "* - 3.3.73"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-11252",
+          "title": "Social Sharing Plugin \u2013 Sassy Social Share <= 3.3.69 - Reflected Cross-Site Scripting via heateor_mastodon_share Parameter",
+          "published": "2024-11-29 16:31:05",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11252",
+          "affected_range": "* - 3.3.69"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4924",
+          "title": "Sassy Social Share <= 3.3.62 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2024-05-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4924",
+          "affected_range": "* - 3.3.62"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2159",
+          "title": "Sassy Social Share <= 3.3.60 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2024-04-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2159",
+          "affected_range": "* - 3.3.60"
+        }
+      ]
+    },
+    "wp-rocket": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2017-11658",
+          "title": "WP Rocket <= 2.10.3 - Local File Inclusion",
+          "published": "2017-06-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2017-11658",
+          "affected_range": "[*, 2.10.4)"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "mast": {
+      "frequency": 2,
+      "versions": [],
+      "vulnerabilities_cve": []
+    },
+    "rosecomm": {
+      "frequency": 1,
+      "versions": [
+        "20120206",
+        "20130115"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "Avada": {
+      "frequency": 1,
+      "versions": [
+        "1",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.6.6",
+        "2.0.0",
+        "2.0.3",
+        "2.0.7",
+        "2.1",
+        "2.1.28",
+        "2.1.7",
+        "2.2.1",
+        "2.2.2",
+        "2.2.3",
+        "3.0.3",
+        "3.0.4",
+        "3.0.6",
+        "3.1.1",
+        "3.1.8",
+        "3.3.1",
+        "3.3.2",
+        "3.3.5",
+        "3.3.6",
+        "4.1.5",
+        "6.2.1",
+        "6.2.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1",
+          "cve": "CVE-2024-13346",
+          "title": "Avada Theme <= 7.11.13 - Unauthenticated Arbitrary Shortcode Execution",
+          "published": "2025-02-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13346",
+          "affected_range": "* - 7.11.13"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2025-24748",
+          "title": "Avada <= 7.11.10 - Missing Authorization",
+          "published": "2025-01-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-24748",
+          "affected_range": "* - 7.11.10"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2024-54357",
+          "title": "Avada <= 7.11.10 - Cross-Site Request Forgery",
+          "published": "2024-12-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-54357",
+          "affected_range": "* - 7.11.10"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2024-2311",
+          "title": "Avada <= 7.11.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2024-03-20 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2311",
+          "affected_range": "* - 7.11.6"
+        },
+        {
+          "version": "1",
+          "cve": "CVE-2024-2344",
+          "title": "Avada <= 7.11.6 - Authenticated (Admin+) SQL Injection via entry",
+          "published": "2024-03-20 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2344",
+          "affected_range": "* - 7.11.6"
+        }
+      ]
+    },
+    "amrexchemical-default": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "signature": "6da78ea64b2581dddbe6540de9a82676daff9bc83a99ae7c0efdb18ce50de2bb",
+  "type": "NEWLY ADDED",
+  "distinct_sites": 2,
+  "occurrences": 2,
+  "locations": [
+    {
+      "path": "loaded_js/external/external_0001_4060fd781b94.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_c2b152ca3566.js",
+      "count": 1
+    }
+  ],
+  "snippet": "6da78ea64b2581dddbe6540de9a82676daff9bc83a99ae7c0efdb18ce50de2bb",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-07/www.nfedrzs.com_fe2025a107f6/loaded_js/external/external_0001_4060fd781b94.js",
+    "watchlist_batch_20260302_001952/chunk-07/www.voiceofsunnah.net_83c6dbe685e4/loaded_js/external/external_0001_c2b152ca3566.js"
+  ],
+  "version_consensus": null
+}

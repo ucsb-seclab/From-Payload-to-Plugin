@@ -1,0 +1,72 @@
+services:
+  redis:
+    image: redis:alpine
+    container_name: redis-server
+    restart: always
+    networks:
+      - app_network
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping", "localhost" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  main-node:
+    build:
+      context: ./main-node
+      dockerfile: Dockerfile
+    image: compweb-main-node:latest
+    container_name: main_app
+    restart: always
+    depends_on:
+      - redis
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - SQLITE_DB_PATH=/data/queues.db
+    networks:
+      - app_network
+    ports:
+      - "8181:8181"
+      - "8282:8282"
+    volumes:
+      - ~/.scanctrconfig:/data:rw
+    command: [ "python3", "main.py" ]
+    healthcheck:
+      test: [ "CMD-SHELL", "redis-cli -h redis ping | grep -q PONG && sqlite3 /data/queues.db 'SELECT 1'" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  scan-node:
+    build:
+      context: ./scan-node
+      dockerfile: Dockerfile
+    image: compweb-scan-node:latest
+    depends_on:
+      - redis
+      - main-node
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - REDIS_QUEUE_NAME=urlscan_queue
+      - MOUNT_POINT=/app/data
+    volumes:
+      - /home/ravindudesilva/DIFFCMS/data:/app/data
+    networks:
+      - app_network
+    deploy:
+      replicas: 25
+      restart_policy:
+        condition: on-failure
+    healthcheck:
+      test: [ "CMD", "redis-cli", "-h", "redis", "ping" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+networks:
+  app_network:
+    driver: bridge

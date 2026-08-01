@@ -1,0 +1,107 @@
+{
+  "campaign": "TagInject-B",
+  "family": "Tag Injection",
+  "observations": 1,
+  "finding_ids": [
+    29
+  ],
+  "total_sites": 20,
+  "observations_detail": [
+    {
+      "finding_id": 29,
+      "signature": "9e1d7a28d33f950e",
+      "sites": 20,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "6.0.6",
+        "6.1.2",
+        "6.1.4"
+      ],
+      "frequency": 8,
+      "cves": 5
+    },
+    {
+      "slug": "js_composer",
+      "versions": [
+        "8.1",
+        "8.4.1",
+        "8.5"
+      ],
+      "frequency": 4,
+      "cves": 5
+    },
+    {
+      "slug": "google-site-kit",
+      "versions": [
+        "56777",
+        "7"
+      ],
+      "frequency": 3,
+      "cves": 1
+    },
+    {
+      "slug": "kadence-blocks",
+      "versions": [
+        "3.6.2",
+        "3.6.1"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "elementor",
+      "versions": [
+        "8.4.5",
+        "3.33.4"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "fwa-add-ons",
+      "versions": [
+        "2.0.3"
+      ],
+      "frequency": 2,
+      "cves": 0
+    },
+    {
+      "slug": "google-analytics-for-wordpress",
+      "versions": [
+        "9.5.3"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "mpc-massive",
+      "versions": [
+        "6.8.1",
+        "2.4.8"
+      ],
+      "frequency": 2,
+      "cves": 0
+    },
+    {
+      "slug": "wp-multilang",
+      "versions": [
+        "2.4.25"
+      ],
+      "frequency": 1,
+      "cves": 1
+    },
+    {
+      "slug": "jetpack",
+      "versions": [
+        "15.3.1"
+      ],
+      "frequency": 1,
+      "cves": 5
+    }
+  ]
+}

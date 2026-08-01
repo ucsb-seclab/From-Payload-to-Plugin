@@ -1,0 +1,108 @@
+{
+  "campaign": "TagInject-A",
+  "family": "Tag Injection",
+  "observations": 1,
+  "finding_ids": [
+    20
+  ],
+  "total_sites": 20,
+  "observations_detail": [
+    {
+      "finding_id": 20,
+      "signature": "8502982efde9e6ce",
+      "sites": 20,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "6.0.6",
+        "6.1.2",
+        "6.1.4"
+      ],
+      "frequency": 9,
+      "cves": 5
+    },
+    {
+      "slug": "js_composer",
+      "versions": [
+        "8.1",
+        "8.4.1",
+        "8.5"
+      ],
+      "frequency": 4,
+      "cves": 5
+    },
+    {
+      "slug": "google-site-kit",
+      "versions": [
+        "56777",
+        "8917",
+        "7"
+      ],
+      "frequency": 4,
+      "cves": 1
+    },
+    {
+      "slug": "wp-consent-api",
+      "versions": [
+        "2.0.0",
+        "1.0.8"
+      ],
+      "frequency": 2,
+      "cves": 0
+    },
+    {
+      "slug": "add-to-any",
+      "versions": [
+        "1.1"
+      ],
+      "frequency": 2,
+      "cves": 3
+    },
+    {
+      "slug": "elementor",
+      "versions": [
+        "8.4.5",
+        "3.33.4"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "fwa-add-ons",
+      "versions": [
+        "2.0.3"
+      ],
+      "frequency": 2,
+      "cves": 0
+    },
+    {
+      "slug": "google-analytics-for-wordpress",
+      "versions": [
+        "9.5.3"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "mpc-massive",
+      "versions": [
+        "6.8.1",
+        "2.4.8"
+      ],
+      "frequency": 2,
+      "cves": 0
+    },
+    {
+      "slug": "kadence-blocks",
+      "versions": [
+        "3.6.1"
+      ],
+      "frequency": 1,
+      "cves": 5
+    }
+  ]
+}

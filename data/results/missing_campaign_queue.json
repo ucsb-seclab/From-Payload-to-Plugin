@@ -1,0 +1,178 @@
+[
+  {
+    "domain": "breakingnews60s.com",
+    "signature": "d8ca4d057b2d4289042f80b0b6661bce560672de7255d7fa3cfbe4295ba73ed9",
+    "diff_type": "external",
+    "source_url": "https://breakingnews60s.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-34/b79acc48f9bd6e18619f0ddb27d0e02368af5ad245edfe0a5684cadf1005a7cb/payload.js",
+    "finding": "find-34",
+    "campaign_hash": "b79acc48f9bd6e18619f0ddb27d0e02368af5ad245edfe0a5684cadf1005a7cb",
+    "campaign_name": "GDPRInject",
+    "family": "Ad Injection"
+  },
+  {
+    "domain": "amazing.celebhot.com",
+    "signature": "62620a3f01a0c68b6451594e621040dcd93cb7e41c729fdab3f30fbdfd6d03fe",
+    "diff_type": "external",
+    "source_url": "https://amazing.celebhot.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-36/90ea1880280ea6257b292f728bc8df12944426a6838b358cba46cb9b2028b15a/payload.js",
+    "finding": "find-36",
+    "campaign_hash": "90ea1880280ea6257b292f728bc8df12944426a6838b358cba46cb9b2028b15a",
+    "campaign_name": "GDPRInject",
+    "family": "Ad Injection"
+  },
+  {
+    "domain": "amazing.celebhot.com",
+    "signature": "63fe9ade7f6b424b6e2c7d060af7d91648ed0efa4e3fdd34127ea64604459249",
+    "diff_type": "external",
+    "source_url": "https://amazing.celebhot.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-39/be795a3c87e21ff8940ea5c0d35963292d6a3443bf118f9038dcdb610a8ec5c2/payload.js",
+    "finding": "find-39",
+    "campaign_hash": "be795a3c87e21ff8940ea5c0d35963292d6a3443bf118f9038dcdb610a8ec5c2",
+    "campaign_name": "GDPRInject",
+    "family": "Ad Injection"
+  },
+  {
+    "domain": "athenstimeout.gr",
+    "signature": "b4696e96092aa6b90276a0937e585a2beaa943f4a5b06472370740f95576be7c",
+    "diff_type": "external",
+    "source_url": "https://athenstimeout.gr/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-40/a50230b94a8e646f63c742999852aad283f7c78bd55b54489ce7da7d189d254d/payload.js",
+    "finding": "find-40",
+    "campaign_hash": "a50230b94a8e646f63c742999852aad283f7c78bd55b54489ce7da7d189d254d",
+    "campaign_name": "GDPRInject",
+    "family": "Ad Injection"
+  },
+  {
+    "domain": "casilloilluminazione.com",
+    "signature": "8a6663b36ab986f929bb0bd2fcd5ed5e94f873fd8f7bdfbe3f09fe2543f9eabd",
+    "diff_type": "external",
+    "source_url": "https://casilloilluminazione.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-32/8a6663b36ab986f929bb0bd2fcd5ed5e94f873fd8f7bdfbe3f09fe2543f9eabd/payload.js",
+    "finding": "find-32",
+    "campaign_hash": "8a6663b36ab986f929bb0bd2fcd5ed5e94f873fd8f7bdfbe3f09fe2543f9eabd",
+    "campaign_name": "SessHijack-B",
+    "family": "Session Redirect"
+  },
+  {
+    "domain": "aeroptique.fr",
+    "signature": "1312905d6b0fc23d8fd4b5981b707e689be42053de324aac91677f020c7d041d",
+    "diff_type": "external",
+    "source_url": "https://aeroptique.fr/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-45/1312905d6b0fc23d8fd4b5981b707e689be42053de324aac91677f020c7d041d/payload.js",
+    "finding": "find-45",
+    "campaign_hash": "1312905d6b0fc23d8fd4b5981b707e689be42053de324aac91677f020c7d041d",
+    "campaign_name": "FadeRedirect",
+    "family": "Session Redirect"
+  },
+  {
+    "domain": "accountancytube.com",
+    "signature": "ea44f9c9db0fe7ff057149e06e061f4c7afd474e44a90768689a0ec3be3857f2",
+    "diff_type": "external",
+    "source_url": "https://accountancytube.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-49/ea44f9c9db0fe7ff057149e06e061f4c7afd474e44a90768689a0ec3be3857f2/payload.js",
+    "finding": "find-49",
+    "campaign_hash": "ea44f9c9db0fe7ff057149e06e061f4c7afd474e44a90768689a0ec3be3857f2",
+    "campaign_name": "FadeRedirect",
+    "family": "Session Redirect"
+  },
+  {
+    "domain": "astra-imprints.co.uk",
+    "signature": "97dab8e55c53d7386681528136e3a837dc9f88b434df84913677715839ec408b",
+    "diff_type": "external",
+    "source_url": "https://astra-imprints.co.uk/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-55/97dab8e55c53d7386681528136e3a837dc9f88b434df84913677715839ec408b/payload.js",
+    "finding": "find-55",
+    "campaign_hash": "97dab8e55c53d7386681528136e3a837dc9f88b434df84913677715839ec408b",
+    "campaign_name": "FadeRedirect",
+    "family": "Session Redirect"
+  },
+  {
+    "domain": "doc.wishfulthemes.com",
+    "signature": "ed1df47c2a893f2fa18dda2226cc65c024969217efc6739fa6a05fcd80124e44",
+    "diff_type": "external",
+    "source_url": "https://doc.wishfulthemes.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-61/ed1df47c2a893f2fa18dda2226cc65c024969217efc6739fa6a05fcd80124e44/payload.js",
+    "finding": "find-61",
+    "campaign_hash": "ed1df47c2a893f2fa18dda2226cc65c024969217efc6739fa6a05fcd80124e44",
+    "campaign_name": "FadeRedirect",
+    "family": "Session Redirect"
+  },
+  {
+    "domain": "azzuraceramica.com",
+    "signature": "8776e61eb490f7db0d3e100b8f09db10a11777f6670c7bcd81104593b9b6f719",
+    "diff_type": "external",
+    "source_url": "https://azzuraceramica.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-31/8776e61eb490f7db0d3e100b8f09db10a11777f6670c7bcd81104593b9b6f719/payload.js",
+    "finding": "find-31",
+    "campaign_hash": "8776e61eb490f7db0d3e100b8f09db10a11777f6670c7bcd81104593b9b6f719",
+    "campaign_name": "CSSInject",
+    "family": "CSS Injection"
+  },
+  {
+    "domain": "www.experian.dk",
+    "signature": "8ce7c40f877e33401a9a51a01bf265339201343bc13112ec7223e8a2e824702f",
+    "diff_type": "external",
+    "source_url": "https://www.experian.dk/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-38/5ff9a353b1ad1708e6d3ce06e4ab6c75dcb9e4a4fb8434a31ca855c15e68f504/payload.js",
+    "finding": "find-38",
+    "campaign_hash": "5ff9a353b1ad1708e6d3ce06e4ab6c75dcb9e4a4fb8434a31ca855c15e68f504",
+    "campaign_name": "RecursiveMal",
+    "family": "Recursive Malware"
+  },
+  {
+    "domain": "www.gwvpn.net",
+    "signature": "b7d7f196ab4d6fb18e945ebf58c28c01970bc38dd1d26366014d895f316669c6",
+    "diff_type": "external",
+    "source_url": "https://www.gwvpn.net/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-41/b7d7f196ab4d6fb18e945ebf58c28c01970bc38dd1d26366014d895f316669c6/payload.js",
+    "finding": "find-41",
+    "campaign_hash": "b7d7f196ab4d6fb18e945ebf58c28c01970bc38dd1d26366014d895f316669c6",
+    "campaign_name": "CookieLoader",
+    "family": "Cookie Loader"
+  },
+  {
+    "domain": "danenbergshop.nl",
+    "signature": "1fa7b98348beb3aa7996c23d30447c10009556fabd8f6e0a944014b4730724c9",
+    "diff_type": "external",
+    "source_url": "https://danenbergshop.nl/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-44/1fa7b98348beb3aa7996c23d30447c10009556fabd8f6e0a944014b4730724c9/payload.js",
+    "finding": "find-44",
+    "campaign_hash": "1fa7b98348beb3aa7996c23d30447c10009556fabd8f6e0a944014b4730724c9",
+    "campaign_name": "HexLoader",
+    "family": "Hex Obfuscation"
+  },
+  {
+    "domain": "2b-onec.com",
+    "signature": "ad573c56d6f900b989f53b2e30080213334372b6686ab052bcb25917246041bd",
+    "diff_type": "external",
+    "source_url": "https://2b-onec.com/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-46/ad573c56d6f900b989f53b2e30080213334372b6686ab052bcb25917246041bd/payload.js",
+    "finding": "find-46",
+    "campaign_hash": "ad573c56d6f900b989f53b2e30080213334372b6686ab052bcb25917246041bd",
+    "campaign_name": "TDSRedirect",
+    "family": "TDS Redirect"
+  },
+  {
+    "domain": "boh-i.si",
+    "signature": "a45482242d38ada1ba6e65ac4f6fbe1e4215414473d25d251091c0640c98cde0",
+    "diff_type": "external",
+    "source_url": "https://boh-i.si/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-59/a45482242d38ada1ba6e65ac4f6fbe1e4215414473d25d251091c0640c98cde0/payload.js",
+    "finding": "find-59",
+    "campaign_hash": "a45482242d38ada1ba6e65ac4f6fbe1e4215414473d25d251091c0640c98cde0",
+    "campaign_name": "WooBackdoor",
+    "family": "WooCommerce Backdoor"
+  },
+  {
+    "domain": "ocmb.olsztyn.pl",
+    "signature": "8609689300f6009d5f898d5cbfa7ffa6acabe5df1d789483bb4ac4c12da51f92",
+    "diff_type": "external",
+    "source_url": "https://ocmb.olsztyn.pl/injected.js",
+    "original_file": "/home/ravindu/writeup/findings/find-60/8609689300f6009d5f898d5cbfa7ffa6acabe5df1d789483bb4ac4c12da51f92/payload.js",
+    "finding": "find-60",
+    "campaign_hash": "8609689300f6009d5f898d5cbfa7ffa6acabe5df1d789483bb4ac4c12da51f92",
+    "campaign_name": "OverlayInject",
+    "family": "Overlay Injector"
+  }
+]

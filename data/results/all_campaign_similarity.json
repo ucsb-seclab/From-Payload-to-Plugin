@@ -1,0 +1,162 @@
+{
+  "CSSInject": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "CookieLoader": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "FadeRedirect": {
+    "n_js_unique": 4,
+    "n_behav_traces": 4,
+    "n_samples": 4,
+    "byte_sim": 0.2577308541669823,
+    "ast_sim": 0.4925634298204644,
+    "behav_sim": 0.75
+  },
+  "GDPRInject": {
+    "n_js_unique": 4,
+    "n_behav_traces": 6,
+    "n_samples": 6,
+    "byte_sim": 0.8063620285605921,
+    "ast_sim": 0.9034166666666666,
+    "behav_sim": 1.0
+  },
+  "HexArray-A": {
+    "n_js_unique": 1,
+    "n_behav_traces": 7,
+    "n_samples": 7,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "HexArray-B": {
+    "n_js_unique": 1,
+    "n_behav_traces": 9,
+    "n_samples": 9,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "HexArray-C": {
+    "n_js_unique": 1,
+    "n_behav_traces": 7,
+    "n_samples": 7,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "HexLoader": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "JSFiretruck": {
+    "n_js_unique": 5,
+    "n_behav_traces": 12,
+    "n_samples": 12,
+    "byte_sim": 0.080551922295766,
+    "ast_sim": 0.65,
+    "behav_sim": 0.878787878787879
+  },
+  "MalvertKit": {
+    "n_js_unique": 1,
+    "n_behav_traces": 5,
+    "n_samples": 5,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "MultiC2": {
+    "n_js_unique": 6,
+    "n_behav_traces": 8,
+    "n_samples": 8,
+    "byte_sim": 0.11328726340384578,
+    "ast_sim": 0.07335986813458285,
+    "behav_sim": 0.3494469815898387
+  },
+  "OverlayInject": {
+    "n_js_unique": 1,
+    "n_behav_traces": 0,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": null
+  },
+  "RecursiveMal": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "SessHijack-A": {
+    "n_js_unique": 1,
+    "n_behav_traces": 5,
+    "n_samples": 5,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "SessHijack-B": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "SessHijack-C": {
+    "n_js_unique": 1,
+    "n_behav_traces": 5,
+    "n_samples": 5,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 0.9400000000000001
+  },
+  "TDSRedirect": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "TagInject-A": {
+    "n_js_unique": 1,
+    "n_behav_traces": 6,
+    "n_samples": 6,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "TagInject-B": {
+    "n_js_unique": 1,
+    "n_behav_traces": 6,
+    "n_samples": 6,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  },
+  "WooBackdoor": {
+    "n_js_unique": 1,
+    "n_behav_traces": 1,
+    "n_samples": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_sim": 1.0
+  }
+}

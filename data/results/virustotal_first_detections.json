@@ -1,0 +1,33 @@
+{
+  "study_end": "2026-03-25",
+  "campaigns": {
+    "HexArray-A": null,
+    "HexArray-B": null,
+    "HexArray-C": null,
+    "GDPRInject": null,
+    "SessHijack-A": null,
+    "SessHijack-B": null,
+    "SessHijack-C": null,
+    "FadeRedirect": null,
+    "MultiC2": {
+      "date": "2026-01-15",
+      "detected_engines": 16,
+      "total_engines": 61
+    },
+    "JSFiretruck": {
+      "date": "2026-01-01",
+      "detected_engines": 1,
+      "total_engines": 62
+    },
+    "MalvertKit": null,
+    "TagInject-A": null,
+    "TagInject-B": null,
+    "CSSInject": null,
+    "PolyClickFix": null,
+    "CookieLoader": null,
+    "TDSRedirect": null,
+    "WooBackdoor": null,
+    "OverlayInject": null,
+    "YWXILoader": null
+  }
+}

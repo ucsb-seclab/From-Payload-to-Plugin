@@ -1,0 +1,182 @@
+{
+  "signature": "70c8ece14056b72bd3d2abcbaacd872180c2c7f900e2137fae9c1a44b79d9628",
+  "type": "EDITED",
+  "distinct_sites": 26,
+  "occurrences": 29,
+  "locations": [
+    {
+      "path": "ba298f04.js",
+      "count": 26
+    }
+  ],
+  "snippet": "456d9cdeb997a3ad0f935561bd7def3578ae1741f5926389d5765adae3f7376d",
+  "original_paths": [
+    "watchlist_batch_20251226_024419/chunk-15/autulu.com_01f230903709/loaded_js/external/external_0007_50e337678fe4.js",
+    "watchlist_batch_20251226_024419/chunk-16/bantinngaymoi24.com_08d3b86bb5ea/loaded_js/external/external_0009_50e337678fe4.js",
+    "watchlist_batch_20251226_024419/chunk-16/bantinnhanh24.com_e5437e9dfb60/loaded_js/external/external_0008_50e337678fe4.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "ali-post-editor": {
+      "frequency": 25,
+      "versions": [
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "url-shortify": {
+      "frequency": 20,
+      "versions": [
+        "1.8.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.8.6",
+          "cve": "CVE-2025-32134",
+          "title": "URL Shortify <= 1.10.5.1 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-04-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-32134",
+          "affected_range": "* - 1.10.5.1"
+        }
+      ]
+    },
+    "simple-tags": {
+      "frequency": 8,
+      "versions": [
+        "3.28.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-11972",
+          "title": "Tag, Category, and Taxonomy Manager \u2013 AI Autotagger with OpenAI <= 3.40.0 - Authenticated (Editor+) SQL Injection",
+          "published": "2025-11-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11972",
+          "affected_range": "* - 3.40.0"
+        },
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-55710",
+          "title": "Tag, Category, and Taxonomy Manager \u2013 AI Autotagger with OpenAI <= 3.37.2 - Authenticated (Subscriber+) Information Exposure",
+          "published": "2025-08-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-55710",
+          "affected_range": "* - 3.37.2"
+        },
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-0627",
+          "title": "WordPress Tag, Category, and Taxonomy Manager \u2013 AI Autotagger <= 3.32.0 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-04-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-0627",
+          "affected_range": "* - 3.32.0"
+        }
+      ]
+    },
+    "contact-form-7": {
+      "frequency": 1,
+      "versions": [
+        "6.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "6.0",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        }
+      ]
+    },
+    "woocommerce": {
+      "frequency": 1,
+      "versions": [
+        "9.3.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "9.3.5",
+          "cve": "CVE-2025-49042",
+          "title": "WooCommerce <= 10.0.2 - Authenticated (Shop manager+) Stored Cross-Site Scripting",
+          "published": "2025-10-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-49042",
+          "affected_range": "* - 10.0.2"
+        },
+        {
+          "version": "9.3.5",
+          "cve": "CVE-2025-26762",
+          "title": "WooCommerce <= 9.7.0 - Authenticated (Shop Manager+) Stored Cross-Site Scripting",
+          "published": "2025-03-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-26762",
+          "affected_range": "* - 9.7.0"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "enjoymini": {
+      "frequency": 15,
+      "versions": [
+        "20210601",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "visualblogger": {
+      "frequency": 8,
+      "versions": [
+        "20231017",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "belinni": {
+      "frequency": 1,
+      "versions": [
+        "0.5",
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "flatsome": {
+      "frequency": 1,
+      "versions": [
+        "3.15.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.15.6",
+          "cve": "CVE-2024-5346",
+          "title": "Flatsome | Multi-Purpose Responsive WooCommerce Theme <= 3.18.7 - Authenticated (Contributor+) Stored Cross-Site Scripting via Multiple Shortcodes",
+          "published": "2024-06-21 13:15:56",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5346",
+          "affected_range": "* - 3.18.7"
+        },
+        {
+          "version": "3.15.6",
+          "cve": "CVE-2024-5156",
+          "title": "Flatsome <= 3.18.7 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2024-06-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5156",
+          "affected_range": "* - 3.18.7"
+        },
+        {
+          "version": "3.15.6",
+          "cve": "CVE-2023-40555",
+          "title": "Flatsome <= 3.17.5 - Unauthenticated PHP Object Injection",
+          "published": "2023-09-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-40555",
+          "affected_range": "* - 3.17.5"
+        },
+        {
+          "version": "3.15.6",
+          "cve": "CVE-2023-28994",
+          "title": "Flatsome <= 3.16.8 - Reflected Cross-Site Scripting in UX Builder",
+          "published": "2023-04-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-28994",
+          "affected_range": "* - 3.16.8"
+        }
+      ]
+    }
+  }
+}

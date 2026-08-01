@@ -1,0 +1,117 @@
+{
+  "campaign": "SessHijack-A",
+  "family": "Session Redirect",
+  "observations": 1,
+  "finding_ids": [
+    10
+  ],
+  "total_sites": 20,
+  "observations_detail": [
+    {
+      "finding_id": 10,
+      "signature": "56b74061dae64494",
+      "sites": 20,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.34.1",
+        "3.1.4",
+        "2.7.2",
+        "5.3.6",
+        "4.8.1",
+        "3.31.2",
+        "4.4.6",
+        "3.29.1",
+        "4.7.3",
+        "3.34.0",
+        "4.0.2"
+      ],
+      "frequency": 6,
+      "cves": 5
+    },
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "5.1.1",
+        "6.1.4",
+        "5.7.6",
+        "5.2.2"
+      ],
+      "frequency": 5,
+      "cves": 5
+    },
+    {
+      "slug": "elementor-pro",
+      "versions": [
+        "1.2.1",
+        "3.28.0",
+        "3.26.2",
+        "3.2.1"
+      ],
+      "frequency": 3,
+      "cves": 5
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "2.70",
+        "3.5.10",
+        "3.1.6",
+        "10.4.3",
+        "2.1.4"
+      ],
+      "frequency": 3,
+      "cves": 5
+    },
+    {
+      "slug": "ht-mega-for-elementor",
+      "versions": [
+        "3.0.4"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "ocean-extra",
+      "versions": [
+        "6.9"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "eltron-features",
+      "versions": [
+        "1.0.8"
+      ],
+      "frequency": 1,
+      "cves": 0
+    },
+    {
+      "slug": "litespeed-cache",
+      "versions": [],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "cherry-sidebars",
+      "versions": [
+        "1.5.11"
+      ],
+      "frequency": 1,
+      "cves": 0
+    },
+    {
+      "slug": "jet-elements",
+      "versions": [
+        "1.8.0.1"
+      ],
+      "frequency": 1,
+      "cves": 5
+    }
+  ]
+}

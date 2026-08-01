@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scan-cli"
+version = "0.1.0"
+description = "CLI for managing the scanning tool"
+authors = [
+    {name = "Your Name", email = "deravindusilva@gmail.com"}
+]
+requires-python = ">=3.6"
+dependencies = [
+    "click",
+    "redis",
+    "tabulate",
+    "requests",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "http://blabla.ammonia.xyz"
+
+[project.scripts]
+scanctr = "scanctr.cli:cli"

@@ -1,0 +1,111 @@
+{
+  "campaign": "WooBackdoor",
+  "family": "WooCommerce Backdoor",
+  "observations": 1,
+  "finding_ids": [
+    59
+  ],
+  "total_sites": 9,
+  "observations_detail": [
+    {
+      "finding_id": 59,
+      "signature": "a45482242d38ada1",
+      "sites": 9,
+      "type": "NEWLY ADDED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "9.1.2",
+        "10.5.2",
+        "9.3.5",
+        "10.4.3",
+        "8.6.3"
+      ],
+      "frequency": 9,
+      "cves": 5
+    },
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "5.9.2",
+        "5.9.7",
+        "6.1.5",
+        "5.9.8"
+      ],
+      "frequency": 5,
+      "cves": 4
+    },
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.35.5",
+        "4.0.2",
+        "8.4.5",
+        "3.20.0"
+      ],
+      "frequency": 3,
+      "cves": 5
+    },
+    {
+      "slug": "elementor-pro",
+      "versions": [
+        "3.34.4"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "essential-addons-for-elementor-lite",
+      "versions": [
+        "5.9.14"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "sitepress-multilingual-cms",
+      "versions": [
+        "486900",
+        "1"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "woocommerce-multilingual",
+      "versions": [
+        "5.5.3.1"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "elementskit-lite",
+      "versions": [
+        "3.7.8",
+        "3.1.0"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "revslider",
+      "versions": [
+        "6.5.18",
+        "6.6.13",
+        "6.5.20"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "astra-addon",
+      "versions": [],
+      "frequency": 1,
+      "cves": 2
+    }
+  ]
+}

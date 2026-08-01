@@ -1,0 +1,27 @@
+{
+  "campaign": "CookieLoader",
+  "family": "Cookie Loader",
+  "observations": 1,
+  "finding_ids": [
+    41
+  ],
+  "total_sites": 2,
+  "observations_detail": [
+    {
+      "finding_id": 41,
+      "signature": "b7d7f196ab4d6fb1",
+      "sites": 2,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "tablepress",
+      "versions": [
+        "1.9"
+      ],
+      "frequency": 2,
+      "cves": 5
+    }
+  ]
+}

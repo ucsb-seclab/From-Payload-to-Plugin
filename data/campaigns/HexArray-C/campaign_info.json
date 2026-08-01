@@ -1,0 +1,43 @@
+{
+  "campaign": "HexArray-C",
+  "family": "Ad Injection",
+  "observations": 1,
+  "finding_ids": [
+    3
+  ],
+  "total_sites": 20,
+  "observations_detail": [
+    {
+      "finding_id": 3,
+      "signature": "c20b9729bf58e736",
+      "sites": 20,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "ali-post-editor",
+      "versions": [
+        "6.9"
+      ],
+      "frequency": 17,
+      "cves": 0
+    },
+    {
+      "slug": "url-shortify",
+      "versions": [
+        "1.8.6"
+      ],
+      "frequency": 12,
+      "cves": 1
+    },
+    {
+      "slug": "simple-tags",
+      "versions": [
+        "3.28.1"
+      ],
+      "frequency": 6,
+      "cves": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "signature": "97dab8e55c53d7386681528136e3a837dc9f88b434df84913677715839ec408b",
+  "type": "NEWLY ADDED",
+  "distinct_sites": 5,
+  "occurrences": 5,
+  "locations": [
+    {
+      "path": "flfa",
+      "count": 3
+    },
+    {
+      "path": "loaded_js/external/external_0000_0d108a4d34d0.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0004_cc13851b59d3.js",
+      "count": 1
+    }
+  ],
+  "snippet": "97dab8e55c53d7386681528136e3a837dc9f88b434df84913677715839ec408b",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-13/astra-imprints.co.uk_4596b65b7f2d/loaded_js/external/external_0000_06db242a505c.js",
+    "watchlist_batch_20260302_001952/chunk-35/grece-tchad.com_9d2816234702/loaded_js/external/external_0000_4fe4901c7ca1.js",
+    "watchlist_batch_20260302_001952/chunk-63/salaamnetwork.org_1513e81631bf/loaded_js/external/external_0000_0d108a4d34d0.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "contact-form-7": {
+      "frequency": 2,
+      "versions": [
+        "5.6.4"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "5.6.4",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": "5.6.4",
+          "cve": "CVE-2024-4704",
+          "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+          "affected_range": "* - 5.9.4"
+        },
+        {
+          "version": "5.6.4",
+          "cve": "CVE-2024-2242",
+          "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+          "published": "2024-03-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": "5.6.4",
+          "cve": "CVE-2023-6449",
+          "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+          "published": "2023-11-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+          "affected_range": "* - 5.8.3"
+        }
+      ]
+    },
+    "js_composer_salient": {
+      "frequency": 2,
+      "versions": [
+        "6.9.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "salient-core": {
+      "frequency": 2,
+      "versions": [
+        "1.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.0",
+          "cve": "CVE-2024-3812",
+          "title": "Salient Core <= 2.0.7 - Authenticated (Contributor+) Local File Inclusion via Shortcode",
+          "published": "2024-04-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-3812",
+          "affected_range": "* - 2.0.7"
+        },
+        {
+          "version": "1.0",
+          "cve": "CVE-2023-48748",
+          "title": "Salient Core <= 2.0.2 - Reflected Cross-Site Scripting",
+          "published": "2023-11-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-48748",
+          "affected_range": "* - 2.0.2"
+        },
+        {
+          "version": "1.0",
+          "cve": "CVE-2023-48749",
+          "title": "Salient Core <= 2.0.2 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-11-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-48749",
+          "affected_range": "* - 2.0.2"
+        }
+      ]
+    },
+    "salient-nectar-slider": {
+      "frequency": 2,
+      "versions": [
+        "1.7.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "salient-portfolio": {
+      "frequency": 2,
+      "versions": [
+        "1.7.2",
+        "4.1.4",
+        "7.6"
+      ],
+      "vulnerabilities_cve": []
+    }
+  },
+  "theme_info": {
+    "salient": {
+      "frequency": 2,
+      "versions": [
+        "0.9.9",
+        "1.3",
+        "1.5.8",
+        "1.9",
+        "15.0.4",
+        "3.1.13",
+        "3.3.8",
+        "4.0.1",
+        "4.0.2",
+        "4.5.1",
+        "6.0.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "0.9.9",
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        },
+        {
+          "version": "0.9.9",
+          "cve": "39a74c20-42a2-4099-8e6c-9989a3ba081d",
+          "title": "Salient < 5.5.53 - DOM Cross-Site Scripting",
+          "published": "2015-06-16 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/39a74c20-42a2-4099-8e6c-9989a3ba081d?source=api-prod",
+          "affected_range": "* - 4.9"
+        },
+        {
+          "version": "1.3",
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        },
+        {
+          "version": "1.3",
+          "cve": "39a74c20-42a2-4099-8e6c-9989a3ba081d",
+          "title": "Salient < 5.5.53 - DOM Cross-Site Scripting",
+          "published": "2015-06-16 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/39a74c20-42a2-4099-8e6c-9989a3ba081d?source=api-prod",
+          "affected_range": "* - 4.9"
+        },
+        {
+          "version": "1.5.8",
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        }
+      ]
+    },
+    "cottageinn": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "hotell": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0",
+        "2.3.4"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "salaam-Theme": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

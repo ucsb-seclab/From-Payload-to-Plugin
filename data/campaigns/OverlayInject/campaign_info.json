@@ -1,0 +1,111 @@
+{
+  "campaign": "OverlayInject",
+  "family": "Overlay Injector",
+  "observations": 1,
+  "finding_ids": [
+    60
+  ],
+  "total_sites": 2,
+  "observations_detail": [
+    {
+      "finding_id": 60,
+      "signature": "8609689300f6009d",
+      "sites": 2,
+      "type": "NEWLY ADDED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "5.2",
+        "6.1.5"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "revslider",
+      "versions": [
+        "6.7.38",
+        "6.0",
+        "6.2.2"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "2.70",
+        "10.5.2",
+        "3.1.6",
+        "2.1.4",
+        "4.3.6"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "facebook-pagelike-widget",
+      "versions": [
+        "1.0"
+      ],
+      "frequency": 1,
+      "cves": 2
+    },
+    {
+      "slug": "js_composer",
+      "versions": [
+        "6.2.0"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "ruby-build-framework",
+      "versions": [
+        "0.6.11",
+        "1.1.0",
+        "1.7",
+        "1.2.43"
+      ],
+      "frequency": 1,
+      "cves": 0
+    },
+    {
+      "slug": "yith-woocommerce-compare",
+      "versions": [
+        "1.4.21",
+        "2.3.22"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "yith-woocommerce-wishlist",
+      "versions": [
+        "3.0.11",
+        "1.2.0"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "complianz-gdpr",
+      "versions": [
+        "1766018024"
+      ],
+      "frequency": 1,
+      "cves": 5
+    },
+    {
+      "slug": "drag-and-drop-multiple-file-upload-contact-form-7",
+      "versions": [
+        "1.3.9.5"
+      ],
+      "frequency": 1,
+      "cves": 5
+    }
+  ]
+}

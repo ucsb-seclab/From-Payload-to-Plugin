@@ -1,0 +1,133 @@
+{
+  "campaign": "FadeRedirect",
+  "family": "Session Redirect",
+  "observations": 4,
+  "finding_ids": [
+    45,
+    49,
+    55,
+    61
+  ],
+  "total_sites": 41,
+  "observations_detail": [
+    {
+      "finding_id": 45,
+      "signature": "1312905d6b0fc23d",
+      "sites": 6,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 49,
+      "signature": "ea44f9c9db0fe7ff",
+      "sites": 23,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 55,
+      "signature": "97dab8e55c53d738",
+      "sites": 5,
+      "type": "NEWLY ADDED"
+    },
+    {
+      "finding_id": 61,
+      "signature": "ed1df47c2a893f2f",
+      "sites": 7,
+      "type": "NEWLY ADDED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "6.1.5",
+        "5.6.4"
+      ],
+      "frequency": 8,
+      "cves": 4
+    },
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.35.5",
+        "8.4.5",
+        "3.33.4"
+      ],
+      "frequency": 7,
+      "cves": 5
+    },
+    {
+      "slug": "js_composer",
+      "versions": [
+        "8.7.2",
+        "8.3.1",
+        "6.5.0",
+        "6.10.0"
+      ],
+      "frequency": 5,
+      "cves": 5
+    },
+    {
+      "slug": "elementor-pro",
+      "versions": [
+        "1.2.1",
+        "3.35.1"
+      ],
+      "frequency": 4,
+      "cves": 5
+    },
+    {
+      "slug": "revslider",
+      "versions": [
+        "6.1.1",
+        "6.6.11",
+        "6.0",
+        "6.2.23",
+        "6.7.31"
+      ],
+      "frequency": 4,
+      "cves": 5
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "9.8.6",
+        "10.5.2"
+      ],
+      "frequency": 3,
+      "cves": 1
+    },
+    {
+      "slug": "essential-addons-for-elementor-lite",
+      "versions": [
+        "6.5.3",
+        "6.5.12"
+      ],
+      "frequency": 3,
+      "cves": 5
+    },
+    {
+      "slug": "js_composer_salient",
+      "versions": [
+        "6.9.1"
+      ],
+      "frequency": 2,
+      "cves": 0
+    },
+    {
+      "slug": "salient-core",
+      "versions": [
+        "1.0"
+      ],
+      "frequency": 2,
+      "cves": 3
+    },
+    {
+      "slug": "salient-nectar-slider",
+      "versions": [
+        "1.7.3"
+      ],
+      "frequency": 2,
+      "cves": 0
+    }
+  ]
+}

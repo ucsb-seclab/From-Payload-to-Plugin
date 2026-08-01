@@ -1,0 +1,585 @@
+{
+  "baseline_background_hosts": 715141,
+  "compromised_excluded": 300,
+  "rows": [
+    {
+      "campaign": "HexArray-A",
+      "slug": "url-shortify",
+      "version": "1.8.6",
+      "paper_pct": 63,
+      "paper_log10_E": 2.8,
+      "baseline_host_count": 6,
+      "baseline_pct": 0.000839,
+      "new_log10_E": 4.88,
+      "signal_paper": "Known",
+      "cve_note": "Sto.\\ XSS: CVE-2025-32134"
+    },
+    {
+      "campaign": "HexArray-A",
+      "slug": "simple-tags",
+      "version": "3.28.1",
+      "paper_pct": 35,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 28,
+      "baseline_pct": 0.003915,
+      "new_log10_E": 3.95,
+      "signal_paper": "Known",
+      "cve_note": "SQLi: CVE-2025-11972 / Sto.\\ XSS: CVE-2025-0627"
+    },
+    {
+      "campaign": "HexArray-A",
+      "slug": "ali-post-editor",
+      "version": "6.9",
+      "paper_pct": 98,
+      "paper_log10_E": null,
+      "baseline_host_count": 4,
+      "baseline_pct": 0.000559,
+      "new_log10_E": 5.24,
+      "signal_paper": "Fake",
+      "cve_note": "attacker-planted"
+    },
+    {
+      "campaign": "HexArray-A",
+      "slug": "theme:enjoymini",
+      "version": "6.9",
+      "paper_pct": 40,
+      "paper_log10_E": null,
+      "baseline_host_count": 1,
+      "baseline_pct": 0.00014,
+      "new_log10_E": 5.46,
+      "signal_paper": "Suspect",
+      "cve_note": "attacker-planted theme"
+    },
+    {
+      "campaign": "HexArray-A",
+      "slug": "theme:visualblogger",
+      "version": "6.9",
+      "paper_pct": 35,
+      "paper_log10_E": null,
+      "baseline_host_count": 3,
+      "baseline_pct": 0.000419,
+      "new_log10_E": 4.92,
+      "signal_paper": "Suspect",
+      "cve_note": "attacker-planted theme"
+    },
+    {
+      "campaign": "HexArray-B",
+      "slug": "url-shortify",
+      "version": "1.8.6",
+      "paper_pct": 57,
+      "paper_log10_E": 2.8,
+      "baseline_host_count": 6,
+      "baseline_pct": 0.000839,
+      "new_log10_E": 4.83,
+      "signal_paper": "Known",
+      "cve_note": "Sto.\\ XSS: CVE-2025-32134"
+    },
+    {
+      "campaign": "HexArray-B",
+      "slug": "simple-tags",
+      "version": "3.28.1",
+      "paper_pct": 30,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 28,
+      "baseline_pct": 0.003915,
+      "new_log10_E": 3.88,
+      "signal_paper": "Known",
+      "cve_note": "SQLi: CVE-2025-11972 / Sto.\\ XSS: CVE-2025-0627"
+    },
+    {
+      "campaign": "HexArray-B",
+      "slug": "ali-post-editor",
+      "version": "6.9",
+      "paper_pct": 96,
+      "paper_log10_E": null,
+      "baseline_host_count": 4,
+      "baseline_pct": 0.000559,
+      "new_log10_E": 5.23,
+      "signal_paper": "Fake",
+      "cve_note": "attacker-planted"
+    },
+    {
+      "campaign": "HexArray-C",
+      "slug": "url-shortify",
+      "version": "1.8.6",
+      "paper_pct": 60,
+      "paper_log10_E": 2.8,
+      "baseline_host_count": 6,
+      "baseline_pct": 0.000839,
+      "new_log10_E": 4.85,
+      "signal_paper": "Known",
+      "cve_note": "Sto.\\ XSS: CVE-2025-32134"
+    },
+    {
+      "campaign": "HexArray-C",
+      "slug": "simple-tags",
+      "version": "3.28.1",
+      "paper_pct": 30,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 28,
+      "baseline_pct": 0.003915,
+      "new_log10_E": 3.88,
+      "signal_paper": "Known",
+      "cve_note": "SQLi: CVE-2025-11972 / Sto.\\ XSS: CVE-2025-0627"
+    },
+    {
+      "campaign": "HexArray-C",
+      "slug": "ali-post-editor",
+      "version": "6.9",
+      "paper_pct": 85,
+      "paper_log10_E": null,
+      "baseline_host_count": 4,
+      "baseline_pct": 0.000559,
+      "new_log10_E": 5.18,
+      "signal_paper": "Fake",
+      "cve_note": "attacker-planted"
+    },
+    {
+      "campaign": "GDPRInject",
+      "slug": "url-shortify",
+      "version": "1.8.6",
+      "paper_pct": 61,
+      "paper_log10_E": 2.8,
+      "baseline_host_count": 6,
+      "baseline_pct": 0.000839,
+      "new_log10_E": 4.86,
+      "signal_paper": "Known",
+      "cve_note": "Sto.\\ XSS: CVE-2025-32134"
+    },
+    {
+      "campaign": "GDPRInject",
+      "slug": "simple-tags",
+      "version": "3.28.1",
+      "paper_pct": 39,
+      "paper_log10_E": 2.3,
+      "baseline_host_count": 28,
+      "baseline_pct": 0.003915,
+      "new_log10_E": 4.0,
+      "signal_paper": "Known",
+      "cve_note": "SQLi: CVE-2025-11972 / Sto.\\ XSS: CVE-2025-0627"
+    },
+    {
+      "campaign": "GDPRInject",
+      "slug": "ali-post-editor",
+      "version": "6.9",
+      "paper_pct": 95,
+      "paper_log10_E": null,
+      "baseline_host_count": 4,
+      "baseline_pct": 0.000559,
+      "new_log10_E": 5.23,
+      "signal_paper": "Fake",
+      "cve_note": "attacker-planted"
+    },
+    {
+      "campaign": "GDPRInject",
+      "slug": "theme:enjoymini",
+      "version": "6.9",
+      "paper_pct": 41,
+      "paper_log10_E": null,
+      "baseline_host_count": 1,
+      "baseline_pct": 0.00014,
+      "new_log10_E": 5.47,
+      "signal_paper": "Suspect",
+      "cve_note": "attacker-planted theme"
+    },
+    {
+      "campaign": "SessHijack-A",
+      "slug": "theme:oceanwp",
+      "version": "3.5.8",
+      "paper_pct": 10,
+      "paper_log10_E": null,
+      "baseline_host_count": 33,
+      "baseline_pct": 0.004614,
+      "new_log10_E": 3.34,
+      "signal_paper": "Niche",
+      "cve_note": "Auth: CVE-2025-8944 / Sto.\\ XSS: CVE-2024-5647, CVE-2025-5524"
+    },
+    {
+      "campaign": "SessHijack-B",
+      "slug": "sfwd-lms",
+      "version": "4.18.1",
+      "paper_pct": 8,
+      "paper_log10_E": null,
+      "baseline_host_count": 9,
+      "baseline_pct": 0.001258,
+      "new_log10_E": 3.8,
+      "signal_paper": "Niche",
+      "cve_note": "Auth: CVE-2025-24662"
+    },
+    {
+      "campaign": "FadeRedirect",
+      "slug": "salient-core",
+      "version": "1.0",
+      "paper_pct": 7,
+      "paper_log10_E": null,
+      "baseline_host_count": 3442,
+      "baseline_pct": 0.481304,
+      "new_log10_E": 1.16,
+      "signal_paper": "Niche",
+      "cve_note": "File: CVE-2024-3812 / Refl.\\ XSS: CVE-2023-48748 / Sto.\\ XSS: CVE-2023-48749"
+    },
+    {
+      "campaign": "MultiC2",
+      "slug": "theme:diza",
+      "version": "1.0.6",
+      "paper_pct": 3,
+      "paper_log10_E": null,
+      "baseline_host_count": 0,
+      "baseline_pct": 0.0,
+      "new_log10_E": "inf",
+      "signal_paper": "Niche",
+      "cve_note": "File: CVE-2025-52729, CVE-2025-49261"
+    },
+    {
+      "campaign": "JSFiretruck",
+      "slug": "fusion-builder",
+      "version": "1",
+      "paper_pct": 5,
+      "paper_log10_E": null,
+      "baseline_host_count": 2130,
+      "baseline_pct": 0.297843,
+      "new_log10_E": 1.22,
+      "signal_paper": "Niche",
+      "cve_note": "RCE: CVE-2024-13345 / Sto.\\ XSS: CVE-2024-12477, CVE-2025-1665"
+    },
+    {
+      "campaign": "MalvertKit",
+      "slug": "eventON",
+      "version": "3.1",
+      "paper_pct": 5,
+      "paper_log10_E": null,
+      "baseline_host_count": 16,
+      "baseline_pct": 0.002237,
+      "new_log10_E": 3.35,
+      "signal_paper": "Niche",
+      "cve_note": "Auth: CVE-2025-47565, CVE-2025-47564 / Sto.\\ XSS: CVE-2025-3527"
+    },
+    {
+      "campaign": "TagInject-A",
+      "slug": "add-to-any",
+      "version": "1.1",
+      "paper_pct": 10,
+      "paper_log10_E": 1.0,
+      "baseline_host_count": 7939,
+      "baseline_pct": 1.110131,
+      "new_log10_E": 0.95,
+      "signal_paper": "Known",
+      "cve_note": "Host hdr: source audit, Section~\\ref{sec:res-casestudy}"
+    },
+    {
+      "campaign": "TagInject-A",
+      "slug": "theme:puca",
+      "version": "2.1.4",
+      "paper_pct": 10,
+      "paper_log10_E": null,
+      "baseline_host_count": 2,
+      "baseline_pct": 0.00028,
+      "new_log10_E": 4.55,
+      "signal_paper": "Niche",
+      "cve_note": "premium, not auditable"
+    },
+    {
+      "campaign": "TagInject-B",
+      "slug": "theme:puca",
+      "version": "2.1.4",
+      "paper_pct": 10,
+      "paper_log10_E": null,
+      "baseline_host_count": 2,
+      "baseline_pct": 0.00028,
+      "new_log10_E": 4.55,
+      "signal_paper": "Niche",
+      "cve_note": "premium, not auditable"
+    },
+    {
+      "campaign": "CSSInject",
+      "slug": "theme:astra",
+      "version": "4.12.1",
+      "paper_pct": 18,
+      "paper_log10_E": null,
+      "baseline_host_count": 716,
+      "baseline_pct": 0.10012,
+      "new_log10_E": 2.25,
+      "signal_paper": "Niche",
+      "cve_note": "Sto.\\ XSS: CVE-2024-2347, CVE-2024-29768"
+    },
+    {
+      "campaign": "PolyClickFix",
+      "slug": "go_pricing",
+      "version": "3.3.19",
+      "paper_pct": 1,
+      "paper_log10_E": null,
+      "baseline_host_count": 54,
+      "baseline_pct": 0.007551,
+      "new_log10_E": 2.12,
+      "signal_paper": "Niche",
+      "cve_note": "Auth: CVE-2023-2494, CVE-2023-2496 / Sto.\\ XSS: CVE-2023-2498"
+    },
+    {
+      "campaign": "PolyClickFix",
+      "slug": "woolentor-addons",
+      "version": "3.3.1",
+      "paper_pct": 6,
+      "paper_log10_E": 1.3,
+      "baseline_host_count": 10,
+      "baseline_pct": 0.001398,
+      "new_log10_E": 3.63,
+      "signal_paper": "Suspect",
+      "cve_note": "RCE via source audit, Section~\\ref{sec:res-casestudy}"
+    },
+    {
+      "campaign": "CookieLoader",
+      "slug": "tablepress",
+      "version": "1.9",
+      "paper_pct": 100,
+      "paper_log10_E": 1.7,
+      "baseline_host_count": 0,
+      "baseline_pct": 0.0,
+      "new_log10_E": "inf",
+      "signal_paper": "Known",
+      "cve_note": "Sto.\\ XSS: CVE-2024-9595, CVE-2025-2685, CVE-2025-5096"
+    },
+    {
+      "campaign": "HexLoader",
+      "slug": "jet-elements",
+      "version": "2.0.2",
+      "paper_pct": 50,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 2171,
+      "baseline_pct": 0.303576,
+      "new_log10_E": 2.22,
+      "signal_paper": "Known",
+      "cve_note": "Auth: CVE-2025-39447 / Sto.\\ XSS: CVE-2025-53982"
+    },
+    {
+      "campaign": "HexLoader",
+      "slug": "jet-search",
+      "version": "1.0.0",
+      "paper_pct": 50,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 1327,
+      "baseline_pct": 0.185558,
+      "new_log10_E": 2.43,
+      "signal_paper": "Known",
+      "cve_note": "SQLi: CVE-2025-49931 / Sto.\\ XSS: CVE-2024-7136"
+    },
+    {
+      "campaign": "HexLoader",
+      "slug": "jet-engine",
+      "version": "3.8.5",
+      "paper_pct": 50,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 455,
+      "baseline_pct": 0.063624,
+      "new_log10_E": 2.9,
+      "signal_paper": "Suspect",
+      "cve_note": "no published CVE"
+    },
+    {
+      "campaign": "HexLoader",
+      "slug": "jet-tabs",
+      "version": "2.2.14",
+      "paper_pct": 50,
+      "paper_log10_E": 2.2,
+      "baseline_host_count": 1093,
+      "baseline_pct": 0.152837,
+      "new_log10_E": 2.51,
+      "signal_paper": "Suspect",
+      "cve_note": "no published CVE"
+    },
+    {
+      "campaign": "TDSRedirect",
+      "slug": "goodlayers-core",
+      "version": "1.3.9",
+      "paper_pct": 14,
+      "paper_log10_E": null,
+      "baseline_host_count": 975,
+      "baseline_pct": 0.136337,
+      "new_log10_E": 2.01,
+      "signal_paper": "Niche",
+      "cve_note": "Sto.\\ XSS: CVE-2024-12163, CVE-2024-11357"
+    },
+    {
+      "campaign": "TDSRedirect",
+      "slug": "download-monitor",
+      "version": "5.1.8",
+      "paper_pct": 14,
+      "paper_log10_E": 1.7,
+      "baseline_host_count": 119,
+      "baseline_pct": 0.01664,
+      "new_log10_E": 2.92,
+      "signal_paper": "Suspect",
+      "cve_note": "XSS/CSRF via source audit, Section~\\ref{sec:res-casestudy}"
+    },
+    {
+      "campaign": "WooBackdoor",
+      "slug": "pixelyoursite-pro",
+      "version": "2.1.3",
+      "paper_pct": 11,
+      "paper_log10_E": null,
+      "baseline_host_count": 570,
+      "baseline_pct": 0.079705,
+      "new_log10_E": 2.14,
+      "signal_paper": "Niche",
+      "cve_note": "Sto.\\ XSS: CVE-2023-2584"
+    },
+    {
+      "campaign": "OverlayInject",
+      "slug": "revslider",
+      "version": "6.0",
+      "paper_pct": 100,
+      "paper_log10_E": null,
+      "baseline_host_count": 2249,
+      "baseline_pct": 0.314483,
+      "new_log10_E": 2.5,
+      "signal_paper": "Niche",
+      "cve_note": "Auth: CVE-2025-10249 / Sto.\\ XSS: CVE-2024-8107"
+    },
+    {
+      "campaign": "OverlayInject",
+      "slug": "facebook-pagelike-widget",
+      "version": "1.0",
+      "paper_pct": 50,
+      "paper_log10_E": 2.4,
+      "baseline_host_count": 246,
+      "baseline_pct": 0.034399,
+      "new_log10_E": 3.16,
+      "signal_paper": "Known",
+      "cve_note": "Sto.\\ XSS: CVE-2024-0973, CVE-2024-13207"
+    }
+  ],
+  "campaign_summary": [
+    {
+      "campaign": "HexArray-A",
+      "victim_total_in_findings": 48,
+      "victim_in_crawl": 32,
+      "union_hosts_with_any_entry": 17,
+      "union_pct_of_crawled_victims": 53.1
+    },
+    {
+      "campaign": "HexArray-B",
+      "victim_total_in_findings": 48,
+      "victim_in_crawl": 33,
+      "union_hosts_with_any_entry": 17,
+      "union_pct_of_crawled_victims": 51.5
+    },
+    {
+      "campaign": "HexArray-C",
+      "victim_total_in_findings": 20,
+      "victim_in_crawl": 11,
+      "union_hosts_with_any_entry": 7,
+      "union_pct_of_crawled_victims": 63.6
+    },
+    {
+      "campaign": "GDPRInject",
+      "victim_total_in_findings": 15,
+      "victim_in_crawl": 10,
+      "union_hosts_with_any_entry": 4,
+      "union_pct_of_crawled_victims": 40.0
+    },
+    {
+      "campaign": "SessHijack-A",
+      "victim_total_in_findings": 20,
+      "victim_in_crawl": 7,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "SessHijack-B",
+      "victim_total_in_findings": 0,
+      "victim_in_crawl": 0,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "FadeRedirect",
+      "victim_total_in_findings": 12,
+      "victim_in_crawl": 8,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "MultiC2",
+      "victim_total_in_findings": 32,
+      "victim_in_crawl": 11,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "JSFiretruck",
+      "victim_total_in_findings": 78,
+      "victim_in_crawl": 68,
+      "union_hosts_with_any_entry": 4,
+      "union_pct_of_crawled_victims": 5.9
+    },
+    {
+      "campaign": "MalvertKit",
+      "victim_total_in_findings": 22,
+      "victim_in_crawl": 6,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "TagInject-A",
+      "victim_total_in_findings": 19,
+      "victim_in_crawl": 10,
+      "union_hosts_with_any_entry": 1,
+      "union_pct_of_crawled_victims": 10.0
+    },
+    {
+      "campaign": "TagInject-B",
+      "victim_total_in_findings": 19,
+      "victim_in_crawl": 9,
+      "union_hosts_with_any_entry": 1,
+      "union_pct_of_crawled_victims": 11.1
+    },
+    {
+      "campaign": "CSSInject",
+      "victim_total_in_findings": 0,
+      "victim_in_crawl": 0,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "PolyClickFix",
+      "victim_total_in_findings": 7,
+      "victim_in_crawl": 2,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "CookieLoader",
+      "victim_total_in_findings": 1,
+      "victim_in_crawl": 1,
+      "union_hosts_with_any_entry": 1,
+      "union_pct_of_crawled_victims": 100.0
+    },
+    {
+      "campaign": "HexLoader",
+      "victim_total_in_findings": 2,
+      "victim_in_crawl": 2,
+      "union_hosts_with_any_entry": 1,
+      "union_pct_of_crawled_victims": 50.0
+    },
+    {
+      "campaign": "TDSRedirect",
+      "victim_total_in_findings": 3,
+      "victim_in_crawl": 2,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "WooBackdoor",
+      "victim_total_in_findings": 3,
+      "victim_in_crawl": 2,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    },
+    {
+      "campaign": "OverlayInject",
+      "victim_total_in_findings": 2,
+      "victim_in_crawl": 1,
+      "union_hosts_with_any_entry": 0,
+      "union_pct_of_crawled_victims": 0.0
+    }
+  ]
+}

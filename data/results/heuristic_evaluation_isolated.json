@@ -1,0 +1,592 @@
+{
+  "n_benign": 5000,
+  "n_domains": 2353,
+  "static": {
+    "n_mal": 78,
+    "threshold": 8.0,
+    "recall": 0.9358974358974359,
+    "fpr": 0.2268,
+    "benign_median": 3.5,
+    "benign_p95": 22.0,
+    "mal_median": 16.75,
+    "mal_p25": 14.0,
+    "zero_fp": 7,
+    "under1pct": 18,
+    "rules": [
+      {
+        "rule": "obf_jsfuck",
+        "weight": 5.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "evasion_wp_cookie_check",
+        "weight": 5.0,
+        "fp": 1,
+        "fpr": 0.02,
+        "tp": 7,
+        "tpr": 8.974358974358974
+      },
+      {
+        "rule": "net_multi_c2",
+        "weight": 5.0,
+        "fp": 1,
+        "fpr": 0.02,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "wp_rogue_user",
+        "weight": 5.0,
+        "fp": 11,
+        "fpr": 0.22,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "obf_xor_decrypt",
+        "weight": 4.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 22,
+        "tpr": 28.205128205128204
+      },
+      {
+        "rule": "obf_string_rotation",
+        "weight": 4.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "api_eval_function",
+        "weight": 4.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "evasion_bot_ua_check",
+        "weight": 4.0,
+        "fp": 112,
+        "fpr": 2.2399999999999998,
+        "tp": 11,
+        "tpr": 14.102564102564102
+      },
+      {
+        "rule": "evasion_anti_debug",
+        "weight": 4.0,
+        "fp": 22,
+        "fpr": 0.44,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "net_suspicious_domain",
+        "weight": 4.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 31,
+        "tpr": 39.743589743589745
+      },
+      {
+        "rule": "api_document_write",
+        "weight": 3.5,
+        "fp": 53,
+        "fpr": 1.06,
+        "tp": 3,
+        "tpr": 3.8461538461538463
+      },
+      {
+        "rule": "evasion_session_gate",
+        "weight": 3.5,
+        "fp": 122,
+        "fpr": 2.44,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "dom_css_fade",
+        "weight": 3.5,
+        "fp": 56,
+        "fpr": 1.1199999999999999,
+        "tp": 15,
+        "tpr": 19.230769230769234
+      },
+      {
+        "rule": "obf_0x_naming",
+        "weight": 3.0,
+        "fp": 8,
+        "fpr": 0.16,
+        "tp": 31,
+        "tpr": 39.743589743589745
+      },
+      {
+        "rule": "obf_hex_escapes",
+        "weight": 3.0,
+        "fp": 70,
+        "fpr": 1.4000000000000001,
+        "tp": 3,
+        "tpr": 3.8461538461538463
+      },
+      {
+        "rule": "obf_large_b64_blob",
+        "weight": 3.0,
+        "fp": 35,
+        "fpr": 0.7000000000000001,
+        "tp": 3,
+        "tpr": 3.8461538461538463
+      },
+      {
+        "rule": "api_create_script",
+        "weight": 3.0,
+        "fp": 978,
+        "fpr": 19.56,
+        "tp": 34,
+        "tpr": 43.58974358974359
+      },
+      {
+        "rule": "api_sendbeacon",
+        "weight": 3.0,
+        "fp": 56,
+        "fpr": 1.1199999999999999,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "evasion_wp_path_filter",
+        "weight": 3.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 7,
+        "tpr": 8.974358974358974
+      },
+      {
+        "rule": "dom_hidden_iframe",
+        "weight": 3.0,
+        "fp": 362,
+        "fpr": 7.24,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "net_exfil_fingerprint",
+        "weight": 3.0,
+        "fp": 643,
+        "fpr": 12.86,
+        "tp": 33,
+        "tpr": 42.30769230769231
+      },
+      {
+        "rule": "net_data_param_exfil",
+        "weight": 3.0,
+        "fp": 384,
+        "fpr": 7.68,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "wp_rest_api_abuse",
+        "weight": 3.0,
+        "fp": 12,
+        "fpr": 0.24,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "obf_custom_b64_alphabet",
+        "weight": 2.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "obf_string_reverse",
+        "weight": 2.5,
+        "fp": 10,
+        "fpr": 0.2,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "obf_fromcharcode_loop",
+        "weight": 2.5,
+        "fp": 394,
+        "fpr": 7.88,
+        "tp": 23,
+        "tpr": 29.48717948717949
+      },
+      {
+        "rule": "api_atob",
+        "weight": 2.5,
+        "fp": 7,
+        "fpr": 0.13999999999999999,
+        "tp": 8,
+        "tpr": 10.256410256410255
+      },
+      {
+        "rule": "dom_overlay_inject",
+        "weight": 2.5,
+        "fp": 418,
+        "fpr": 8.36,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "obf_bracket_prop_access",
+        "weight": 2.0,
+        "fp": 2,
+        "fpr": 0.04,
+        "tp": 28,
+        "tpr": 35.8974358974359
+      },
+      {
+        "rule": "obf_parseint_checksum",
+        "weight": 2.0,
+        "fp": 8,
+        "fpr": 0.16,
+        "tp": 28,
+        "tpr": 35.8974358974359
+      },
+      {
+        "rule": "api_cookie_manipulation",
+        "weight": 2.0,
+        "fp": 717,
+        "fpr": 14.34,
+        "tp": 17,
+        "tpr": 21.794871794871796
+      },
+      {
+        "rule": "api_innerhtml_write",
+        "weight": 2.0,
+        "fp": 1042,
+        "fpr": 20.84,
+        "tp": 23,
+        "tpr": 29.48717948717949
+      },
+      {
+        "rule": "evasion_timing_check",
+        "weight": 2.0,
+        "fp": 406,
+        "fpr": 8.12,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "anomaly_single_line",
+        "weight": 2.0,
+        "fp": 1611,
+        "fpr": 32.22,
+        "tp": 64,
+        "tpr": 82.05128205128204
+      },
+      {
+        "rule": "anomaly_high_entropy",
+        "weight": 2.0,
+        "fp": 162,
+        "fpr": 3.2399999999999998,
+        "tp": 24,
+        "tpr": 30.76923076923077
+      },
+      {
+        "rule": "api_insertbefore",
+        "weight": 1.5,
+        "fp": 1281,
+        "fpr": 25.619999999999997,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "anomaly_low_whitespace",
+        "weight": 1.5,
+        "fp": 2413,
+        "fpr": 48.26,
+        "tp": 77,
+        "tpr": 98.71794871794873
+      }
+    ]
+  },
+  "behavioral": {
+    "n_mal": 78,
+    "threshold": 6.0,
+    "recall": 0.6410256410256411,
+    "fpr": 0.0006,
+    "benign_median": 0.0,
+    "benign_p95": 1.5,
+    "mal_median": 7.0,
+    "mal_p25": 0.0,
+    "zero_fp": 26,
+    "under1pct": 30,
+    "rules": [
+      {
+        "rule": "net_known_malicious",
+        "weight": 4.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 33,
+        "tpr": 42.30769230769231
+      },
+      {
+        "rule": "inject_docwrite_iframe",
+        "weight": 4.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "net_xhr_external",
+        "weight": 3.0,
+        "fp": 124,
+        "fpr": 2.48,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "net_fetch_external",
+        "weight": 3.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 11,
+        "tpr": 14.102564102564102
+      },
+      {
+        "rule": "net_beacon",
+        "weight": 3.0,
+        "fp": 59,
+        "fpr": 1.18,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "net_blockchain_rpc",
+        "weight": 3.0,
+        "fp": 1,
+        "fpr": 0.02,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "inject_docwrite_script",
+        "weight": 3.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "inject_docwrite_css_hide",
+        "weight": 3.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "net_xhr_multi_domain",
+        "weight": 2.0,
+        "fp": 2,
+        "fpr": 0.04,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "net_script_src_external",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 21,
+        "tpr": 26.923076923076923
+      },
+      {
+        "rule": "net_script_src_php",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 15,
+        "tpr": 19.230769230769234
+      },
+      {
+        "rule": "net_tds_params",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "inject_docwrite_multiple",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "inject_eval",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 0,
+        "tpr": 0.0
+      },
+      {
+        "rule": "inject_function_constructor",
+        "weight": 2.0,
+        "fp": 2,
+        "fpr": 0.04,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "fp_heavy_prop_read",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "fp_hardware_fingerprint",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 4,
+        "tpr": 5.128205128205128
+      },
+      {
+        "rule": "fp_webgl",
+        "weight": 2.0,
+        "fp": 8,
+        "fpr": 0.16,
+        "tp": 4,
+        "tpr": 5.128205128205128
+      },
+      {
+        "rule": "hook_excessive_listeners",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 6,
+        "tpr": 7.6923076923076925
+      },
+      {
+        "rule": "hook_interaction_hijack",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "hook_ad_network_events",
+        "weight": 2.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "inject_atob_deobfuscation",
+        "weight": 1.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "fp_worker_blob",
+        "weight": 1.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 4,
+        "tpr": 5.128205128205128
+      },
+      {
+        "rule": "hook_nonstandard_defineprop",
+        "weight": 1.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "exfil_cookie_read",
+        "weight": 1.5,
+        "fp": 227,
+        "fpr": 4.54,
+        "tp": 11,
+        "tpr": 14.102564102564102
+      },
+      {
+        "rule": "exfil_cookie_gate",
+        "weight": 1.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "exfil_postmessage",
+        "weight": 1.5,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 5,
+        "tpr": 6.41025641025641
+      },
+      {
+        "rule": "net_suspicious_tld",
+        "weight": 1.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 16,
+        "tpr": 20.51282051282051
+      },
+      {
+        "rule": "fp_useragent_repeated",
+        "weight": 1.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 10,
+        "tpr": 12.82051282051282
+      },
+      {
+        "rule": "hook_excessive_defineprop",
+        "weight": 1.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 2,
+        "tpr": 2.564102564102564
+      },
+      {
+        "rule": "hook_timeout_cascade",
+        "weight": 1.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      },
+      {
+        "rule": "hook_interval_persistent",
+        "weight": 1.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 4,
+        "tpr": 5.128205128205128
+      },
+      {
+        "rule": "hook_visibility_persistence",
+        "weight": 1.0,
+        "fp": 0,
+        "fpr": 0.0,
+        "tp": 1,
+        "tpr": 1.282051282051282
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "signature": "bbf63e0dc102f29d72ccf88bd1b33ca90c436737367f9bd4481b6be229659a83",
+  "type": "EDITED",
+  "distinct_sites": 31,
+  "occurrences": 36,
+  "locations": [
+    {
+      "path": "ba298f04.js",
+      "count": 31
+    }
+  ],
+  "snippet": "eba89bdd34637f0f966d416c44fdab6fa3028feb814045740b7ed210802d6986",
+  "original_paths": [
+    "watchlist_batch_20260203_101428/chunk-09/adailymedia.com_ee615a89afbf/loaded_js/external/external_0005_50e337678fe4.js",
+    "watchlist_batch_20260203_101428/chunk-13/ath.xemgihomnay247.com_7416da9fd818/loaded_js/external/external_0008_50e337678fe4.js",
+    "watchlist_batch_20260203_101428/chunk-14/bacgiang98.com_996d3a278d41/loaded_js/external/external_0005_50e337678fe4.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "ali-post-editor": {
+      "frequency": 30,
+      "versions": [
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "url-shortify": {
+      "frequency": 15,
+      "versions": [
+        "1.8.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.8.6",
+          "cve": "CVE-2025-32134",
+          "title": "URL Shortify <= 1.10.5.1 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-04-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-32134",
+          "affected_range": "* - 1.10.5.1"
+        }
+      ]
+    },
+    "simple-tags": {
+      "frequency": 12,
+      "versions": [
+        "3.28.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-11972",
+          "title": "Tag, Category, and Taxonomy Manager \u2013 AI Autotagger with OpenAI <= 3.40.0 - Authenticated (Editor+) SQL Injection",
+          "published": "2025-11-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11972",
+          "affected_range": "* - 3.40.0"
+        },
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-55710",
+          "title": "Tag, Category, and Taxonomy Manager \u2013 AI Autotagger with OpenAI <= 3.37.2 - Authenticated (Subscriber+) Information Exposure",
+          "published": "2025-08-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-55710",
+          "affected_range": "* - 3.37.2"
+        },
+        {
+          "version": "3.28.1",
+          "cve": "CVE-2025-0627",
+          "title": "WordPress Tag, Category, and Taxonomy Manager \u2013 AI Autotagger <= 3.32.0 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-04-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-0627",
+          "affected_range": "* - 3.32.0"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "visualblogger": {
+      "frequency": 12,
+      "versions": [
+        "20231017",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "enjoymini": {
+      "frequency": 6,
+      "versions": [
+        "20210601",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "belinni": {
+      "frequency": 1,
+      "versions": [
+        "0.5",
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "blogsite": {
+      "frequency": 1,
+      "versions": [
+        "20230701",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

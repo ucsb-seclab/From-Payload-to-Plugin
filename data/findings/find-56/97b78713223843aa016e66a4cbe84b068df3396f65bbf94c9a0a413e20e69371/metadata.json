@@ -1,0 +1,240 @@
+{
+  "signature": "97b78713223843aa016e66a4cbe84b068df3396f65bbf94c9a0a413e20e69371",
+  "type": "NEWLY ADDED",
+  "distinct_sites": 2,
+  "occurrences": 2,
+  "locations": [
+    {
+      "path": "loaded_js/external/external_0001_407c46edfcc2.js",
+      "count": 1
+    },
+    {
+      "path": "loaded_js/external/external_0001_43562805210d.js",
+      "count": 1
+    }
+  ],
+  "snippet": "97b78713223843aa016e66a4cbe84b068df3396f65bbf94c9a0a413e20e69371",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-01/www.etowntumkur.com_55a954e51b81/loaded_js/external/external_0001_407c46edfcc2.js",
+    "watchlist_batch_20260302_001952/chunk-07/www.weiaosport.com_fadc7a7c9ba7/loaded_js/external/external_0001_43562805210d.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "gravityforms": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-12974",
+          "title": "Gravity Forms <= 2.9.21.1 - Unauthenticated Arbitrary File Upload via Legacy Chunked Upload",
+          "published": "2025-11-17 14:26:45",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12974",
+          "affected_range": "* - 2.9.21.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-12352",
+          "title": "Gravity Forms <= 2.9.20 - Unauthenticated Arbitrary File Upload via 'copy_post_image'",
+          "published": "2025-11-06 16:28:27",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12352",
+          "affected_range": "* - 2.9.20"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-13378",
+          "title": "GravityForms 2.9.0.1 - 2.9.1.3 - Unauthenticated Stored Cross-Site Scripting via 'style_settings' parameter",
+          "published": "2025-01-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13378",
+          "affected_range": "2.9.0.1 - 2.9.1.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-13377",
+          "title": "GravityForms <= 2.9.1.3 - Unauthenticated Stored Cross-Site Scripting via 'alt' parameter",
+          "published": "2025-01-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13377",
+          "affected_range": "* - 2.9.1.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-2701",
+          "title": "Gravity Forms <= 2.7.4 - Reflected Cross-Site Scripting",
+          "published": "2023-06-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-2701",
+          "affected_range": "* - 2.7.4"
+        }
+      ]
+    },
+    "js_composer_salient": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    },
+    "mystickymenu": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-7133",
+          "title": "My Sticky Bar <= 2.7.2 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-08-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-7133",
+          "affected_range": "* - 2.7.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4090",
+          "title": "My Sticky Bar (formerly myStickymenu) <= 2.7.1 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-07-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4090",
+          "affected_range": "* - 2.7.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-7048",
+          "title": "My Sticky Bar <= 2.6.6 - Cross-Site Request Forgery to Sensitive Information Exposure",
+          "published": "2024-01-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-7048",
+          "affected_range": "* - 2.6.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-5509",
+          "title": "myStickymenu <= 2.6.4 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Form Lead Deletion",
+          "published": "2023-10-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-5509",
+          "affected_range": "* - 2.6.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24425",
+          "title": "myStickymenu <= 2.5.1 - Authenticated Stored Cross-Site Scripting",
+          "published": "2021-06-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24425",
+          "affected_range": "[*, 2.5.2)"
+        }
+      ]
+    },
+    "ova-events": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-53576",
+          "title": "Ovatheme Events <= 1.2.8 - Unauthenticated Local File Inclusion",
+          "published": "2025-08-20 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-53576",
+          "affected_range": "* - 1.2.8"
+        }
+      ]
+    },
+    "salient-core": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-3812",
+          "title": "Salient Core <= 2.0.7 - Authenticated (Contributor+) Local File Inclusion via Shortcode",
+          "published": "2024-04-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-3812",
+          "affected_range": "* - 2.0.7"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-48748",
+          "title": "Salient Core <= 2.0.2 - Reflected Cross-Site Scripting",
+          "published": "2023-11-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-48748",
+          "affected_range": "* - 2.0.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-48749",
+          "title": "Salient Core <= 2.0.2 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-11-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-48749",
+          "affected_range": "* - 2.0.2"
+        }
+      ]
+    },
+    "salient-portfolio": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    },
+    "wp-event-manager": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-2800",
+          "title": "WP Event Manager <= 3.1.50 - Unauthenticated Stored Cross-Site Scripting via 'organizer_name'",
+          "published": "2025-07-15 17:11:50",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-2800",
+          "affected_range": "* - 3.1.50"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-2799",
+          "title": "WP Event Manager <= 3.1.49 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-06-10 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-2799",
+          "affected_range": "* - 3.1.49"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-48125",
+          "title": "WP Event Manager <= 3.1.51 - Unauthenticated Local File Inclusion",
+          "published": "2025-05-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-48125",
+          "affected_range": "* - 3.1.51"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-32225",
+          "title": "WP Event Manager <= 3.2.0 - Missing Authorization",
+          "published": "2025-04-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-32225",
+          "affected_range": "* - 3.2.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2691",
+          "title": "WP Event Manager \u2013 Events Calendar, Registrations, Sell Tickets with WooCommerce <= 3.1.43 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'events' Shortcode",
+          "published": "2024-07-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2691",
+          "affected_range": "* - 3.1.43"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "salient": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        },
+        {
+          "version": null,
+          "cve": "39a74c20-42a2-4099-8e6c-9989a3ba081d",
+          "title": "Salient < 5.5.53 - DOM Cross-Site Scripting",
+          "published": "2015-06-16 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/39a74c20-42a2-4099-8e6c-9989a3ba081d?source=api-prod",
+          "affected_range": "* - 4.9"
+        }
+      ]
+    }
+  }
+}

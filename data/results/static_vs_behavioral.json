@@ -1,0 +1,87 @@
+[
+  {
+    "campaign": "JSFiretruck",
+    "n": 10,
+    "unique_hashes": 5,
+    "byte_sim": 0.081,
+    "char_sim": 0.081,
+    "behav_jaccard": 0.862,
+    "clusters": [
+      -1,
+      3,
+      4
+    ]
+  },
+  {
+    "campaign": "MalvertKit",
+    "n": 5,
+    "unique_hashes": 1,
+    "byte_sim": null,
+    "char_sim": null,
+    "behav_jaccard": 1.0,
+    "clusters": [
+      1
+    ],
+    "note": "all files identical"
+  },
+  {
+    "campaign": "MultiC2",
+    "n": 6,
+    "unique_hashes": 6,
+    "byte_sim": 0.113,
+    "char_sim": 0.113,
+    "behav_jaccard": 0.257,
+    "clusters": [
+      -1,
+      6
+    ]
+  },
+  {
+    "campaign": "SessHijack-A",
+    "n": 5,
+    "unique_hashes": 1,
+    "byte_sim": null,
+    "char_sim": null,
+    "behav_jaccard": 1.0,
+    "clusters": [
+      1
+    ],
+    "note": "all files identical"
+  },
+  {
+    "campaign": "SessHijack-C",
+    "n": 5,
+    "unique_hashes": 1,
+    "byte_sim": null,
+    "char_sim": null,
+    "behav_jaccard": 0.9400000000000001,
+    "clusters": [
+      5
+    ],
+    "note": "all files identical"
+  },
+  {
+    "campaign": "TagInject-A",
+    "n": 5,
+    "unique_hashes": 1,
+    "byte_sim": null,
+    "char_sim": null,
+    "behav_jaccard": 1.0,
+    "clusters": [
+      0
+    ],
+    "note": "all files identical"
+  },
+  {
+    "campaign": "TagInject-B",
+    "n": 5,
+    "unique_hashes": 1,
+    "byte_sim": null,
+    "char_sim": null,
+    "behav_jaccard": 1.0,
+    "clusters": [
+      0
+    ],
+    "note": "all files identical"
+  }
+]

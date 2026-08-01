@@ -1,0 +1,181 @@
+{
+  "background_source": "/home/ravindu/compweb/notebooks/DiffCMS/diff_results/diff-20260220_035824-watchlist_batch_20260218_193004-watchlist_batch_20260219_210057",
+  "background_stats": {
+    "n_signatures": 2495,
+    "total_site_occurrences": 251390
+  },
+  "background_prevalence_top50": {
+    "contact-form-7": 38.9844,
+    "elementor": 30.5987,
+    "elementor-pro": 20.6794,
+    "woocommerce": 19.4853,
+    "revslider": 19.4805,
+    "js_composer": 12.1998,
+    "fusion-builder": 10.257,
+    "the-events-calendar": 6.8813,
+    "essential-addons-for-elementor-lite": 6.4394,
+    "complianz-gdpr": 6.0026,
+    "fusion-core": 5.5491,
+    "google-site-kit": 5.1398,
+    "cookie-law-info": 5.0193,
+    "sitepress-multilingual-cms": 4.9377,
+    "cookie-notice": 4.7305,
+    "wp-rocket": 4.5698,
+    "google-analytics-for-wordpress": 4.5475,
+    "gravityforms": 4.4147,
+    "LayerSlider": 4.3132,
+    "elementskit-lite": 3.8243,
+    "borlabs-cookie": 3.5789,
+    "gtranslate": 2.7658,
+    "give": 2.5124,
+    "megamenu": 2.5089,
+    "jetpack": 2.4929,
+    "duracelltomi-google-tag-manager": 2.407,
+    "smart-slider-3": 2.1783,
+    "instagram-feed": 2.1715,
+    "jet-elements": 2.1604,
+    "honeypot": 2.1385,
+    "mailchimp-for-wp": 2.1353,
+    "3d-flipbook-dflip-lite": 2.0558,
+    "Ultimate_VC_Addons": 2.0478,
+    "cleantalk-spam-protect": 2.01,
+    "wp-smushit": 1.973,
+    "premium-addons-for-elementor": 1.8712,
+    "page-links-to": 1.8589,
+    "responsive-lightbox": 1.7698,
+    "wp-statistics": 1.7375,
+    "pixelyoursite": 1.6898,
+    "astra-addon": 1.6548,
+    "ocean-extra": 1.615,
+    "wpcf7-redirect": 1.6122,
+    "mailin": 1.6114,
+    "wpforms-lite": 1.5311,
+    "download-manager": 1.5072,
+    "akismet": 1.4921,
+    "pojo-accessibility": 1.4834,
+    "ultimate-member": 1.4149,
+    "js_composer_salient": 1.407
+  },
+  "enrichment_results": [
+    {
+      "plugin": "url-shortify",
+      "n_camps": 4,
+      "bg_pct": 0.15,
+      "med_pct": 41.7,
+      "enrichment": 277.84,
+      "tier": "Tier-1"
+    },
+    {
+      "plugin": "simple-tags",
+      "n_camps": 5,
+      "bg_pct": 0.196,
+      "med_pct": 20.8,
+      "enrichment": 106.45,
+      "tier": "Tier-1"
+    },
+    {
+      "plugin": "ali-post-editor",
+      "n_camps": 3,
+      "bg_pct": 0.01,
+      "med_pct": 62.5,
+      "enrichment": 6043.03,
+      "tier": "Tier-1"
+    },
+    {
+      "plugin": "contact-form-7",
+      "n_camps": 20,
+      "bg_pct": 38.984,
+      "med_pct": 29,
+      "enrichment": 0.74,
+      "tier": "Tier-3"
+    },
+    {
+      "plugin": "elementor",
+      "n_camps": 17,
+      "bg_pct": 30.599,
+      "med_pct": 30,
+      "enrichment": 0.98,
+      "tier": "Tier-3"
+    },
+    {
+      "plugin": "elementor-pro",
+      "n_camps": 12,
+      "bg_pct": 20.679,
+      "med_pct": 27,
+      "enrichment": 1.31,
+      "tier": "Tier-3"
+    },
+    {
+      "plugin": "js_composer",
+      "n_camps": 10,
+      "bg_pct": 12.2,
+      "med_pct": 21.1,
+      "enrichment": 1.73,
+      "tier": "Tier-2"
+    },
+    {
+      "plugin": "woocommerce",
+      "n_camps": 13,
+      "bg_pct": 19.485,
+      "med_pct": 15.0,
+      "enrichment": 0.77,
+      "tier": "Tier-3"
+    },
+    {
+      "plugin": "tablepress",
+      "n_camps": 1,
+      "bg_pct": 0.045,
+      "med_pct": 100,
+      "enrichment": 2205.18,
+      "tier": "Tier-1"
+    },
+    {
+      "plugin": "jet-elements",
+      "n_camps": 5,
+      "bg_pct": 2.16,
+      "med_pct": 4.5,
+      "enrichment": 2.1,
+      "tier": "Tier-2"
+    },
+    {
+      "plugin": "revslider",
+      "n_camps": 7,
+      "bg_pct": 19.48,
+      "med_pct": 18.8,
+      "enrichment": 0.96,
+      "tier": "Tier-3"
+    },
+    {
+      "plugin": "add-to-any",
+      "n_camps": 5,
+      "bg_pct": 1.379,
+      "med_pct": 4.5,
+      "enrichment": 3.3,
+      "tier": "Tier-2"
+    },
+    {
+      "plugin": "yith-wc-wishlist",
+      "n_camps": 1,
+      "bg_pct": 0,
+      "med_pct": 4,
+      "enrichment": "inf",
+      "tier": "Tier-1"
+    },
+    {
+      "plugin": "jet-search",
+      "n_camps": 2,
+      "bg_pct": 0.661,
+      "med_pct": 50,
+      "enrichment": 75.63,
+      "tier": "Tier-1"
+    },
+    {
+      "plugin": "td-composer",
+      "n_camps": 3,
+      "bg_pct": 0.648,
+      "med_pct": 5.3,
+      "enrichment": 8.12,
+      "tier": "Tier-1"
+    }
+  ]
+}

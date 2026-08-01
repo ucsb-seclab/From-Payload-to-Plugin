@@ -1,0 +1,90 @@
+{
+  "signature": "b7d7f196ab4d6fb18e945ebf58c28c01970bc38dd1d26366014d895f316669c6",
+  "type": "EDITED",
+  "distinct_sites": 2,
+  "occurrences": 2,
+  "locations": [
+    {
+      "path": "wp-content/themes/begin/js/tipso.js",
+      "count": 2
+    }
+  ],
+  "snippet": "b7d7f196ab4d6fb18e945ebf58c28c01970bc38dd1d26366014d895f316669c6",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-86/www.gwvpn.net_3431ffa0cc2a/loaded_js/external/external_0007_b42d38daa63e.js",
+    "watchlist_batch_20260302_001952/chunk-36/www.gwvpn.net_802c88e13c89/loaded_js/external/external_0007_b42d38daa63e.js"
+  ],
+  "version_consensus": [
+    {
+      "location": "wp-content/themes/begin/js/tipso.js",
+      "from_version": "1.0.1",
+      "to_version": "1.0.1",
+      "supporting_sites": 2,
+      "total_sites": 2
+    }
+  ],
+  "plugin_info": {
+    "tablepress": {
+      "frequency": 2,
+      "versions": [
+        "1.9"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.9",
+          "cve": "CVE-2025-12324",
+          "title": "TablePress \u2013 Tables in WordPress made easy <= 3.2.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode Attributes",
+          "published": "2025-11-03 14:02:33",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12324",
+          "affected_range": "* - 3.2.4"
+        },
+        {
+          "version": "1.9",
+          "cve": "CVE-2025-9500",
+          "title": "TablePress <= 3.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via shortcode_debug Parameter",
+          "published": "2025-08-29 16:24:26",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-9500",
+          "affected_range": "* - 3.2"
+        },
+        {
+          "version": "1.9",
+          "cve": "CVE-2025-5096",
+          "title": "TablePress <= 3.1.2 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting via Multiple Parameters",
+          "published": "2025-05-22 19:56:52",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5096",
+          "affected_range": "* - 3.1.2"
+        },
+        {
+          "version": "1.9",
+          "cve": "CVE-2025-2685",
+          "title": "TablePress \u2013 Tables in WordPress made easy <= 3.0.4 - Authenticated (Author+) Stored Cross-Site Scripting",
+          "published": "2025-03-26 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-2685",
+          "affected_range": "* - 3.0.4"
+        },
+        {
+          "version": "1.9",
+          "cve": "CVE-2024-9595",
+          "title": "TablePress <= 2.4.2 - Authenticated (Author+) Stored Cross-Site Scripting",
+          "published": "2024-10-11 20:34:39",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-9595",
+          "affected_range": "* - 2.4.2"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "begin": {
+      "frequency": 2,
+      "versions": [
+        "0.1.9",
+        "1.0.1",
+        "1.10.1",
+        "1.6.0",
+        "2.2.1",
+        "2017.07.26"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

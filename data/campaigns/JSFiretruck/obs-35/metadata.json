@@ -1,0 +1,134 @@
+{
+  "signature": "b999b46ea66f05ae7f4261f8d474cb0e3ad48ff7e5a8362f73366f59aa2fe6e0",
+  "type": "EDITED",
+  "distinct_sites": 5,
+  "occurrences": 5,
+  "locations": [
+    {
+      "path": "_/static/js/ad.js",
+      "count": 5
+    }
+  ],
+  "snippet": "6836e2418db335b53455865a139588f520b1839b72f70703508d120f55309328",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-06/www.417760.com_a6502cda2ac1/loaded_js/external/external_0001_eba4a4bec7b1.js",
+    "watchlist_batch_20260302_001952/chunk-00/www.844201.com_05f20f2957e5/loaded_js/external/external_0001_2b191fb51bb6.js",
+    "watchlist_batch_20260302_001952/chunk-06/www.844201.com_a01b992d3561/loaded_js/external/external_0001_2b191fb51bb6.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "elementor": {
+      "frequency": 2,
+      "versions": [
+        "3.3.1",
+        "4.0.2",
+        "4.8.1",
+        "5.3.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.3.1",
+          "cve": "CVE-2025-8081",
+          "title": "Elementor <= 3.30.2 - Authenticated (Administrator+) Arbitrary File Read via Image Import",
+          "published": "2025-08-11 17:08:06",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-8081",
+          "affected_range": "* - 3.30.2"
+        },
+        {
+          "version": "3.3.1",
+          "cve": "CVE-2025-4566",
+          "title": "Elementor <= 3.30.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via Text Path Widget",
+          "published": "2025-07-28 16:22:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-4566",
+          "affected_range": "* - 3.30.2"
+        },
+        {
+          "version": "3.3.1",
+          "cve": "CVE-2025-3075",
+          "title": "Elementor <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-07-28 16:22:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3075",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "3.3.1",
+          "cve": "CVE-2024-50555",
+          "title": "Elementor Website Builder <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-06-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-50555",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "3.3.1",
+          "cve": "CVE-2024-54444",
+          "title": "Elementor Website Builder <= 3.25.10 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-02-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-54444",
+          "affected_range": "* - 3.25.10"
+        }
+      ]
+    },
+    "elementor-pro": {
+      "frequency": 2,
+      "versions": [
+        "3.2.2"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.2.2",
+          "cve": "CVE-2024-50555",
+          "title": "Elementor Website Builder <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-06-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-50555",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "3.2.2",
+          "cve": "CVE-2025-3076",
+          "title": "Elementor Pro <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-06-09 16:22:07",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3076",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "3.2.2",
+          "cve": "CVE-2024-8494",
+          "title": "Elementor Website Builder Pro \u2013 More than Just a Page Builder <= 3.25.10 - Authenticated (Contributor+) Sensitive Information Exposure via Shortcode",
+          "published": "2025-01-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8494",
+          "affected_range": "* - 3.25.10"
+        },
+        {
+          "version": "3.2.2",
+          "cve": "CVE-2024-35656",
+          "title": "Elementor Pro <= 3.21.2 - Reflected Cross-Site Scripting",
+          "published": "2024-06-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-35656",
+          "affected_range": "* - 3.21.2"
+        },
+        {
+          "version": "3.2.2",
+          "cve": "CVE-2024-4107",
+          "title": "Elementor Website Builder Pro <= 3.21.0 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting",
+          "published": "2024-05-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4107",
+          "affected_range": "* - 3.21.0"
+        }
+      ]
+    },
+    "gravatar-hovercards": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    }
+  },
+  "theme_info": {
+    "porton-biopharma": {
+      "frequency": 1,
+      "versions": [
+        "2.1006"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}

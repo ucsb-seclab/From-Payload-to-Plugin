@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+./tmp/
+./temp/
+*.log
+clean.py
+data.csv
+data/

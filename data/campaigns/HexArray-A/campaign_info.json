@@ -1,0 +1,66 @@
+{
+  "campaign": "HexArray-A",
+  "family": "Ad Injection",
+  "observations": 2,
+  "finding_ids": [
+    0,
+    27
+  ],
+  "total_sites": 52,
+  "observations_detail": [
+    {
+      "finding_id": 0,
+      "signature": "70c8ece14056b72b",
+      "sites": 26,
+      "type": "EDITED"
+    },
+    {
+      "finding_id": 27,
+      "signature": "70c8ece14056b72b",
+      "sites": 26,
+      "type": "EDITED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "ali-post-editor",
+      "versions": [
+        "6.9"
+      ],
+      "frequency": 26,
+      "cves": 0
+    },
+    {
+      "slug": "url-shortify",
+      "versions": [
+        "1.8.6"
+      ],
+      "frequency": 20,
+      "cves": 1
+    },
+    {
+      "slug": "simple-tags",
+      "versions": [
+        "3.28.1"
+      ],
+      "frequency": 10,
+      "cves": 3
+    },
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "6.0"
+      ],
+      "frequency": 1,
+      "cves": 1
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "9.3.5"
+      ],
+      "frequency": 1,
+      "cves": 2
+    }
+  ]
+}

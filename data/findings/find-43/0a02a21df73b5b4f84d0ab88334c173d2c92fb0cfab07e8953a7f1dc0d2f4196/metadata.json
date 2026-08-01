@@ -1,0 +1,284 @@
+{
+  "signature": "0a02a21df73b5b4f84d0ab88334c173d2c92fb0cfab07e8953a7f1dc0d2f4196",
+  "type": "EDITED",
+  "distinct_sites": 10,
+  "occurrences": 10,
+  "locations": [
+    {
+      "path": "_/static/js/ad.js",
+      "count": 10
+    }
+  ],
+  "snippet": "c6420a55acd1efdda6800402e458b717dca90dc29e66fff193670a7a3f54367a",
+  "original_paths": [
+    "watchlist_batch_20260302_001952/chunk-00/www.ajh-menuiseries.com_27ff4d451da0/loaded_js/external/external_0001_ee858e568055.js",
+    "watchlist_batch_20260302_001952/chunk-01/www.centropaseodegracia.com_24e5b718df12/loaded_js/external/external_0001_e35731ec4dcb.js",
+    "watchlist_batch_20260302_001952/chunk-06/www.centropaseodegracia.com_a98836756aac/loaded_js/external/external_0001_e35731ec4dcb.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "accordion-blocks": {
+      "frequency": 2,
+      "versions": [
+        "1.5.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "mai-theme-engine": {
+      "frequency": 1,
+      "versions": [
+        "1.13.1",
+        "1.2.0",
+        "3.0.2"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "nextend-smart-slider3-pro": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    },
+    "simple-lightbox": {
+      "frequency": 1,
+      "versions": [
+        "2.9.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.9.3",
+          "cve": "CVE-2025-3516",
+          "title": "Simple Lightbox <= 2.9.3 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-04-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3516",
+          "affected_range": "* - 2.9.3"
+        }
+      ]
+    },
+    "wp-rocket": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2017-11658",
+          "title": "WP Rocket <= 2.10.3 - Local File Inclusion",
+          "published": "2017-06-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2017-11658",
+          "affected_range": "[*, 2.10.4)"
+        }
+      ]
+    },
+    "contact-form-7": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4704",
+          "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+          "affected_range": "* - 5.9.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2242",
+          "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+          "published": "2024-03-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-6449",
+          "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+          "published": "2023-11-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+          "affected_range": "* - 5.8.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2020-35489",
+          "title": "Contact Form 7 <= 5.3.1 - Arbitrary File Upload via Bypass",
+          "published": "2020-12-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-35489",
+          "affected_range": "[*, 5.3.2)"
+        }
+      ]
+    },
+    "js_composer_theme": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    },
+    "jupiter-donut": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": []
+    },
+    "LayerSlider": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-4575",
+          "title": "LayerSlider 7.11.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via ls_search_form Shortcode",
+          "published": "2024-05-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4575",
+          "affected_range": "7.11.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2879",
+          "title": "LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection",
+          "published": "2024-04-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2879",
+          "affected_range": "7.9.11 - 7.10.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-47785",
+          "title": "LayerSlider <= 7.7.9 - Cross-Site Request Forgery",
+          "published": "2023-11-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-47785",
+          "affected_range": "* - 7.7.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-47786",
+          "title": "LayerSlider <= 7.7.9 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-11-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-47786",
+          "affected_range": "* - 7.7.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-1153",
+          "title": "LayerSlider <= 7.1.1 - Admin+ Stored Cross-Site Scripting",
+          "published": "2022-04-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-1153",
+          "affected_range": "* - 7.1.1"
+        }
+      ]
+    },
+    "revslider": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-10249",
+          "title": "Slider Revolution <= 6.7.37 - Missing Authorization to Authenticated (Contributor+) Arbitrary File Read",
+          "published": "2025-10-08 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10249",
+          "affected_range": "* - 6.7.37"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-9217",
+          "title": "Slider Revolution <= 6.7.36 - Authenticated (Contributor+) Arbitrary File Read via 'used_svg' and 'used_images'",
+          "published": "2025-08-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-9217",
+          "affected_range": "* - 6.7.36"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-8107",
+          "title": "Slider Revolution <= 6.7.18 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Upload",
+          "published": "2024-09-30 18:27:40",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8107",
+          "affected_range": "* - 6.7.18"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-37449",
+          "title": "Slider Revolution <= 6.7.13 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2024-06-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37449",
+          "affected_range": "* - 6.7.13"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4581",
+          "title": "Slider Revolution <= 6.7.11 - Authenticated (Author+) Stored Cross-Site Scripting via Add Layer class, id, and title Attributes",
+          "published": "2024-06-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4581",
+          "affected_range": "* - 6.7.10"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "\u7c73\u535a\u4f53\u80b2_Global_2021": {
+      "frequency": 2,
+      "versions": [
+        "6.7.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "genesis": {
+      "frequency": 1,
+      "versions": [
+        "1.7.10",
+        "3.3.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.7.10",
+          "cve": "CVE-2025-10737",
+          "title": "Open Source Genesis Framework <= 3.6.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via Multiple Shortcodes",
+          "published": "2025-10-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10737",
+          "affected_range": "* - 3.6.0"
+        },
+        {
+          "version": "3.3.3",
+          "cve": "CVE-2025-10737",
+          "title": "Open Source Genesis Framework <= 3.6.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via Multiple Shortcodes",
+          "published": "2025-10-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10737",
+          "affected_range": "* - 3.6.0"
+        }
+      ]
+    },
+    "jupiter": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2022-1654",
+          "title": "Jupiter Theme <= 6.10.1 and JupiterX Core Plugin <= 2.0.7 - Authenticated Privilege Escalation",
+          "published": "2022-05-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-1654",
+          "affected_range": "* - 6.10.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-1658",
+          "title": "Jupiter Theme <= 6.10.1 - Authenticated Arbitrary Plugin Deletion",
+          "published": "2022-05-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-1658",
+          "affected_range": "* - 6.10.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-1657",
+          "title": "JupiterX Theme <= 2.0.6 and Jupiter Theme <= 6.10.1 - Authenticated Path Traversal and Local File Inclusion",
+          "published": "2022-05-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-1657",
+          "affected_range": "* - 6.10.1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+websockets
+requests
+httpx
+python-dotenv
+pytest
+redis
+zstandard

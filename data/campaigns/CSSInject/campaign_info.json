@@ -1,0 +1,134 @@
+{
+  "campaign": "CSSInject",
+  "family": "CSS Injection",
+  "observations": 1,
+  "finding_ids": [
+    31
+  ],
+  "total_sites": 28,
+  "observations_detail": [
+    {
+      "finding_id": 31,
+      "signature": "8776e61eb490f7db",
+      "sites": 28,
+      "type": "NEWLY ADDED"
+    }
+  ],
+  "top_components": [
+    {
+      "slug": "elementor",
+      "versions": [
+        "3.35.0",
+        "3.21.5",
+        "3.34.4",
+        "8.4.5",
+        "3.25.9",
+        "3.32.5",
+        "3.32.4",
+        "3.31.2",
+        "1.0",
+        "3.10.2",
+        "3.19.2",
+        "4.0.2"
+      ],
+      "frequency": 12,
+      "cves": 5
+    },
+    {
+      "slug": "elementor-pro",
+      "versions": [
+        "3.32.3",
+        "3.34.4",
+        "3.16.2",
+        "3.21.2",
+        "3.27.4",
+        "1.0.1",
+        "3.22.0",
+        "1.2.1",
+        "3.32.2",
+        "3.25.4",
+        "3.7.4"
+      ],
+      "frequency": 10,
+      "cves": 5
+    },
+    {
+      "slug": "contact-form-7",
+      "versions": [
+        "1765454924",
+        "6.1.4",
+        "6.1.1",
+        "5.9"
+      ],
+      "frequency": 7,
+      "cves": 3
+    },
+    {
+      "slug": "woocommerce",
+      "versions": [
+        "10.4.3",
+        "9.4.2"
+      ],
+      "frequency": 4,
+      "cves": 3
+    },
+    {
+      "slug": "bdthemes-prime-slider-lite",
+      "versions": [
+        "3.12.0",
+        "4.1.4",
+        "3.21.7",
+        "3.14.5",
+        "3.17.0"
+      ],
+      "frequency": 3,
+      "cves": 5
+    },
+    {
+      "slug": "sticky-header-effects-for-elementor",
+      "versions": [
+        "1.7.8",
+        "2.1.7"
+      ],
+      "frequency": 3,
+      "cves": 1
+    },
+    {
+      "slug": "qi-addons-for-elementor",
+      "versions": [
+        "1.9.5",
+        "1",
+        "6.9",
+        "8.4.5"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "wpforms-lite",
+      "versions": [
+        "1.8.6.4"
+      ],
+      "frequency": 2,
+      "cves": 5
+    },
+    {
+      "slug": "click-to-chat-for-whatsapp",
+      "versions": [
+        "4.36",
+        "4.27"
+      ],
+      "frequency": 2,
+      "cves": 3
+    },
+    {
+      "slug": "happy-elementor-addons",
+      "versions": [
+        "3.7.2",
+        "3.10.8"
+      ],
+      "frequency": 2,
+      "cves": 5
+    }
+  ]
+}

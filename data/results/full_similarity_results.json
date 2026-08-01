@@ -1,0 +1,98 @@
+[
+  {
+    "campaign": "HexArray-A",
+    "n": 6,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "HexArray-B",
+    "n": 6,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "HexArray-C",
+    "n": 5,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "JSFiretruck",
+    "n": 10,
+    "unique": 5,
+    "byte_sim": 0.081,
+    "ast_sim": 1.0,
+    "behav_jaccard": 0.862
+  },
+  {
+    "campaign": "MalvertKit",
+    "n": 5,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "MultiC2",
+    "n": 6,
+    "unique": 6,
+    "byte_sim": 0.113,
+    "ast_sim": 0.181,
+    "behav_jaccard": 0.257
+  },
+  {
+    "campaign": "SessHijack-A",
+    "n": 5,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "SessHijack-C",
+    "n": 5,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 0.94
+  },
+  {
+    "campaign": "TagInject-A",
+    "n": 5,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "TagInject-B",
+    "n": 5,
+    "unique": 1,
+    "byte_sim": 1.0,
+    "ast_sim": 1.0,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "PolyClickFix",
+    "n": 3,
+    "unique": 3,
+    "byte_sim": 0.0,
+    "ast_sim": 0.932,
+    "behav_jaccard": 1.0
+  },
+  {
+    "campaign": "YWXILoader",
+    "n": 33,
+    "unique": 33,
+    "byte_sim": 0.409,
+    "ast_sim": 0.513,
+    "behav_jaccard": 0.823
+  }
+]

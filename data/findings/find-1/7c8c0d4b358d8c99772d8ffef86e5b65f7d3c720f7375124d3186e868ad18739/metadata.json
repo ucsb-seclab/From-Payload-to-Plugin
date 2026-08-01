@@ -1,0 +1,2690 @@
+{
+  "signature": "7c8c0d4b358d8c99772d8ffef86e5b65f7d3c720f7375124d3186e868ad18739",
+  "type": "EDITED",
+  "distinct_sites": 22,
+  "occurrences": 22,
+  "locations": [
+    {
+      "path": "zzx",
+      "count": 22
+    }
+  ],
+  "snippet": "31e0b3fcdc8e659d60a032eaecb01be050083278c3207e259c16230e58c92321",
+  "original_paths": [
+    "watchlist_batch_20251228_100848/chunk-11/alphametalcraft.com_9d4497c0253c/loaded_js/external/external_0000_d0e92cbe6f0f.js",
+    "watchlist_batch_20251228_100848/chunk-43/guidebookforjustfinancing.com_24589831d5b7/loaded_js/external/external_0006_03d683adbddb.js",
+    "watchlist_batch_20251228_100848/chunk-43/hassangraphix.com_4db1f0acfc4b/loaded_js/external/external_0002_1f16e70df0eb.js"
+  ],
+  "version_consensus": null,
+  "plugin_info": {
+    "contact-form-7": {
+      "frequency": 11,
+      "versions": [
+        "4.9",
+        "5.1.1",
+        "5.5.6",
+        "5.7.7",
+        "5.8.4",
+        "6.0.4",
+        "6.1.1",
+        "6.1.4"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "4.9",
+          "cve": "CVE-2025-3247",
+          "title": "Contact Form 7 <= 6.0.5 - Order Replay Vulnerability",
+          "published": "2025-04-15 16:56:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3247",
+          "affected_range": "* - 6.0.5"
+        },
+        {
+          "version": "4.9",
+          "cve": "CVE-2024-4704",
+          "title": "Contact Form 7 <= 5.9.4 - Unauthenticated Open Redirect",
+          "published": "2024-06-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4704",
+          "affected_range": "* - 5.9.4"
+        },
+        {
+          "version": "4.9",
+          "cve": "CVE-2024-2242",
+          "title": "Contact Form 7 <= 5.9 - Reflected Cross-Site Scripting",
+          "published": "2024-03-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2242",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": "4.9",
+          "cve": "CVE-2023-6449",
+          "title": "Contact Form 7 <= 5.8.3 - Authenticated (Editor+) Arbitrary File Upload",
+          "published": "2023-11-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6449",
+          "affected_range": "* - 5.8.3"
+        },
+        {
+          "version": "4.9",
+          "cve": "CVE-2020-35489",
+          "title": "Contact Form 7 <= 5.3.1 - Arbitrary File Upload via Bypass",
+          "published": "2020-12-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-35489",
+          "affected_range": "[*, 5.3.2)"
+        }
+      ]
+    },
+    "elementor": {
+      "frequency": 10,
+      "versions": [
+        "0.2.1",
+        "2.9.14",
+        "3.16.4",
+        "3.30.3",
+        "3.31.2",
+        "3.31.5",
+        "3.33.1",
+        "3.33.4",
+        "3.34.0",
+        "3.5.6",
+        "4.0.2",
+        "4.7.6",
+        "5.3.6",
+        "6.5.4",
+        "8.4.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "0.2.1",
+          "cve": "CVE-2025-8081",
+          "title": "Elementor <= 3.30.2 - Authenticated (Administrator+) Arbitrary File Read via Image Import",
+          "published": "2025-08-11 17:08:06",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-8081",
+          "affected_range": "* - 3.30.2"
+        },
+        {
+          "version": "0.2.1",
+          "cve": "CVE-2025-4566",
+          "title": "Elementor <= 3.30.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via Text Path Widget",
+          "published": "2025-07-28 16:22:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-4566",
+          "affected_range": "* - 3.30.2"
+        },
+        {
+          "version": "0.2.1",
+          "cve": "CVE-2025-3075",
+          "title": "Elementor <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-07-28 16:22:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3075",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "0.2.1",
+          "cve": "CVE-2024-50555",
+          "title": "Elementor Website Builder <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-06-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-50555",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "0.2.1",
+          "cve": "CVE-2024-54444",
+          "title": "Elementor Website Builder <= 3.25.10 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-02-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-54444",
+          "affected_range": "* - 3.25.10"
+        }
+      ]
+    },
+    "woocommerce": {
+      "frequency": 8,
+      "versions": [
+        "10.3.6",
+        "10.4.2",
+        "10.4.3",
+        "2.1.4",
+        "2.70",
+        "3.1.6",
+        "3.5.10",
+        "6.2.2",
+        "9.7.2"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.1.4",
+          "cve": "CVE-2025-49042",
+          "title": "WooCommerce <= 10.0.2 - Authenticated (Shop manager+) Stored Cross-Site Scripting",
+          "published": "2025-10-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-49042",
+          "affected_range": "* - 10.0.2"
+        },
+        {
+          "version": "2.1.4",
+          "cve": "CVE-2025-5062",
+          "title": "WooCommerce <= 9.4.2 - PostMessage-Based Cross-Site Scripting",
+          "published": "2025-05-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5062",
+          "affected_range": "* - 9.3.2"
+        },
+        {
+          "version": "2.1.4",
+          "cve": "CVE-2025-26762",
+          "title": "WooCommerce <= 9.7.0 - Authenticated (Shop Manager+) Stored Cross-Site Scripting",
+          "published": "2025-03-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-26762",
+          "affected_range": "* - 9.7.0"
+        },
+        {
+          "version": "2.1.4",
+          "cve": "CVE-2024-9944",
+          "title": "WooCommerce <= 9.0.2 - Unauthenticated HTML Injection",
+          "published": "2024-10-14 17:07:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-9944",
+          "affected_range": "* - 9.0.2"
+        },
+        {
+          "version": "2.1.4",
+          "cve": "CVE-2024-39666",
+          "title": "WooCommerce <= 9.1.2 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2024-08-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-39666",
+          "affected_range": "* - 9.1.2"
+        }
+      ]
+    },
+    "elementor-pro": {
+      "frequency": 6,
+      "versions": [
+        "1.0.1",
+        "1.2.1",
+        "3.26.2",
+        "3.28.3",
+        "3.30.1",
+        "3.33.1",
+        "3.33.2",
+        "3.4.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.0.1",
+          "cve": "CVE-2024-50555",
+          "title": "Elementor Website Builder <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-06-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-50555",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "1.0.1",
+          "cve": "CVE-2025-3076",
+          "title": "Elementor Pro <= 3.29.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-06-09 16:22:07",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3076",
+          "affected_range": "* - 3.29.0"
+        },
+        {
+          "version": "1.0.1",
+          "cve": "CVE-2024-8494",
+          "title": "Elementor Website Builder Pro \u2013 More than Just a Page Builder <= 3.25.10 - Authenticated (Contributor+) Sensitive Information Exposure via Shortcode",
+          "published": "2025-01-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8494",
+          "affected_range": "* - 3.25.10"
+        },
+        {
+          "version": "1.0.1",
+          "cve": "CVE-2024-35656",
+          "title": "Elementor Pro <= 3.21.2 - Reflected Cross-Site Scripting",
+          "published": "2024-06-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-35656",
+          "affected_range": "* - 3.21.2"
+        },
+        {
+          "version": "1.0.1",
+          "cve": "CVE-2024-4107",
+          "title": "Elementor Website Builder Pro <= 3.21.0 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting",
+          "published": "2024-05-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4107",
+          "affected_range": "* - 3.21.0"
+        }
+      ]
+    },
+    "revslider": {
+      "frequency": 5,
+      "versions": [
+        "5.4.8",
+        "6.5.12",
+        "6.6.16",
+        "6.7.23",
+        "6.7.37"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "5.4.8",
+          "cve": "CVE-2025-10249",
+          "title": "Slider Revolution <= 6.7.37 - Missing Authorization to Authenticated (Contributor+) Arbitrary File Read",
+          "published": "2025-10-08 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10249",
+          "affected_range": "* - 6.7.37"
+        },
+        {
+          "version": "5.4.8",
+          "cve": "CVE-2025-9217",
+          "title": "Slider Revolution <= 6.7.36 - Authenticated (Contributor+) Arbitrary File Read via 'used_svg' and 'used_images'",
+          "published": "2025-08-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-9217",
+          "affected_range": "* - 6.7.36"
+        },
+        {
+          "version": "5.4.8",
+          "cve": "CVE-2024-8107",
+          "title": "Slider Revolution <= 6.7.18 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Upload",
+          "published": "2024-09-30 18:27:40",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8107",
+          "affected_range": "* - 6.7.18"
+        },
+        {
+          "version": "5.4.8",
+          "cve": "CVE-2024-37449",
+          "title": "Slider Revolution <= 6.7.13 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2024-06-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37449",
+          "affected_range": "* - 6.7.13"
+        },
+        {
+          "version": "5.4.8",
+          "cve": "CVE-2024-4581",
+          "title": "Slider Revolution <= 6.7.11 - Authenticated (Author+) Stored Cross-Site Scripting via Add Layer class, id, and title Attributes",
+          "published": "2024-06-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4581",
+          "affected_range": "* - 6.7.10"
+        }
+      ]
+    },
+    "js_composer": {
+      "frequency": 4,
+      "versions": [
+        "6.13.0",
+        "6.9.0",
+        "7.3",
+        "8.0.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "6.13.0",
+          "cve": "CVE-2025-10006",
+          "title": "WPBakery Page Builder <= 8.6 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-10-17 18:22:34",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10006",
+          "affected_range": "* - 8.6"
+        },
+        {
+          "version": "6.13.0",
+          "cve": "CVE-2025-11161",
+          "title": "WPBakery Page Builder <= 8.6.1 - Stored Cross-Site Scripting via vc_custom_heading Shortcode",
+          "published": "2025-10-14 17:32:20",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11161",
+          "affected_range": "* - 8.6.1"
+        },
+        {
+          "version": "6.13.0",
+          "cve": "CVE-2025-11160",
+          "title": "WPBakery Page Builder <= 8.6.1 - Stored Cross-Site Scripting via Custom JS Module",
+          "published": "2025-10-14 17:29:05",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11160",
+          "affected_range": "* - 8.6.1"
+        },
+        {
+          "version": "6.13.0",
+          "cve": "CVE-2025-7502",
+          "title": "WPBakery Page Builder for WordPress <= 8.5 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-08-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-7502",
+          "affected_range": "* - 8.5"
+        },
+        {
+          "version": "6.13.0",
+          "cve": "CVE-2025-4968",
+          "title": "WPBakery Page Builder <= 8.4.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Multiple Page Builder Elements",
+          "published": "2025-07-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-4968",
+          "affected_range": "* - 8.4.1"
+        }
+      ]
+    },
+    "essential-addons-for-elementor-lite": {
+      "frequency": 3,
+      "versions": [
+        "6.2.1",
+        "6.3.0",
+        "6.5.4"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "6.2.1",
+          "cve": "CVE-2025-64352",
+          "title": "Essential Addons for Elementor <= 6.2.4 - Missing Authorization",
+          "published": "2025-09-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-64352",
+          "affected_range": "* - 6.2.4"
+        },
+        {
+          "version": "6.2.1",
+          "cve": "CVE-2025-8451",
+          "title": "Essential Addons for Elementor \u2013 Popular Elementor Templates and Widgets <= 6.2.2 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting via 'data-gallery-items'",
+          "published": "2025-08-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-8451",
+          "affected_range": "* - 6.2.2"
+        }
+      ]
+    },
+    "cookie-notice": {
+      "frequency": 2,
+      "versions": [
+        "1.2.45",
+        "2.4.8"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.2.45",
+          "cve": "CVE-2025-11186",
+          "title": "Cookie Notice & Compliance for GDPR / CCPA <= 2.5.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2025-11-21 16:28:14",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11186",
+          "affected_range": "* - 2.5.8"
+        },
+        {
+          "version": "1.2.45",
+          "cve": "CVE-2022-3399",
+          "title": "Cookie Notice & Compliance for GDPR / CCPA <= 2.4.17.1 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-08-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-3399",
+          "affected_range": "* - 2.4.17.1"
+        },
+        {
+          "version": "1.2.45",
+          "cve": "CVE-2023-0823",
+          "title": "Cookie Notice & Compliance for GDPR / CCPA <= 2.4.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'cookies_revoke_shortcode' Shortcode",
+          "published": "2023-03-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-0823",
+          "affected_range": "* - 2.4.6"
+        },
+        {
+          "version": "1.2.45",
+          "cve": "CVE-2023-24400",
+          "title": "Cookie Notice & Compliance for GDPR / CCPA <= 2.4.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'cookies_policy_link' Shortcodes",
+          "published": "2023-03-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-24400",
+          "affected_range": "* - 2.4.6"
+        },
+        {
+          "version": "1.2.45",
+          "cve": "CVE-2021-24569",
+          "title": "Cookie Notice & Compliance for GDPR / CCPA <= 2.1.1 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2021-08-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24569",
+          "affected_range": "[*, 2.1.2)"
+        }
+      ]
+    },
+    "google-site-kit": {
+      "frequency": 2,
+      "versions": [
+        "56777",
+        "7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2020-8934",
+          "title": "Site Kit by Google <= 1.7.1 - Sensitive Information Disclosure",
+          "published": "2020-05-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-8934",
+          "affected_range": "* - 1.7.1"
+        }
+      ]
+    },
+    "logo-showcase-with-slick-slider": {
+      "frequency": 1,
+      "versions": [
+        "3.3.4"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "* - 3.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-4974",
+          "title": "Freemius SDK <= 2.4.2 - Missing Authorization Checks",
+          "published": "2022-03-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-4974",
+          "affected_range": "[*, 2.0.3)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24913",
+          "title": "Logo Showcase with Slick Slider <= 2.0 - Cross-Site Request Forgery",
+          "published": "2022-01-31 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24913",
+          "affected_range": "[*, 2.0.1)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24730",
+          "title": "Logo Showcase with Slick Slider \u2013 Logo Carousel, Logo Slider & Logo Grid <= 1.2.4 - Cross-Site Request Forgery",
+          "published": "2021-10-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24730",
+          "affected_range": "[*, 1.2.5)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24729",
+          "title": "Logo Showcase with Slick Slider \u2013 Logo Carousel, Logo Slider & Logo Grid <= 1.2.3 - Stored Cross-Site Scripting",
+          "published": "2021-10-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24729",
+          "affected_range": "[*, 1.2.4)"
+        }
+      ]
+    },
+    "super-progressive-web-apps": {
+      "frequency": 1,
+      "versions": [
+        "2.2.13"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.2.13",
+          "cve": "CVE-2023-48277",
+          "title": "Super Progressive Web Apps <= 2.2.21 - Missing Authorization",
+          "published": "2023-11-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-48277",
+          "affected_range": "* - 2.2.21"
+        }
+      ]
+    },
+    "wp-bottom-menu": {
+      "frequency": 1,
+      "versions": [
+        "2.2.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "bdthemes-element-pack-lite": {
+      "frequency": 1,
+      "versions": [
+        "3.21.7",
+        "8.3.12"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.21.7",
+          "cve": "CVE-2025-13196",
+          "title": "Element Pack Addons for Elementor <= 8.3.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via Open Street Map widget",
+          "published": "2025-11-17 20:54:12",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-13196",
+          "affected_range": "* - 8.3.4"
+        },
+        {
+          "version": "3.21.7",
+          "cve": "CVE-2025-11536",
+          "title": "Element Pack Addons for Elementor <= 8.2.5 - Authenticated (Subscriber+) Blind Server-Side Request Forgery",
+          "published": "2025-10-20 08:59:46",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11536",
+          "affected_range": "* - 8.2.5"
+        },
+        {
+          "version": "3.21.7",
+          "cve": "CVE-2025-8100",
+          "title": "Element Pack Elementor Addons and Templates <= 8.1.5 - Authenticated (Contributor+) Stored Cross-Site Scripting via Open Street Map Widget Marker Content",
+          "published": "2025-08-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-8100",
+          "affected_range": "* - 8.1.5"
+        },
+        {
+          "version": "3.21.7",
+          "cve": "CVE-2025-5292",
+          "title": "Element Pack Addons for Elementor \u2013 Best Elementor addons with Ready Templates, Blocks, Widgets and WooCommerce Builder <= 5.11.2 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting",
+          "published": "2025-05-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5292",
+          "affected_range": "* - 5.11.2"
+        },
+        {
+          "version": "3.21.7",
+          "cve": "CVE-2025-1458",
+          "title": "Element Pack Elementor Addons (Header Footer, Template Library, Dynamic Grid, Carousel and Remote Arrows) <= 5.10.29 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-04-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1458",
+          "affected_range": "* - 5.10.29"
+        }
+      ]
+    },
+    "chaty": {
+      "frequency": 1,
+      "versions": [
+        "3.5.11625372756"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-1450",
+          "title": "Floating Chat Widget: Contact Chat Icons, Telegram Chat, Line Messenger, WeChat, Email, SMS, Call Button, WhatsApp \u2013 Chaty <= 3.3.5 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting",
+          "published": "2025-02-26 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1450",
+          "affected_range": "* - 3.3.5"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4149",
+          "title": "Floating Chat Widget: Contact Chat Icons, WhatsApp, Telegram Chat, Line Messenger, WeChat, Email, SMS, Call Button \u2013 Chaty <= 3.2.2 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-05-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4149",
+          "affected_range": "* - 3.2.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2972",
+          "title": "Floating Chat Widget <= 3.1.8 - Authenticated (Editor+) Stored Cross-Site Scripting",
+          "published": "2024-04-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2972",
+          "affected_range": "* - 3.1.8"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-47759",
+          "title": "Chaty <= 3.1.2 - Authenticated (Administrator+) Stored Cross-Site Scripting via settings",
+          "published": "2023-11-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-47759",
+          "affected_range": "* - 3.1.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-3245",
+          "title": "Floating Chat Widget - Chaty <= 3.1.1 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2023-06-26 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-3245",
+          "affected_range": "* - 3.1.1"
+        }
+      ]
+    },
+    "checkout-files-upload-woocommerce": {
+      "frequency": 1,
+      "versions": [
+        "2.2.2"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-4212",
+          "title": "Checkout Files Upload for WooCommerce <= 2.2.1 - Unauthenticated Stored Cross-Site Scripting",
+          "published": "2025-11-17 20:47:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-4212",
+          "affected_range": "* - 2.2.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-39520",
+          "title": "Checkout Files Upload for WooCommerce <= 2.2.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-04-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-39520",
+          "affected_range": "* - 2.2.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-29425",
+          "title": "Checkout Files Upload for WooCommerce <= 2.1.2 - Cross-Site Scripting",
+          "published": "2022-05-04 06:49:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-29425",
+          "affected_range": "* - 2.1.2"
+        }
+      ]
+    },
+    "ecommerce-addon": {
+      "frequency": 1,
+      "versions": [
+        "0.2.2",
+        "0.7.2",
+        "1.0",
+        "1.1.0",
+        "1.2.2",
+        "1.4.1",
+        "1.6.2",
+        "1.9.0",
+        "2.1.2",
+        "2.3.4",
+        "3.0.6",
+        "3.1.5",
+        "3.7.3",
+        "4.0.1",
+        "6.8.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.0",
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "1.0 - 1.3"
+        },
+        {
+          "version": "1.1.0",
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "1.0 - 1.3"
+        },
+        {
+          "version": "1.2.2",
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "1.0 - 1.3"
+        }
+      ]
+    },
+    "pro-elements": {
+      "frequency": 1,
+      "versions": [
+        "3.18.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "rife-elementor-extensions": {
+      "frequency": 1,
+      "versions": [
+        "1.2.8"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-13564",
+          "title": "Rife Elementor Extensions & Templates <= 1.2.5 - Authenticated (Contributor+) Stored Cross-Site Scripting via Writing Effect Headline Shortcode",
+          "published": "2025-02-21 19:51:18",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13564",
+          "affected_range": "* - 1.2.5"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-5504",
+          "title": "Rife Elementor Extensions & Templates <= 1.2.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Writing Effect Headline Widget",
+          "published": "2024-07-01 19:26:57",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5504",
+          "affected_range": "* - 1.2.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-27454",
+          "title": "Rife Elementor Extensions & Templates <= 1.1.10 - Missing Authorization via import_templates",
+          "published": "2023-03-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-27454",
+          "affected_range": "* - 1.1.10"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24265",
+          "title": "Rife Elementor Extensions & Templates <= 1.1.5 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2021-04-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24265",
+          "affected_range": "[*, 1.1.6)"
+        }
+      ]
+    },
+    "add-search-to-menu": {
+      "frequency": 1,
+      "versions": [
+        "5.4.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "5.4.3",
+          "cve": "CVE-2025-5209",
+          "title": "Ivory Search \u2013 WordPress Search Plugin <= 5.5.9 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-05-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5209",
+          "affected_range": "* - 5.5.9"
+        },
+        {
+          "version": "5.4.3",
+          "cve": "CVE-2024-6835",
+          "title": "Ivory Search \u2013 WordPress Search Plugin <= 5.5.6 - Information Exposure via AJAX Search Form",
+          "published": "2024-09-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-6835",
+          "affected_range": "* - 5.5.6"
+        },
+        {
+          "version": "5.4.3",
+          "cve": "CVE-2024-3233",
+          "title": "Ivory Search \u2013 WordPress Search Plugin <= 5.5.5 - Missing Authorization to Authenticated (Subscriber+) Index Creation",
+          "published": "2024-04-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-3233",
+          "affected_range": "* - 5.5.5"
+        },
+        {
+          "version": "5.4.3",
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "4.0 - 5.5.1"
+        },
+        {
+          "version": "5.4.3",
+          "cve": "a1513296-f7f6-468c-ac96-5f55812d943e",
+          "title": "Ivory Search <= 5.4.6 - Reflected Cross-Site Scripting",
+          "published": "2022-07-04 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/a1513296-f7f6-468c-ac96-5f55812d943e?source=api-prod",
+          "affected_range": "* - 5.4.6"
+        }
+      ]
+    },
+    "auto-terms-of-service-and-privacy-policy": {
+      "frequency": 1,
+      "versions": [
+        "2.4.9"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "* - 1.8.2"
+        }
+      ]
+    },
+    "feeds-for-youtube": {
+      "frequency": 1,
+      "versions": [
+        "1.4.4"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.4.4",
+          "cve": "CVE-2024-6256",
+          "title": "Feeds for YouTube (YouTube video, channel, and gallery plugin) <= 2.2.1 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting",
+          "published": "2024-07-10 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-6256",
+          "affected_range": "* - 2.2.1"
+        },
+        {
+          "version": "1.4.4",
+          "cve": "CVE-2023-4841",
+          "title": "Feeds for YouTube <= 2.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2023-09-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-4841",
+          "affected_range": "* - 2.1"
+        }
+      ]
+    },
+    "google-analytics-for-wordpress": {
+      "frequency": 1,
+      "versions": [
+        "8.4.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "8.4.0",
+          "cve": "CVE-2023-52220",
+          "title": "Google Analytics by Monster Insights <= 8.21.0 - Missing Authorization",
+          "published": "2024-01-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-52220",
+          "affected_range": "* - 8.21.0"
+        },
+        {
+          "version": "8.4.0",
+          "cve": "CVE-2023-23999",
+          "title": "Google Analytics by Monster Insights <= 8.14.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-05-10 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-23999",
+          "affected_range": "* - 8.14.0"
+        },
+        {
+          "version": "8.4.0",
+          "cve": "CVE-2023-0081",
+          "title": "MonsterInsights <= 8.12.0 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-01-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-0081",
+          "affected_range": "* - 8.12.0"
+        },
+        {
+          "version": "8.4.0",
+          "cve": "CVE-2022-3904",
+          "title": "MonsterInsights <= 8.9.0 - Unauthenticated Stored Cross-Site Scripting via Google Analytics",
+          "published": "2022-12-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-3904",
+          "affected_range": "* - 8.9.0"
+        }
+      ]
+    },
+    "void-elementor-post-grid-addon-for-elementor-page-builder": {
+      "frequency": 1,
+      "versions": [
+        "2.1.9",
+        "3.3.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.1.9",
+          "cve": "CVE-2024-43281",
+          "title": "Void Elementor Post Grid Addon for Elementor Page builder <= 2.3 - Authenticated (Contributor+) Local File Inclusion",
+          "published": "2024-08-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-43281",
+          "affected_range": "* - 2.3"
+        },
+        {
+          "version": "2.1.9",
+          "cve": "CVE-2023-48750",
+          "title": "Void Elementor Post Grid Addon for Elementor Page builder <= 2.1.10 - Missing Authorization to Review Notice Dismissal",
+          "published": "2023-08-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-48750",
+          "affected_range": "[*, 2.2)"
+        }
+      ]
+    },
+    "wt-smart-coupons-for-woocommerce": {
+      "frequency": 1,
+      "versions": [
+        "1.3.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.3.7",
+          "cve": "CVE-2025-64358",
+          "title": "Smart Coupons for WooCommerce <= 2.2.3 - Missing Authorization",
+          "published": "2025-10-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-64358",
+          "affected_range": "* - 2.2.3"
+        }
+      ]
+    },
+    "youtube-embed-plus": {
+      "frequency": 1,
+      "versions": [
+        "14.0.1.4"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2017-1000224",
+          "title": "Embed Plus Plugin for YouTube <= 11.8.1 - Cross-Site Request Forgery",
+          "published": "2017-07-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2017-1000224",
+          "affected_range": "* - 11.8.1"
+        }
+      ]
+    },
+    "email-subscribers": {
+      "frequency": 1,
+      "versions": [
+        "5.9.12"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-12349",
+          "title": "Email Subscribers & Newsletters <= 5.9.10 - Missing Authentication to Unauthenticated Mailing Queue Trigger",
+          "published": "2025-11-18 16:15:48",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12349",
+          "affected_range": "* - 5.9.10"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-0671",
+          "title": "Email Subscribers & Newsletters <= 5.7.49 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-04-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-0671",
+          "affected_range": "* - 5.7.49"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-11924",
+          "title": "Email Subscribers & Newsletters <= 5.7.51 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-03-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11924",
+          "affected_range": "* - 5.7.51"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-11636",
+          "title": "Email Subscribers by Icegram Express \u2013 Affordable, Powerful Email Marketing for WordPress & WooCommerce <= 5.7.44 - Authenticated (Admin+) Stored Cross-Site Scripting via Text Block",
+          "published": "2024-12-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11636",
+          "affected_range": "* - 5.7.44"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-12566",
+          "title": "Email Subscribers by Icegram Express \u2013 Affordable, Powerful Email Marketing for WordPress & WooCommerce <= 5.7.44 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-12-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-12566",
+          "affected_range": "* - 5.7.44"
+        }
+      ]
+    },
+    "yith-woocommerce-request-a-quote": {
+      "frequency": 1,
+      "versions": [
+        "2.46.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2022-44630",
+          "title": "YITH plugins by YITHEMES <= (Various Versions) - Cross-Site Request Forgery",
+          "published": "2022-11-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-44630",
+          "affected_range": "* - 2.15.0"
+        },
+        {
+          "version": null,
+          "cve": "b948574a-0aab-4596-83e6-04be21f78bc1",
+          "title": "YITH plugins by YITHEMES <= (Various Versions) - Missing Authorization",
+          "published": "2022-11-11 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/b948574a-0aab-4596-83e6-04be21f78bc1?source=api-prod",
+          "affected_range": "* - 2.15.0"
+        },
+        {
+          "version": null,
+          "cve": "190edd82-840d-4468-8f5a-127cce049336",
+          "title": "YITH Request a Quote for WooCommerce <= 1.6.3 - Cross-Site Request Forgery",
+          "published": "2021-06-30 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/190edd82-840d-4468-8f5a-127cce049336?source=api-prod",
+          "affected_range": "* - 1.6.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2019-16251",
+          "title": "YIT Plugin Framework <= 3.3.8 - Authenticated Settings Change",
+          "published": "2019-10-31 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2019-16251",
+          "affected_range": "* - 1.4.7"
+        }
+      ]
+    },
+    "cartzillagb": {
+      "frequency": 1,
+      "versions": [
+        "1.0.34"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "creame-whatsapp-me": {
+      "frequency": 1,
+      "versions": [
+        "6.0.8"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "funnel-builder": {
+      "frequency": 1,
+      "versions": [
+        "1.10.12.70"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.10.12.70",
+          "cve": "CVE-2025-12878",
+          "title": "FunnelKit \u2013 Funnel Builder for WooCommerce Checkout <= 3.13.1.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via wfop_phone Shortcode",
+          "published": "2025-11-18 17:41:21",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12878",
+          "affected_range": "* - 3.13.1.2"
+        },
+        {
+          "version": "1.10.12.70",
+          "cve": "CVE-2025-10567",
+          "title": "FunnelKit <= 3.12.0 - Reflected Cross-Site Scripting",
+          "published": "2025-10-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-10567",
+          "affected_range": "* - 3.12.0"
+        },
+        {
+          "version": "1.10.12.70",
+          "cve": "CVE-2025-54750",
+          "title": "Funnel Builder by FunnelKit <= 3.11.1 - Unauthenticated Local File Inclusion",
+          "published": "2025-08-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-54750",
+          "affected_range": "* - 3.11.1"
+        },
+        {
+          "version": "1.10.12.70",
+          "cve": "CVE-2025-7654",
+          "title": "Multiple Plugins By FunnelKit <= (Various Versions) - Authenticated (Contributor+) Sensitive Information Exposure to Privilege Escalation via Woofunnel Library",
+          "published": "2025-08-18 18:57:21",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-7654",
+          "affected_range": "* - 3.11.0.2"
+        },
+        {
+          "version": "1.10.12.70",
+          "cve": "CVE-2025-49034",
+          "title": "Funnel Builder by FunnelKit <= 3.10.2 - Authenticated (Administrator+) SQL Injection",
+          "published": "2025-07-08 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-49034",
+          "affected_range": "* - 3.10.2"
+        }
+      ]
+    },
+    "jetpack": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-10858",
+          "title": "Jetpack 13.0 - 14.0 - Reflected DOM-based Cross-Site Scripting",
+          "published": "2024-12-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-10858",
+          "affected_range": "13.0 - 14.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-10076",
+          "title": "Jetpack <= 13.7 & Jetpack Boost <= 3.4.7 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2024-10-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-10076",
+          "affected_range": "* - 13.7"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-10075",
+          "title": "Jetpack <= 13.7 - Unauthenticated Arbitrary Block & Shortcode Execution",
+          "published": "2024-10-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-10075",
+          "affected_range": "* - 13.7"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-9926",
+          "title": "Jetpack < 13.9.1 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Disclosure",
+          "published": "2024-10-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-9926",
+          "affected_range": "10.0 - 10.0.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4392",
+          "title": "Jetpack \u2013 WP Security, Backup, Speed, & Growth <= 13.3.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via wpvideo Shortcode",
+          "published": "2024-05-13 20:29:28",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4392",
+          "affected_range": "* - 13.3.1"
+        }
+      ]
+    },
+    "plugin-paggue-pix": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "post-views-counter": {
+      "frequency": 1,
+      "versions": [
+        "1.6.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-31264",
+          "title": "Post Views Counter <= 1.4.4 - Cross-Site Request Forgery via save_bulk_post_views()",
+          "published": "2024-04-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-31264",
+          "affected_range": "* - 1.4.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24613",
+          "title": "Post Views Counter <= 1.3.4 - Authenticated Stored Cross-Site Scripting",
+          "published": "2021-08-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24613",
+          "affected_range": "* - 1.3.4"
+        }
+      ]
+    },
+    "salert": {
+      "frequency": 1,
+      "versions": [
+        "1.2.9"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2023-32126",
+          "title": "SALERT <= 1.2.1 - Missing Authorization via salert_save_settings_with_ajax()",
+          "published": "2023-05-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-32126",
+          "affected_range": "* - 1.2.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-32118",
+          "title": "SALERT <= 1.2.1 - Authenticated (Subscriber+) Stored Cross-Site Scripting",
+          "published": "2023-05-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-32118",
+          "affected_range": "* - 1.2.1"
+        }
+      ]
+    },
+    "yith-woocommerce-wishlist": {
+      "frequency": 1,
+      "versions": [
+        "1.2.0",
+        "4.11.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.2.0",
+          "cve": "CVE-2025-12777",
+          "title": "YITH WooCommerce Wishlist <= 4.10.0 - Unauthenticated Wishlist Token Disclosure to Wishlist Item Deletion",
+          "published": "2025-11-18 14:28:55",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12777",
+          "affected_range": "* - 4.10.0"
+        },
+        {
+          "version": "1.2.0",
+          "cve": "CVE-2025-12427",
+          "title": "YITH WooCommerce Wishlist <= 4.10.0 - Unauthenticated Insecure Direct Object Reference to Unauthenticated Wishlist Rename",
+          "published": "2025-11-18 14:26:06",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12427",
+          "affected_range": "* - 4.10.0"
+        },
+        {
+          "version": "1.2.0",
+          "cve": "CVE-2025-5238",
+          "title": "YITH WooCommerce Wishlist <= 4.5.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via id Parameter",
+          "published": "2025-06-13 21:04:41",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5238",
+          "affected_range": "* - 4.5.0"
+        },
+        {
+          "version": "1.2.0",
+          "cve": "CVE-2024-34385",
+          "title": "YITH WooCommerce Wishlist <= 3.32.0 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-05-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-34385",
+          "affected_range": "* - 3.32.0"
+        },
+        {
+          "version": "1.2.0",
+          "cve": "CVE-2022-44630",
+          "title": "YITH plugins by YITHEMES <= (Various Versions) - Cross-Site Request Forgery",
+          "published": "2022-11-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-44630",
+          "affected_range": "* - 3.14.0"
+        }
+      ]
+    },
+    "activecampaign-subscription-forms": {
+      "frequency": 1,
+      "versions": [
+        "6.8.3"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "6.8.3",
+          "cve": "CVE-2025-32136",
+          "title": "ActiveCampaign <= 8.1.16 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2025-04-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-32136",
+          "affected_range": "* - 8.1.16"
+        },
+        {
+          "version": "6.8.3",
+          "cve": "CVE-2024-32430",
+          "title": "ActiveCampaign <= 8.1.14 - Authenticated (Administrator+) Server-Side Request Forgery",
+          "published": "2024-04-12 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-32430",
+          "affected_range": "* - 8.1.14"
+        },
+        {
+          "version": "6.8.3",
+          "cve": "CVE-2023-0233",
+          "title": "ActiveCampaign \u2013 Forms, Site Tracking, Live Chat <= 8.1.11 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-04-20 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-0233",
+          "affected_range": "* - 8.1.11"
+        },
+        {
+          "version": "6.8.3",
+          "cve": "CVE-2021-24133",
+          "title": "ActiveCampaign < 8.0.2 - Cross-Site Request Forgery",
+          "published": "2020-09-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24133",
+          "affected_range": "[*, 8.0.2)"
+        }
+      ]
+    },
+    "jet-elements": {
+      "frequency": 1,
+      "versions": [
+        "2.7.12.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-55714",
+          "title": "JetElements For Elementor <= 2.7.9 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-08-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-55714",
+          "affected_range": "* - 2.7.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-49939",
+          "title": "JetElements For Elementor <= 2.7.8 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-08-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-49939",
+          "affected_range": "* - 2.7.8"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-53982",
+          "title": "JetElements For Elementor <= 2.7.7 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-07-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-53982",
+          "affected_range": "* - 2.7.7"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-53983",
+          "title": "JetElements For Elementor <= 2.7.7 - Authenticated (Subscriber+) Information Disclosure",
+          "published": "2025-07-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-53983",
+          "affected_range": "* - 2.7.7"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-39447",
+          "title": "JetElements For Elementor <= 2.7.4.1 - Missing Authorization",
+          "published": "2025-04-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-39447",
+          "affected_range": "* - 2.7.4.1"
+        }
+      ]
+    },
+    "enable-jquery-migrate-helper": {
+      "frequency": 1,
+      "versions": [
+        "3.3.2",
+        "6.2.2"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2020-11023",
+          "title": "jQuery Manager for WordPress <= 1.10.4 &  jQuery Migrate Helper <= 1.4.1- Running Vulnerable Dependency",
+          "published": "2020-07-20 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-11023",
+          "affected_range": "* - 1.4.1"
+        }
+      ]
+    },
+    "jetsticky-for-elementor": {
+      "frequency": 1,
+      "versions": [
+        "1.0.3",
+        "1.1.0",
+        "1.7.0",
+        "3.3.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "mobile-menu": {
+      "frequency": 1,
+      "versions": [
+        "2.8.2.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.8.2.7",
+          "cve": "CVE-2024-2508",
+          "title": "WP Mobile Menu <= 2.8.4.4 - Missing Authorization to _mobmenu_icon Post Meta Modification",
+          "published": "2024-07-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2508",
+          "affected_range": "* - 2.8.4.4"
+        },
+        {
+          "version": "2.8.2.7",
+          "cve": "CVE-2024-37274",
+          "title": "WP Mobile Menu <= 2.8.4.3 - Cross-Site Request Forgery",
+          "published": "2024-06-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37274",
+          "affected_range": "* - 2.8.4.3"
+        },
+        {
+          "version": "2.8.2.7",
+          "cve": "CVE-2024-3987",
+          "title": "WP Mobile Menu \u2013 The Mobile-Friendly Responsive Menu <= 2.8.4.2 - Authenticated (Contributor+) Stored Cross-Site Scripting via Image Alt",
+          "published": "2024-06-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-3987",
+          "affected_range": "* - 2.8.4.2"
+        },
+        {
+          "version": "2.8.2.7",
+          "cve": "CVE-2023-33999",
+          "title": "Freemius SDK <= 2.5.9 - Reflected Cross-Site Scripting via fs_request_get",
+          "published": "2023-07-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-33999",
+          "affected_range": "2.4 - 2.8.3"
+        }
+      ]
+    },
+    "navmenu-addon-for-elementor": {
+      "frequency": 1,
+      "versions": [
+        "1.1.6"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "wpforms-lite": {
+      "frequency": 1,
+      "versions": [
+        "1.7.7.2"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.7.7.2",
+          "cve": "CVE-2025-3794",
+          "title": "WPForms Lite <= 1.9.5 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'start_timestamp' Parameter",
+          "published": "2025-05-09 10:00:45",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3794",
+          "affected_range": "* - 1.9.5"
+        },
+        {
+          "version": "1.7.7.2",
+          "cve": "CVE-2024-13403",
+          "title": "WPForms Lite <= 1.9.3.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via fieldHTML Parameter",
+          "published": "2025-02-03 20:01:06",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13403",
+          "affected_range": "* - 1.9.3.1"
+        },
+        {
+          "version": "1.7.7.2",
+          "cve": "CVE-2024-56276",
+          "title": "Contact Form by WPForms <= 1.9.2.2 - Missing Authorization",
+          "published": "2025-01-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-56276",
+          "affected_range": "* - 1.9.2.2"
+        },
+        {
+          "version": "1.7.7.2",
+          "cve": "CVE-2024-11223",
+          "title": "WPForms <= 1.9.2.2 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-12-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11223",
+          "affected_range": "* - 1.9.2.2"
+        },
+        {
+          "version": "1.7.7.2",
+          "cve": "CVE-2024-10593",
+          "title": "WPForms \u2013 Easy Form Builder for WordPress <= 1.9.1.6 - Cross-Site Request Forgery (CSRF) to Plugin's Log Deletion",
+          "published": "2024-11-12 14:02:45",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-10593",
+          "affected_range": "* - 1.9.1.6"
+        }
+      ]
+    },
+    "adrotate": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2022-1206",
+          "title": "AdRotate \u2013 Ad manager & AdSense Ads <= 5.13.2 - Authenticated (Admin+) Double Extension Arbitrary File Upload",
+          "published": "2024-08-19 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-1206",
+          "affected_range": "* - 5.13.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-26366",
+          "title": "AdRotate Banner Manager <= 5.9 - Cross-Site Request Forgery",
+          "published": "2022-11-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-26366",
+          "affected_range": "* - 5.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-0662",
+          "title": "AdRotate \u2013 Ad manager & AdSense Ads <= 5.8.22 - Authenticated Stored Cross-Site Scripting via Advert Names",
+          "published": "2022-04-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-0662",
+          "affected_range": "[*, 5.8.23)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-0649",
+          "title": "AdRotate \u2013 Ad manager & AdSense Ads <= 5.8.22 - Authenticated Stored Cross-Site Scripting via Group Names",
+          "published": "2022-04-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-0649",
+          "affected_range": "[*, 5.8.23)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-0267",
+          "title": "AdRotate \u2013 Ad manager & AdSense Ads <= 5.8.17 - Admin+ SQL Injection",
+          "published": "2022-02-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-0267",
+          "affected_range": "* - 5.8.17"
+        }
+      ]
+    },
+    "flowpaper-lite-pdf-flipbook": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2023-5200",
+          "title": "flowpaper <= 2.0.3 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2023-09-26 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-5200",
+          "affected_range": "* - 2.0.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-40197",
+          "title": "flowpaper <= 1.9.9 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2023-08-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-40197",
+          "affected_range": "* - 1.9.9"
+        }
+      ]
+    },
+    "gdpr-cookie-compliance": {
+      "frequency": 1,
+      "versions": [
+        "5.0.9"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-1623",
+          "title": "GDPR Cookie Compliance <= 4.15.8 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-02-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1623",
+          "affected_range": "* - 4.15.8"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-1624",
+          "title": "GDPR Cookie Compliance <= 4.15.8 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-02-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1624",
+          "affected_range": "* - 4.15.8"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-1621",
+          "title": "GDPR Cookie Compliance <= 4.15.6 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-02-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1621",
+          "affected_range": "* - 4.15.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-1619",
+          "title": "GDPR Cookie Compliance <= 4.15.6 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-02-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1619",
+          "affected_range": "* - 4.15.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-1620",
+          "title": "GDPR Cookie Compliance <= 4.15.6 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-02-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1620",
+          "affected_range": "* - 4.15.6"
+        }
+      ]
+    },
+    "responsive-flipbook": {
+      "frequency": 1,
+      "versions": [
+        "2.5.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.5.0",
+          "cve": "CVE-2024-11929",
+          "title": "Responsive FlipBook Plugin Wordpress <= 2.5.0 - Authenticated (Subscriber+) Stored Cross-Site Scripting",
+          "published": "2025-01-08 22:07:27",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-11929",
+          "affected_range": "* - 2.5.0"
+        }
+      ]
+    },
+    "elfsight-click-to-call-cc": {
+      "frequency": 1,
+      "versions": [
+        "1.2.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "elfsight-whatsapp-chat-cc": {
+      "frequency": 1,
+      "versions": [
+        "1.2.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "nimo-core": {
+      "frequency": 1,
+      "versions": [
+        "1.0.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "slider-revolution-master": {
+      "frequency": 1,
+      "versions": [
+        "6.7.20"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "wp-smush-pro": {
+      "frequency": 1,
+      "versions": [
+        "3.21.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "header-footer-elementor": {
+      "frequency": 1,
+      "versions": [
+        "2.4.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.4.7",
+          "cve": "CVE-2025-9703",
+          "title": "Ultimate Addons for Elementor Lite <= 2.4.9 - Authenticated (Author+) Stored Cross-Site Scripting via SVG Upload",
+          "published": "2025-09-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-9703",
+          "affected_range": "* - 2.4.9"
+        }
+      ]
+    },
+    "eventON": {
+      "frequency": 1,
+      "versions": [
+        "1.0",
+        "3.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.0",
+          "cve": "CVE-2025-47565",
+          "title": "EventON <= 4.9.9 - Missing Authorization",
+          "published": "2025-07-03 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-47565",
+          "affected_range": "* - 4.9.9"
+        },
+        {
+          "version": "1.0",
+          "cve": "CVE-2025-47564",
+          "title": "EventON (Pro) <= 4.9.9 - Missing Authorization",
+          "published": "2025-05-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-47564",
+          "affected_range": "* - 4.9.9"
+        },
+        {
+          "version": "1.0",
+          "cve": "CVE-2025-3527",
+          "title": "EventON - WordPress Virtual Event Calendar Plugin <= 4.9.6 - Missing Authorization to Authenticated (Subscriber+) Stored Cross-Site Scripting",
+          "published": "2025-05-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-3527",
+          "affected_range": "* - 4.9.6"
+        },
+        {
+          "version": "1.0",
+          "cve": "CVE-2023-6243",
+          "title": "EventON PRO - WordPress Virtual Event Calendar Plugin <= 4.6.8 - Cross-Site Request Forgery via admin_test_email",
+          "published": "2024-10-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6243",
+          "affected_range": "* - 4.6.8"
+        },
+        {
+          "version": "1.0",
+          "cve": "CVE-2023-7200",
+          "title": "EventON <= 4.4.0 - Reflected Cross-Site Scripting",
+          "published": "2024-01-31 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-7200",
+          "affected_range": "* - 4.4.0"
+        }
+      ]
+    },
+    "eventon-countdown": {
+      "frequency": 1,
+      "versions": [
+        "6.2.8"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "eventon-speakers-schedule": {
+      "frequency": 1,
+      "versions": [
+        "1.0.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "wp-sort-order": {
+      "frequency": 1,
+      "versions": [
+        "6.2.8"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-31294",
+          "title": "WP Sort Order <= 1.3.1 - Missing Authorization",
+          "published": "2024-04-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-31294",
+          "affected_range": "* - 1.3.1"
+        }
+      ]
+    },
+    "bm-shortcodes": {
+      "frequency": 1,
+      "versions": [
+        "0.3.3",
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "google-analytics-dashboard-for-wp": {
+      "frequency": 1,
+      "versions": [
+        "7.10.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "7.10.0",
+          "cve": "CVE-2025-24750",
+          "title": "ExactMetrics <= 8.1.0 - Missing Authorization",
+          "published": "2025-01-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-24750",
+          "affected_range": "* - 8.1.0"
+        },
+        {
+          "version": "7.10.0",
+          "cve": "CVE-2023-23880",
+          "title": "ExactMetrics <= 7.14.1 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-05-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-23880",
+          "affected_range": "* - 7.14.1"
+        },
+        {
+          "version": "7.10.0",
+          "cve": "CVE-2023-0082",
+          "title": "ExactMetrics <= 7.12.0 - Authenticated (Contributor+) Cross-Site Scripting",
+          "published": "2023-01-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-0082",
+          "affected_range": "* - 7.12.0"
+        }
+      ]
+    },
+    "the-grid": {
+      "frequency": 1,
+      "versions": [
+        "2.6.70"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "mailster": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-37433",
+          "title": "Mailster <= 4.0.9 - Reflected Cross-Site Scripting",
+          "published": "2024-06-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37433",
+          "affected_range": "* - 4.0.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-32523",
+          "title": "Mailster <= 4.0.6 - Unauthenticated Local File Inclusion",
+          "published": "2024-04-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-32523",
+          "affected_range": "* - 4.0.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-30503",
+          "title": "Mailster <= 1.0.3 - Reflected Cross-Site Scripting",
+          "published": "2024-03-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-30503",
+          "affected_range": "* - 1.0.3"
+        },
+        {
+          "version": null,
+          "cve": "f3584b5b-ff93-4a47-b6e6-f95335ee88b6",
+          "title": "Mailster <= 2.4.5.1 - Stored Cross-Site Scripting",
+          "published": "2020-10-14 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/f3584b5b-ff93-4a47-b6e6-f95335ee88b6?source=api-prod",
+          "affected_range": "* - 2.4.5.1"
+        }
+      ]
+    },
+    "translatepress-multilingual": {
+      "frequency": 1,
+      "versions": [
+        "3.0.6"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-58592",
+          "title": "TranslatePress <= 2.10.2 - Unauthenticated PHP Object Injection",
+          "published": "2025-09-24 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-58592",
+          "affected_range": "* - 2.10.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-30773",
+          "title": "TranslatePress <= 2.9.6 - Authenticated (Administrator+) PHP Object Injection",
+          "published": "2025-03-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-30773",
+          "affected_range": "* - 2.9.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-34827",
+          "title": "Translate Multilingual sites \u2013 TranslatePress <= 2.7.5 - Cross-Site Request Forgery",
+          "published": "2024-05-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-34827",
+          "affected_range": "* - 2.7.5"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-3141",
+          "title": "TranslatePress <= 2.3.2 - Authenticated (Administrator+) SQL Injection",
+          "published": "2022-07-23 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-3141",
+          "affected_range": "* - 2.3.2"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24610",
+          "title": "TranslatePress <= 2.0.8 - Authenticated Stored Cross-Site Scripting",
+          "published": "2021-08-30 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24610",
+          "affected_range": "[*, 2.0.9)"
+        }
+      ]
+    },
+    "astra-addon": {
+      "frequency": 1,
+      "versions": [
+        "4.11.12"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2023-49830",
+          "title": "Astra Pro <= 4.3.1 - Authenticated(Contributor+) Remote Code Execution via Metabox",
+          "published": "2023-12-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-49830",
+          "affected_range": "* - 4.3.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24507",
+          "title": "Astra Pro Addon <= 3.5.1 - Unauthenticated SQL Injection",
+          "published": "2021-07-08 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24507",
+          "affected_range": "[*, 3.5.2)"
+        }
+      ]
+    },
+    "cookie-law-info": {
+      "frequency": 1,
+      "versions": [
+        "3.3.8"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2020-20633",
+          "title": "GDPR Cookie Consent & Compliance Notice <= 1.8.2 - Authenticated Stored Cross-Site Scripting and Authorization Bypass",
+          "published": "2020-02-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-20633",
+          "affected_range": "* - 1.8.2"
+        }
+      ]
+    },
+    "learnpress": {
+      "frequency": 1,
+      "versions": [
+        "4.3.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-11368",
+          "title": "LearnPress \u2013 WordPress LMS Plugin <= 4.2.9.4 - Missing Authorization to Unauthenticated Arbitrary Callback Execution to Information Exposure",
+          "published": "2025-11-20 16:53:10",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11368",
+          "affected_range": "* - 4.2.9.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-11372",
+          "title": "LearnPress \u2013 WordPress LMS Plugin <= 4.2.9.3 - Missing Authorization to Unauthenticated Database Table Manipulation",
+          "published": "2025-10-17 18:38:36",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11372",
+          "affected_range": "* - 4.2.9.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-22739",
+          "title": "LearnPress <= 4.2.7.5 - Missing Authorization",
+          "published": "2025-03-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-22739",
+          "affected_range": "* - 4.2.7.5"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-13128",
+          "title": "LearnPress \u2013 WordPress LMS Plugin <= 4.2.7.5 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-01-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13128",
+          "affected_range": "* - 4.2.7.5"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-13127",
+          "title": "LearnPress \u2013 WordPress LMS Plugin <= 4.2.7.5 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2025-01-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13127",
+          "affected_range": "* - 4.2.7.5"
+        }
+      ]
+    },
+    "ultimate-elementor": {
+      "frequency": 1,
+      "versions": [
+        "1.42.0"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-37455",
+          "title": "Ultimate Addons for Elementor <= 1.36.31 - Authenticated (Contributor+) Privilege Escalation",
+          "published": "2024-07-01 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37455",
+          "affected_range": "* - 1.36.31"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-50890",
+          "title": "Ultimate Addons for Elementor <= 1.36.20 - Authenticated (Contributor+) Privilege Escalation",
+          "published": "2023-12-26 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-50890",
+          "affected_range": "* - 1.36.20"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-24271",
+          "title": "Ultimate Addons for Elementor < 1.30.0 - Stored Cross-Site Scripting",
+          "published": "2021-04-13 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-24271",
+          "affected_range": "[*, 1.30.0)"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2020-13125",
+          "title": "Ultimate Addons for Elementor <= 1.24.1 - Registration Bypass",
+          "published": "2020-05-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-13125",
+          "affected_range": "[*, 1.24.2)"
+        },
+        {
+          "version": null,
+          "cve": "ee678085-ce74-4a35-9d90-3b94a3d39a8e",
+          "title": "Ultimate Addons for Elementor < 1.20.1 - Authentication Bypass",
+          "published": "2019-12-12 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/ee678085-ce74-4a35-9d90-3b94a3d39a8e?source=api-prod",
+          "affected_range": "[*, 1.20.1)"
+        }
+      ]
+    },
+    "hdw-player-video-player-video-gallery": {
+      "frequency": 1,
+      "versions": [
+        "2.0.2",
+        "4.7.31"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "2.0.2",
+          "cve": "CVE-2023-49178",
+          "title": "HDW Player Plugin (Video Player & Video Gallery) <= 5.0 - Cross-Site Scripting",
+          "published": "2023-11-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-49178",
+          "affected_range": "* - 5.0"
+        },
+        {
+          "version": "2.0.2",
+          "cve": "CVE-2014-5180",
+          "title": "HDW Player Plugin (Video Player & Video Gallery) <= 2.4.2 - Authenticated (Admin+) SQL Injection",
+          "published": "2014-05-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2014-5180",
+          "affected_range": "* - 2.4.2"
+        },
+        {
+          "version": "4.7.31",
+          "cve": "CVE-2023-49178",
+          "title": "HDW Player Plugin (Video Player & Video Gallery) <= 5.0 - Cross-Site Scripting",
+          "published": "2023-11-29 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-49178",
+          "affected_range": "* - 5.0"
+        }
+      ]
+    },
+    "js_composer_salient": {
+      "frequency": 1,
+      "versions": [
+        "5.0.11"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "accessibility-plugin-onetap-pro": {
+      "frequency": 1,
+      "versions": [
+        "6.10.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "essential-blocks": {
+      "frequency": 1,
+      "versions": [],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-11361",
+          "title": "Essential Blocks <= 5.7.1 - Authenticated (Author+) Server-Side Request Forgery",
+          "published": "2025-10-17 16:25:07",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11361",
+          "affected_range": "* - 5.7.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-11270",
+          "title": "Gutenberg Essential Blocks \u2013 Page Builder for Gutenberg Blocks & Patterns <= 5.7.1 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-10-17 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-11270",
+          "affected_range": "* - 5.7.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-4682",
+          "title": "Essential Blocks \u2013 Page Builder Gutenberg Blocks, Patterns & Templates <= 5.4.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via Slider and Post Carousel Widgets",
+          "published": "2025-05-26 12:53:47",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-4682",
+          "affected_range": "* - 5.4.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-1664",
+          "title": "Essential Blocks \u2013 Page Builder Gutenberg Blocks, Patterns & Templates <= 5.3.1 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-03-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1664",
+          "affected_range": "* - 5.3.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-13803",
+          "title": "Essential Blocks \u2013 Page Builder Gutenberg Blocks, Patterns & Templates <= 5.2.3 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-02-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-13803",
+          "affected_range": "* - 5.2.3"
+        }
+      ]
+    },
+    "maika": {
+      "frequency": 1,
+      "versions": [
+        "1.21",
+        "3.0.5",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "mailchimp-for-wp": {
+      "frequency": 1,
+      "versions": [
+        "4.10.2"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-8680",
+          "title": "MailChimp for Wordpress <= 4.9.16 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2024-09-20 20:24:42",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8680",
+          "affected_range": "* - 4.9.16"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-8850",
+          "title": "MC4WP: Mailchimp for WordPress 4.9.9 - 4.9.16 - Reflected Cross-Site Scripting",
+          "published": "2024-09-18 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-8850",
+          "affected_range": "4.9.9 - 4.9.16"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-51682",
+          "title": "MC4WP <= 4.9.9 - Missing Authorization via listen",
+          "published": "2023-12-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-51682",
+          "affected_range": "* - 4.9.9"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2021-36833",
+          "title": "MC4WP: Mailchimp for WordPress <= 4.8.6 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2022-03-02 07:15:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2021-36833",
+          "affected_range": "* - 4.8.6"
+        },
+        {
+          "version": null,
+          "cve": "bd57edf5-a75e-4677-a51e-9dd262eeba4a",
+          "title": "MC4WP: Mailchimp for WordPress < 4.8.7 - Cross-Site Scripting",
+          "published": "2022-03-02 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/bd57edf5-a75e-4677-a51e-9dd262eeba4a?source=api-prod",
+          "affected_range": "[*, 4.8.7)"
+        }
+      ]
+    },
+    "popup-builder": {
+      "frequency": 1,
+      "versions": [
+        "4.3.7"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-46230",
+          "title": "Popup Builder <= 1.1.35 - Authenticated (Subscriber+) Local File Inclusion",
+          "published": "2025-04-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-46230",
+          "affected_range": "* - 1.1.35"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2025-26882",
+          "title": "Popup Builder <= 1.1.33 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-02-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-26882",
+          "affected_range": "* - 1.1.33"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-9428",
+          "title": "Popup Builder <= 4.3.4 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2024-11-21 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-9428",
+          "affected_range": "* - 4.3.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2541",
+          "title": "Popup Builder <= 4.3.6 - Sensitive Information Exposure via Imported Subscribers CSV File",
+          "published": "2024-08-28 23:41:29",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2541",
+          "affected_range": "* - 4.3.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-6696",
+          "title": "Popup Builder \u2013 Create highly converting, mobile friendly marketing popups <= 4.3.1 - Missing Authorization and Nonce Exposure",
+          "published": "2024-06-14 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6696",
+          "affected_range": "* - 4.3.1"
+        }
+      ]
+    },
+    "private-google-calendars": {
+      "frequency": 1,
+      "versions": [
+        "20241103"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "20241103",
+          "cve": "CVE-2025-12526",
+          "title": "Private Google Calendars <= 20250811 - Missing Authorization to Authenticated (Subscriber+) Settings Reset",
+          "published": "2025-11-10 15:11:48",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-12526",
+          "affected_range": "* - 20250811"
+        }
+      ]
+    },
+    "seed-social": {
+      "frequency": 1,
+      "versions": [
+        "2021.02"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2022-3836",
+          "title": "Seed Social <= 2.0.3 - Authenticated (Admin+) Stored Cross-Site Scripting",
+          "published": "2022-11-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-3836",
+          "affected_range": "* - 2.0.3"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2022-3836",
+          "title": "Seed Social <= 2.0.2 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+          "published": "2022-11-07 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2022-3836",
+          "affected_range": "* - 2.0.2"
+        }
+      ]
+    },
+    "siteorigin-panels": {
+      "frequency": 1,
+      "versions": [
+        "2.31.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2025-1459",
+          "title": "Page Builder by SiteOrigin <= 2.31.4 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-02-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-1459",
+          "affected_range": "* - 2.31.4"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-12240",
+          "title": "Page Builder by SiteOrigin <= 2.31.0 - Authenticated (Contributor+) Stored Cross-Site Scripting via Row Label Parameter",
+          "published": "2025-01-13 21:46:56",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-12240",
+          "affected_range": "* - 2.31.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4361",
+          "title": "Page Builder by SiteOrigin <= 2.29.15 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'siteorigin_widget' Shortcode",
+          "published": "2024-05-20 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4361",
+          "affected_range": "* - 2.29.15"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-2202",
+          "title": "Page Builder by SiteOrigin <= 2.29.6 - Authenticated (Contributor+) Stored Cross-Site Scripting via Legacy Image Widget",
+          "published": "2024-03-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2202",
+          "affected_range": "* - 2.29.6"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2020-13643",
+          "title": "Page Builder by SiteOrigin <= 2.10.15 - Cross-Site Request Forgery to Reflected Cross-Site Scripting",
+          "published": "2020-05-11 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2020-13643",
+          "affected_range": "[*, 2.10.16)"
+        }
+      ]
+    },
+    "so-widgets-bundle": {
+      "frequency": 1,
+      "versions": [
+        "1.1",
+        "1.67.1",
+        "1.8.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.1",
+          "cve": "CVE-2025-5585",
+          "title": "SiteOrigin Widgets Bundle <= 1.68.5 - Authenticated (Contributor+) Stored Cross-Site Scripting via `data-url` DOM Element Attribute",
+          "published": "2025-06-24 13:56:20",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5585",
+          "affected_range": "* - 1.68.5"
+        },
+        {
+          "version": "1.1",
+          "cve": "CVE-2024-54268",
+          "title": "SiteOrigin Widgets Bundle <= 1.64.0 - Missing Authorization",
+          "published": "2024-12-10 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-54268",
+          "affected_range": "* - 1.64.0"
+        },
+        {
+          "version": "1.1",
+          "cve": "CVE-2024-5901",
+          "title": "SiteOrigin Widgets Bundle <= 1.62.2 - Authenticated (Contributor+) Stored Cross-Site Scripting in Image Grid widget",
+          "published": "2024-07-30 07:35:07",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5901",
+          "affected_range": "* - 1.62.2"
+        },
+        {
+          "version": "1.1",
+          "cve": "CVE-2024-5090",
+          "title": "SiteOrigin Widgets Bundle <= 1.61.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via SiteOrigin Blog Widget",
+          "published": "2024-06-10 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5090",
+          "affected_range": "* - 1.61.1"
+        },
+        {
+          "version": "1.1",
+          "cve": "CVE-2024-4362",
+          "title": "SiteOrigin Widgets Bundle <= 1.60.0 -  - Authenticated (Contributor+) Stored Cross-Site Scripting via 'siteorigin_widget' Shortcode",
+          "published": "2024-05-21 19:57:22",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4362",
+          "affected_range": "* - 1.60.0"
+        }
+      ]
+    },
+    "wp-embed-facebook": {
+      "frequency": 1,
+      "versions": [
+        "3.0.10"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.0.10",
+          "cve": "CVE-2025-31433",
+          "title": "Magic Embeds <= 3.1.2 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2025-03-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-31433",
+          "affected_range": "* - 3.1.2"
+        },
+        {
+          "version": "3.0.10",
+          "cve": "CVE-2023-4799",
+          "title": "Magic Embeds <= 3.1.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2023-10-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-4799",
+          "affected_range": "* - 3.1.1"
+        }
+      ]
+    }
+  },
+  "theme_info": {
+    "hello-elementor": {
+      "frequency": 2,
+      "versions": [
+        "1.0.0",
+        "3.4.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.0.0",
+          "cve": "CVE-2024-31289",
+          "title": "Hello Elementor <= 3.0.0 - Cross-Site Request Forgery to Notice Dismissal",
+          "published": "2024-04-05 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-31289",
+          "affected_range": "* - 3.0.0"
+        }
+      ]
+    },
+    "astra": {
+      "frequency": 2,
+      "versions": [
+        "4.11.15",
+        "4.11.17"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-2347",
+          "title": "Astra <= 4.6.8 - Authenticated (Contributor+) Stored Cross-Site Scripting via Display Name",
+          "published": "2024-03-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2347",
+          "affected_range": "* - 4.6.8"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-29768",
+          "title": "Astra <= 4.6.4 - Authenticated (Editor+) Stored Cross-Site Scripting via Theme Header/Footer",
+          "published": "2024-03-25 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-29768",
+          "affected_range": "* - 4.6.4"
+        }
+      ]
+    },
+    "Divi": {
+      "frequency": 1,
+      "versions": [
+        "4.27.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": null,
+          "cve": "CVE-2024-5647",
+          "title": "Multiple Plugins <= (Various Versions) - Authenticated (Contributor+) Stored DOM-Based Cross-Site Scripting via Magnific Popups JavaScript Library",
+          "published": "2025-07-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5647",
+          "affected_range": "* - 4.27.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-5533",
+          "title": "Divi <= 4.25.1 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2024-06-17 19:31:11",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5533",
+          "affected_range": "* - 4.25.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2024-4490",
+          "title": "Elegant Themes Divi Theme, Extra Theme, Divi Page Builder <= 4.25.0 - Authenticated (Contributor+) DOM-Based Stored Cross-Site Scripting",
+          "published": "2024-05-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-4490",
+          "affected_range": "* - 4.25.0"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-6744",
+          "title": "Divi <= 4.23.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Shortcode",
+          "published": "2023-12-22 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-6744",
+          "affected_range": "* - 4.23.1"
+        },
+        {
+          "version": null,
+          "cve": "CVE-2023-29099",
+          "title": "Divi <= 4.20.2 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2023-05-09 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-29099",
+          "affected_range": "* - 4.20.2"
+        }
+      ]
+    },
+    "fount": {
+      "frequency": 1,
+      "versions": [
+        "1681142354",
+        "1687421799",
+        "8.5"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "rife-free": {
+      "frequency": 1,
+      "versions": [
+        "1.1",
+        "1.1.2",
+        "1.1.4",
+        "1.2",
+        "1.9.0",
+        "2.4.23",
+        "3.0.4",
+        "3.0.6",
+        "3.1.13"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.1",
+          "cve": "CVE-2024-37491",
+          "title": "Rife Free <= 2.4.18 - Cross-Site Request Forgery to Notice Dismissal",
+          "published": "2024-07-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37491",
+          "affected_range": "* - 2.4.18"
+        },
+        {
+          "version": "1.1",
+          "cve": "CVE-2024-35708",
+          "title": "Rife Free <= 2.4.19 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2024-06-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-35708",
+          "affected_range": "* - 2.4.19"
+        },
+        {
+          "version": "1.1.2",
+          "cve": "CVE-2024-37491",
+          "title": "Rife Free <= 2.4.18 - Cross-Site Request Forgery to Notice Dismissal",
+          "published": "2024-07-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37491",
+          "affected_range": "* - 2.4.18"
+        },
+        {
+          "version": "1.1.2",
+          "cve": "CVE-2024-35708",
+          "title": "Rife Free <= 2.4.19 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+          "published": "2024-06-06 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-35708",
+          "affected_range": "* - 2.4.19"
+        },
+        {
+          "version": "1.1.4",
+          "cve": "CVE-2024-37491",
+          "title": "Rife Free <= 2.4.18 - Cross-Site Request Forgery to Notice Dismissal",
+          "published": "2024-07-04 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-37491",
+          "affected_range": "* - 2.4.18"
+        }
+      ]
+    },
+    "helloelementorchildtheme": {
+      "frequency": 1,
+      "versions": [
+        "5.9.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "Impreza": {
+      "frequency": 1,
+      "versions": [
+        "8.4"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "theme-files": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0",
+        "1.0.1",
+        "1.1.3",
+        "1.8.1",
+        "16.1.1",
+        "2.9.2",
+        "4.3.0",
+        "4.3.1",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "oceanwp": {
+      "frequency": 1,
+      "versions": [
+        "3.3.5"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "3.3.5",
+          "cve": "CVE-2025-8944",
+          "title": "OceanWP <= 4.1.1 - Missing Authorization to Authenticated (Subscriber+) Settings Update",
+          "published": "2025-08-15 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-8944",
+          "affected_range": "* - 4.1.1"
+        },
+        {
+          "version": "3.3.5",
+          "cve": "CVE-2024-5647",
+          "title": "Multiple Plugins <= (Various Versions) - Authenticated (Contributor+) Stored DOM-Based Cross-Site Scripting via Magnific Popups JavaScript Library",
+          "published": "2025-07-02 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-5647",
+          "affected_range": "* - 3.6.0"
+        },
+        {
+          "version": "3.3.5",
+          "cve": "CVE-2025-5524",
+          "title": "OceanWP <= 4.0.9 - Authenticated (Contributor+) Stored Cross-Site Scripting via Select HTML Tag",
+          "published": "2025-06-18 16:22:13",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-5524",
+          "affected_range": "* - 4.0.9"
+        },
+        {
+          "version": "3.3.5",
+          "cve": "CVE-2024-2476",
+          "title": "OceanWP <= 3.5.4 - Missing Authorization to Sensitive Information Exposure via Limited Local File Inclusion",
+          "published": "2024-03-28 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2024-2476",
+          "affected_range": "* - 3.5.4"
+        },
+        {
+          "version": "3.3.5",
+          "cve": "CVE-2023-23700",
+          "title": "OceanWP <= 3.4.1 - Authenticated (Subscriber+) Local File Inclusion",
+          "published": "2023-02-27 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2023-23700",
+          "affected_range": "* - 3.4.1"
+        }
+      ]
+    },
+    "anymag": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0",
+        "2.1.0",
+        "6.9"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "salaam-Theme": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "nimo": {
+      "frequency": 1,
+      "versions": [
+        "1.0.0",
+        "6.8.3"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "profi": {
+      "frequency": 1,
+      "versions": [
+        "1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "air-theme": {
+      "frequency": 1,
+      "versions": [
+        "0.0.1",
+        "1.0.0",
+        "2.2.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "adventure-tours": {
+      "frequency": 1,
+      "versions": [
+        "5.2.0"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "engitech": {
+      "frequency": 1,
+      "versions": [
+        "0.5",
+        "20180910",
+        "20190829"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "salient": {
+      "frequency": 1,
+      "versions": [
+        "1.0",
+        "1.1.1",
+        "1.4.8",
+        "2.6.2",
+        "3.5.2",
+        "7.0.1",
+        "7.6",
+        "8.0",
+        "8.0.1"
+      ],
+      "vulnerabilities_cve": [
+        {
+          "version": "1.0",
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        },
+        {
+          "version": "1.0",
+          "cve": "39a74c20-42a2-4099-8e6c-9989a3ba081d",
+          "title": "Salient < 5.5.53 - DOM Cross-Site Scripting",
+          "published": "2015-06-16 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/39a74c20-42a2-4099-8e6c-9989a3ba081d?source=api-prod",
+          "affected_range": "* - 4.9"
+        },
+        {
+          "version": "1.1.1",
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        },
+        {
+          "version": "1.1.1",
+          "cve": "39a74c20-42a2-4099-8e6c-9989a3ba081d",
+          "title": "Salient < 5.5.53 - DOM Cross-Site Scripting",
+          "published": "2015-06-16 00:00:00",
+          "link": "https://www.wordfence.com/threat-intel/vulnerabilities/id/39a74c20-42a2-4099-8e6c-9989a3ba081d?source=api-prod",
+          "affected_range": "* - 4.9"
+        },
+        {
+          "version": "1.4.8",
+          "cve": "CVE-2025-62028",
+          "title": "Salient < 17.4.0 - Missing Authorization",
+          "published": "2025-10-16 00:00:00",
+          "link": "https://www.cve.org/CVERecord?id=CVE-2025-62028",
+          "affected_range": "[*, 17.4.0)"
+        }
+      ]
+    },
+    "lawnella": {
+      "frequency": 1,
+      "versions": [
+        "1.1.0",
+        "1.12.1",
+        "1.12.9",
+        "1.9.1",
+        "2.2.0",
+        "3.5.7",
+        "4.3.1"
+      ],
+      "vulnerabilities_cve": []
+    },
+    "seed": {
+      "frequency": 1,
+      "versions": [
+        "0.10.3",
+        "20130115"
+      ],
+      "vulnerabilities_cve": []
+    }
+  }
+}
