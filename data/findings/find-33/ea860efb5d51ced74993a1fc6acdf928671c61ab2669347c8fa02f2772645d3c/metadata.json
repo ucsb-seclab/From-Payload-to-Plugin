@@ -11,8 +11,8 @@
   ],
   "snippet": "836a6add0ecdba40fab96b45147ca3d8a19958fcaf6dfa1f62cb178d48a4c0d7",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-06/www.adcbcv.com_05781ec174f9/loaded_js/external/external_0001_12fc930f9239.js",
-    "watchlist_batch_20260302_001952/chunk-07/www.micwestserver5.com_2f28b673151f/loaded_js/external/external_0001_c3568b5c422f.js"
+    "external_0001_12fc930f9239.js",
+    "external_0001_c3568b5c422f.js"
   ],
   "version_consensus": null,
   "plugin_info": {

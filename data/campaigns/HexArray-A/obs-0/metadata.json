@@ -11,9 +11,9 @@
   ],
   "snippet": "456d9cdeb997a3ad0f935561bd7def3578ae1741f5926389d5765adae3f7376d",
   "original_paths": [
-    "watchlist_batch_20251226_024419/chunk-15/autulu.com_01f230903709/loaded_js/external/external_0007_50e337678fe4.js",
-    "watchlist_batch_20251226_024419/chunk-16/bantinngaymoi24.com_08d3b86bb5ea/loaded_js/external/external_0009_50e337678fe4.js",
-    "watchlist_batch_20251226_024419/chunk-16/bantinnhanh24.com_e5437e9dfb60/loaded_js/external/external_0008_50e337678fe4.js"
+    "external_0007_50e337678fe4.js",
+    "external_0009_50e337678fe4.js",
+    "external_0008_50e337678fe4.js"
   ],
   "version_consensus": null,
   "plugin_info": {

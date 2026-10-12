@@ -87,9 +87,9 @@
   ],
   "snippet": "b2d900c701aa9f02855d4c0935a2355b8103dc877c62f8b85aaa85b7dc6d6150",
   "original_paths": [
-    "watchlist_batch_20260114_205409/chunk-09/absoluteathletics.net_b21b9e9ddce8/loaded_js/external/external_0009_dc5705af95af.js",
-    "watchlist_batch_20260114_205409/chunk-00/akracom.ru_203201c26716/loaded_js/external/external_0006_99f90609341f.js",
-    "watchlist_batch_20260114_205409/chunk-22/caronkoteles.com_30225ab1e7db/loaded_js/external/external_0010_ec5b7f8200a2.js"
+    "external_0009_dc5705af95af.js",
+    "external_0006_99f90609341f.js",
+    "external_0010_ec5b7f8200a2.js"
   ],
   "version_consensus": [
     {

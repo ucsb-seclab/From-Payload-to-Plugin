@@ -23,9 +23,9 @@
   ],
   "snippet": "1312905d6b0fc23d8fd4b5981b707e689be42053de324aac91677f020c7d041d",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-79/aeroptique.fr_11a393569c10/loaded_js/external/external_0000_056b474dbdcb.js",
-    "watchlist_batch_20260302_001952/chunk-34/glofordinnovation.org_a0fbf8249b07/loaded_js/external/external_0000_91a0babd1000.js",
-    "watchlist_batch_20260302_001952/chunk-56/ovaliz.com_5063cb83730e/loaded_js/external/external_0000_094e30581595.js"
+    "external_0000_056b474dbdcb.js",
+    "external_0000_91a0babd1000.js",
+    "external_0000_094e30581595.js"
   ],
   "version_consensus": null,
   "plugin_info": {

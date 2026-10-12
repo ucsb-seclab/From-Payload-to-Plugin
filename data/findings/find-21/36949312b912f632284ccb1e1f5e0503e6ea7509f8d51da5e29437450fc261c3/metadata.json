@@ -11,9 +11,9 @@
   ],
   "snippet": "73d3b3522af8af36383f325a6dc13f533e8a165cdf1e9078f3ae585563fabfde",
   "original_paths": [
-    "watchlist_batch_20260203_101428/chunk-06/www.051115.com_a3763c8f8a87/loaded_js/external/external_0001_5cc55222a701.js",
-    "watchlist_batch_20260203_101428/chunk-00/www.051115.com_a75da4e26361/loaded_js/external/external_0001_5cc55222a701.js",
-    "watchlist_batch_20260203_101428/chunk-06/www.051117.com_20a412a5be34/loaded_js/external/external_0001_a22ae153f387.js"
+    "external_0001_5cc55222a701.js",
+    "external_0001_5cc55222a701.js",
+    "external_0001_a22ae153f387.js"
   ],
   "version_consensus": null,
   "plugin_info": {

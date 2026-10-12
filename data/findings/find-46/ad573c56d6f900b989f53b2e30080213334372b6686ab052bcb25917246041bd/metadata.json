@@ -27,9 +27,9 @@
   ],
   "snippet": "ad573c56d6f900b989f53b2e30080213334372b6686ab052bcb25917246041bd",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-08/2b-onec.com_fc52e7f27635/loaded_js/external/external_0002_519f7ea3d9a9.js",
-    "watchlist_batch_20260302_001952/chunk-22/coopcms.com_fddd5072946e/loaded_js/external/external_0005_5f7fa9b642d3.js",
-    "watchlist_batch_20260302_001952/chunk-30/eyesonjobs.com_8de99b5cfa04/loaded_js/external/external_0000_3069f227c13e.js"
+    "external_0002_519f7ea3d9a9.js",
+    "external_0005_5f7fa9b642d3.js",
+    "external_0000_3069f227c13e.js"
   ],
   "version_consensus": null,
   "plugin_info": {

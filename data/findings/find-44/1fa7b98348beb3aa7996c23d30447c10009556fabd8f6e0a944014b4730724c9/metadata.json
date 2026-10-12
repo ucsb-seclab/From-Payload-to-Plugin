@@ -11,8 +11,8 @@
   ],
   "snippet": "1fa7b98348beb3aa7996c23d30447c10009556fabd8f6e0a944014b4730724c9",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-24/danenbergshop.nl_0e7042f08150/loaded_js/external/external_0012_8acf7b34f16f.js",
-    "watchlist_batch_20260302_001952/chunk-69/superspace.nl_761828db11eb/loaded_js/external/external_0004_0959fbb5af91.js"
+    "external_0012_8acf7b34f16f.js",
+    "external_0004_0959fbb5af91.js"
   ],
   "version_consensus": null,
   "plugin_info": {

@@ -11,9 +11,9 @@
   ],
   "snippet": "7482257c5083404c876391d06abd59418668ff51370a3ccf0736b09220f29da0",
   "original_paths": [
-    "watchlist_batch_20260209_230512/chunk-08/2getrich.com_7801f4f60329/loaded_js/external/external_0003_5271491fc89d.js",
-    "watchlist_batch_20260209_230512/chunk-08/305booking.com_3b60931ff9d1/loaded_js/external/external_0000_eeee07e38389.js",
-    "watchlist_batch_20260209_230512/chunk-08/3vs.co_61dbe8919aee/loaded_js/external/external_0011_8428db1f91be.js"
+    "external_0003_5271491fc89d.js",
+    "external_0000_eeee07e38389.js",
+    "external_0011_8428db1f91be.js"
   ],
   "version_consensus": null,
   "plugin_info": {

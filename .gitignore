@@ -1,7 +1,9 @@
 __pycache__/
 *.pyc
 .venv/
+.venv-tier1/
 *.egg-info/
 .DS_Store
 data/findings/**/payload.js
 data/campaigns/**/payload.js
+*/requirements-tier1.lock

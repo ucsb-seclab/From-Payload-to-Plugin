@@ -11,9 +11,9 @@
   ],
   "snippet": "c6420a55acd1efdda6800402e458b717dca90dc29e66fff193670a7a3f54367a",
   "original_paths": [
-    "watchlist_batch_20260118_050735/chunk-00/www.amsterdamcitytourist.com_3a8b1c6c6529/loaded_js/external/external_0001_a85754578838.js",
-    "watchlist_batch_20260118_050735/chunk-00/www.authpt.com_b3982825f698/loaded_js/external/external_0001_ada9deb81e6a.js",
-    "watchlist_batch_20260118_050735/chunk-00/www.bkegitim.com_21257c5c6498/loaded_js/external/external_0001_ed0d36910443.js"
+    "external_0001_a85754578838.js",
+    "external_0001_ada9deb81e6a.js",
+    "external_0001_ed0d36910443.js"
   ],
   "version_consensus": null,
   "plugin_info": {

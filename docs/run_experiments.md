@@ -12,13 +12,13 @@ These scripts run entirely from the data bundled in the artifact directory. can 
 
 **Evaluation scripts** (run from any directory):
 ```bash
-python3 artifacts/code/evaluation/extract_campaign_stats.py     # Table 2
+python3 code/evaluation/extract_campaign_stats.py     # Table 2
 ```
 
 **Figure scripts** (generate PDFs and PNGs in the current directory):
 ```bash
-python3 artifacts/code/figures/fig_detection_gap.py             # VT detection timeline
-python3 artifacts/code/figures/fig_vuln_heatmap.py              # CVE type heatmap
+python3 code/figures/fig_detection_gap.py             # VT detection timeline
+python3 code/figures/fig_vuln_heatmap.py              # CVE type heatmap
 ```
 
 Required packages: `numpy`, `matplotlib`, `packaging`. No GPU or special hardware needed.
@@ -47,5 +47,5 @@ These scripts accept the `CRAWL_ROOT` environment variable to configure the path
 
 
 ### Dynamic execution tracer and crawler
-Refer to `artifacts/code/crawling/README.md` for instructions on running the dynamic execution tracer and crawler.
+Refer to `code/crawling/README.md` for instructions on running the dynamic execution tracer and crawler.
 

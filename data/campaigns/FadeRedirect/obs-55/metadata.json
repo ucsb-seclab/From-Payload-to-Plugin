@@ -19,9 +19,9 @@
   ],
   "snippet": "97dab8e55c53d7386681528136e3a837dc9f88b434df84913677715839ec408b",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-13/astra-imprints.co.uk_4596b65b7f2d/loaded_js/external/external_0000_06db242a505c.js",
-    "watchlist_batch_20260302_001952/chunk-35/grece-tchad.com_9d2816234702/loaded_js/external/external_0000_4fe4901c7ca1.js",
-    "watchlist_batch_20260302_001952/chunk-63/salaamnetwork.org_1513e81631bf/loaded_js/external/external_0000_0d108a4d34d0.js"
+    "external_0000_06db242a505c.js",
+    "external_0000_4fe4901c7ca1.js",
+    "external_0000_0d108a4d34d0.js"
   ],
   "version_consensus": null,
   "plugin_info": {

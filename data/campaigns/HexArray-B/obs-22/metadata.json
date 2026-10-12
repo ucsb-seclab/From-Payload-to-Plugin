@@ -11,9 +11,9 @@
   ],
   "snippet": "eba89bdd34637f0f966d416c44fdab6fa3028feb814045740b7ed210802d6986",
   "original_paths": [
-    "watchlist_batch_20260203_101428/chunk-09/adailymedia.com_ee615a89afbf/loaded_js/external/external_0005_50e337678fe4.js",
-    "watchlist_batch_20260203_101428/chunk-13/ath.xemgihomnay247.com_7416da9fd818/loaded_js/external/external_0008_50e337678fe4.js",
-    "watchlist_batch_20260203_101428/chunk-14/bacgiang98.com_996d3a278d41/loaded_js/external/external_0005_50e337678fe4.js"
+    "external_0005_50e337678fe4.js",
+    "external_0008_50e337678fe4.js",
+    "external_0005_50e337678fe4.js"
   ],
   "version_consensus": null,
   "plugin_info": {

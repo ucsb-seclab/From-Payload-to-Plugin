@@ -11,9 +11,9 @@
   ],
   "snippet": "0a8ad2ef54ca2a92f97558f8d4e873b26b9f3b4fc6c0d65e913b2c2f804558b4",
   "original_paths": [
-    "watchlist_batch_20260103_183402/chunk-00/www.051115.com_a75da4e26361/loaded_js/external/external_0001_5cc55222a701.js",
-    "watchlist_batch_20260103_183402/chunk-00/www.051117.com_c6b20ed2599d/loaded_js/external/external_0001_a22ae153f387.js",
-    "watchlist_batch_20260103_183402/chunk-00/www.1wasteprofile.com_ffbfad46e4ac/loaded_js/external/external_0001_04735e7088ed.js"
+    "external_0001_5cc55222a701.js",
+    "external_0001_a22ae153f387.js",
+    "external_0001_04735e7088ed.js"
   ],
   "version_consensus": null,
   "plugin_info": {

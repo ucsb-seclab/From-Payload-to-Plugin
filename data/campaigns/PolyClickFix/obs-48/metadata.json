@@ -59,9 +59,9 @@
   ],
   "snippet": "69f6107bd7a1f52ef36e106a5837549d6298123bc4aade207c107204481bf19b",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-09/acampamentomoriah.net_6709aeefb314/loaded_js/external/external_0002_85bb0d1d8057.js",
-    "watchlist_batch_20260302_001952/chunk-10/agenciaonumaweb.com.br_21a328e17e60/loaded_js/external/external_0009_588934be9ae1.js",
-    "watchlist_batch_20260302_001952/chunk-15/bestirishtour.com_cb62adf38657/loaded_js/external/external_0004_79fb868783a8.js"
+    "external_0002_85bb0d1d8057.js",
+    "external_0009_588934be9ae1.js",
+    "external_0004_79fb868783a8.js"
   ],
   "version_consensus": null,
   "plugin_info": {

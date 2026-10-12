@@ -23,9 +23,9 @@
   ],
   "snippet": "9a03491c15b12feec614ae44349ef895b44ffe23c259ac235c35f8865fba41ef",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-00/www.black-muse.com_cdc5bedf400b/loaded_js/external/external_0001_aee9a9cf50d1.js",
-    "watchlist_batch_20260302_001952/chunk-06/www.cerrajeriabendicion.com_38594151a0f4/loaded_js/external/external_0001_d6fa3da16bda.js",
-    "watchlist_batch_20260302_001952/chunk-06/www.debbieharrington.com_41437fdacd8f/loaded_js/external/external_0001_75eecd769516.js"
+    "external_0001_aee9a9cf50d1.js",
+    "external_0001_d6fa3da16bda.js",
+    "external_0001_75eecd769516.js"
   ],
   "version_consensus": null,
   "plugin_info": {

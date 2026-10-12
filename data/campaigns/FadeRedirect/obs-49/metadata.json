@@ -79,9 +79,9 @@
   ],
   "snippet": "ea44f9c9db0fe7ff057149e06e061f4c7afd474e44a90768689a0ec3be3857f2",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-09/accountancytube.com_d2d2dc1674c1/loaded_js/external/external_0000_e7ead606a79e.js",
-    "watchlist_batch_20260302_001952/chunk-22/colegioelprincipito.cl_49e15d36414c/loaded_js/external/external_0000_b0d470fd5f3d.js",
-    "watchlist_batch_20260302_001952/chunk-22/colegiosanjosedelamontana.cl_e5bb0198c381/loaded_js/external/external_0000_b0d470fd5f3d.js"
+    "external_0000_e7ead606a79e.js",
+    "external_0000_b0d470fd5f3d.js",
+    "external_0000_b0d470fd5f3d.js"
   ],
   "version_consensus": null,
   "plugin_info": {

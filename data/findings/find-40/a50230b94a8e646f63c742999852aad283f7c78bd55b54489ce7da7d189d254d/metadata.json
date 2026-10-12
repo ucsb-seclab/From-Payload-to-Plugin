@@ -11,8 +11,8 @@
   ],
   "snippet": "b4696e96092aa6b90276a0937e585a2beaa943f4a5b06472370740f95576be7c",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-13/athenstimeout.gr_2ada9ca08751/loaded_js/external/external_0005_6506de5eb07a.js",
-    "watchlist_batch_20260302_001952/chunk-53/nikolaosanaximandros.gr_3e98ae38b526/loaded_js/external/external_0006_6506de5eb07a.js"
+    "external_0005_6506de5eb07a.js",
+    "external_0006_6506de5eb07a.js"
   ],
   "version_consensus": null,
   "plugin_info": {

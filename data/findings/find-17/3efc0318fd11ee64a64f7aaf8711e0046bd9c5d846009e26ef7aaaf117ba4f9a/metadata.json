@@ -11,9 +11,9 @@
   ],
   "snippet": "6da78ea64b2581dddbe6540de9a82676daff9bc83a99ae7c0efdb18ce50de2bb",
   "original_paths": [
-    "watchlist_batch_20260121_230618/chunk-00/www.ajh-menuiseries.com_27ff4d451da0/loaded_js/external/external_0001_ee858e568055.js",
-    "watchlist_batch_20260121_230618/chunk-00/www.allthesebooks.com_fee6d063aa55/loaded_js/external/external_0001_7b86130c7676.js",
-    "watchlist_batch_20260121_230618/chunk-00/www.amsterdamcitytourist.com_3a8b1c6c6529/loaded_js/external/external_0001_a85754578838.js"
+    "external_0001_ee858e568055.js",
+    "external_0001_7b86130c7676.js",
+    "external_0001_a85754578838.js"
   ],
   "version_consensus": null,
   "plugin_info": {

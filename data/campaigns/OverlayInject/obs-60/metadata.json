@@ -11,8 +11,8 @@
   ],
   "snippet": "8609689300f6009d5f898d5cbfa7ffa6acabe5df1d789483bb4ac4c12da51f92",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-54/ocmb.olsztyn.pl_a96c69ff27e8/loaded_js/external/external_0007_d493d333e0f6.js",
-    "watchlist_batch_20260302_001952/chunk-29/www.euro-profil.com.pl_ce7c6eacd97e/loaded_js/external/external_0010_f31db0c177a2.js"
+    "external_0007_d493d333e0f6.js",
+    "external_0010_f31db0c177a2.js"
   ],
   "version_consensus": null,
   "plugin_info": {

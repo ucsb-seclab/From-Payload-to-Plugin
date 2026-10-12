@@ -11,9 +11,9 @@
   ],
   "snippet": "62babcf79e1210f2c4a878fcf968299183b6dfa1568e38dc893f3713d7518465",
   "original_paths": [
-    "watchlist_batch_20251229_224200/chunk-19/breakingnews24hr.com_f235d3795870/loaded_js/external/external_0008_50e337678fe4.js",
-    "watchlist_batch_20251229_224200/chunk-24/cigmet.com_83583b9ad645/loaded_js/external/external_0005_50e337678fe4.js",
-    "watchlist_batch_20251229_224200/chunk-27/cotingihay24.com_263faaddb01c/loaded_js/external/external_0005_50e337678fe4.js"
+    "external_0008_50e337678fe4.js",
+    "external_0005_50e337678fe4.js",
+    "external_0005_50e337678fe4.js"
   ],
   "version_consensus": null,
   "plugin_info": {

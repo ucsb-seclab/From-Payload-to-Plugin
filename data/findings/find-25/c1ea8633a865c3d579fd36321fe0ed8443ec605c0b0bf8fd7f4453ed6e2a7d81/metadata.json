@@ -11,9 +11,9 @@
   ],
   "snippet": "0a8ad2ef54ca2a92f97558f8d4e873b26b9f3b4fc6c0d65e913b2c2f804558b4",
   "original_paths": [
-    "watchlist_batch_20260209_230512/chunk-06/www.13000b.com_1612d4caf9d8/loaded_js/external/external_0001_2a8208eecd64.js",
-    "watchlist_batch_20260209_230512/chunk-06/www.513000d.com_a8d1658de798/loaded_js/external/external_0001_bf3dab5c86c6.js",
-    "watchlist_batch_20260209_230512/chunk-06/www.758399.com_a9deecd45640/loaded_js/external/external_0001_570614bf1ced.js"
+    "external_0001_2a8208eecd64.js",
+    "external_0001_bf3dab5c86c6.js",
+    "external_0001_570614bf1ced.js"
   ],
   "version_consensus": null,
   "plugin_info": {

@@ -19,9 +19,9 @@
   ],
   "snippet": "63fe9ade7f6b424b6e2c7d060af7d91648ed0efa4e3fdd34127ea64604459249",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-18/cantho24.com_5a85f7fbf143/loaded_js/external/external_0009_50e337678fe4.js",
-    "watchlist_batch_20260302_001952/chunk-53/news.fandomshows.com_48cd4a2b9d5f/loaded_js/external/external_0010_50e337678fe4.js",
-    "watchlist_batch_20260302_001952/chunk-53/newsnewsus.com_436d8c6e5799/loaded_js/external/external_0008_50e337678fe4.js"
+    "external_0009_50e337678fe4.js",
+    "external_0010_50e337678fe4.js",
+    "external_0008_50e337678fe4.js"
   ],
   "version_consensus": null,
   "plugin_info": {

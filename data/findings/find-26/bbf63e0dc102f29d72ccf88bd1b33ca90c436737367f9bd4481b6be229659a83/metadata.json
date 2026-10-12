@@ -11,9 +11,9 @@
   ],
   "snippet": "eba89bdd34637f0f966d416c44fdab6fa3028feb814045740b7ed210802d6986",
   "original_paths": [
-    "watchlist_batch_20260209_230512/chunk-14/bantinngaymoi24.com_08d3b86bb5ea/loaded_js/external/external_0007_50e337678fe4.js",
-    "watchlist_batch_20260209_230512/chunk-18/cantho24.com_5a85f7fbf143/loaded_js/external/external_0009_50e337678fe4.js",
-    "watchlist_batch_20260209_230512/chunk-19/celebshow24.com_ece5c197b701/loaded_js/external/external_0006_50e337678fe4.js"
+    "external_0007_50e337678fe4.js",
+    "external_0009_50e337678fe4.js",
+    "external_0006_50e337678fe4.js"
   ],
   "version_consensus": null,
   "plugin_info": {

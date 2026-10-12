@@ -11,9 +11,9 @@
   ],
   "snippet": "8a6663b36ab986f929bb0bd2fcd5ed5e94f873fd8f7bdfbe3f09fe2543f9eabd",
   "original_paths": [
-    "watchlist_batch_20260111_194917/chunk-09/adfoc31.fr_287544d03915/loaded_js/external/external_0000_153eb10fdcce.js",
-    "watchlist_batch_20260111_194917/chunk-00/aescorpo.com_6a9a22a88a4a/loaded_js/external/external_0001_62eb00629aa8.js",
-    "watchlist_batch_20260111_194917/chunk-12/amatihotel.com_e47dea8423b3/loaded_js/external/external_0002_e5be2f18c0c2.js"
+    "external_0000_153eb10fdcce.js",
+    "external_0001_62eb00629aa8.js",
+    "external_0002_e5be2f18c0c2.js"
   ],
   "version_consensus": null,
   "plugin_info": {

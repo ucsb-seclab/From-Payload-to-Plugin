@@ -11,9 +11,9 @@
   ],
   "snippet": "e98d7bf9c88444d877b41e0acf919d47b18039a9777953e3b9889830c4c20d1d",
   "original_paths": [
-    "watchlist_batch_20260203_101428/chunk-10/alightmotionapkspro.com_c632739b6bbf/loaded_js/external/external_0002_1ab4c8a2558d.js",
-    "watchlist_batch_20260203_101428/chunk-42/bellashuv.uz_d0dcf6656343/loaded_js/external/external_0000_1ab4c8a2558d.js",
-    "watchlist_batch_20260203_101428/chunk-17/brackly.com_94e548e43f97/loaded_js/external/external_0003_1ab4c8a2558d.js"
+    "external_0002_1ab4c8a2558d.js",
+    "external_0000_1ab4c8a2558d.js",
+    "external_0003_1ab4c8a2558d.js"
   ],
   "version_consensus": null,
   "plugin_info": {

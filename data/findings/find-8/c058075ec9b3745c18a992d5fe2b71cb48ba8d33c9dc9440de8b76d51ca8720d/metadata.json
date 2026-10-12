@@ -11,9 +11,9 @@
   ],
   "snippet": "9a03491c15b12feec614ae44349ef895b44ffe23c259ac235c35f8865fba41ef",
   "original_paths": [
-    "watchlist_batch_20260106_182558/chunk-00/www.992011.com_ae5923905593/loaded_js/external/external_0001_3adbcbff4155.js",
-    "watchlist_batch_20260106_182558/chunk-00/www.a50cr.com_1b8d1eecddfa/loaded_js/external/external_0001_a1acf96e669a.js",
-    "watchlist_batch_20260106_182558/chunk-00/www.ajh-menuiseries.com_27ff4d451da0/loaded_js/external/external_0001_ee858e568055.js"
+    "external_0001_3adbcbff4155.js",
+    "external_0001_a1acf96e669a.js",
+    "external_0001_ee858e568055.js"
   ],
   "version_consensus": null,
   "plugin_info": {

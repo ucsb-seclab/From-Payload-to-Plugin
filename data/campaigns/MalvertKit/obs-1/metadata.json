@@ -11,9 +11,9 @@
   ],
   "snippet": "31e0b3fcdc8e659d60a032eaecb01be050083278c3207e259c16230e58c92321",
   "original_paths": [
-    "watchlist_batch_20251228_100848/chunk-11/alphametalcraft.com_9d4497c0253c/loaded_js/external/external_0000_d0e92cbe6f0f.js",
-    "watchlist_batch_20251228_100848/chunk-43/guidebookforjustfinancing.com_24589831d5b7/loaded_js/external/external_0006_03d683adbddb.js",
-    "watchlist_batch_20251228_100848/chunk-43/hassangraphix.com_4db1f0acfc4b/loaded_js/external/external_0002_1f16e70df0eb.js"
+    "external_0000_d0e92cbe6f0f.js",
+    "external_0006_03d683adbddb.js",
+    "external_0002_1f16e70df0eb.js"
   ],
   "version_consensus": null,
   "plugin_info": {

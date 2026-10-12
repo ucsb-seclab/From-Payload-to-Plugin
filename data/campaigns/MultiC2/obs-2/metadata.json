@@ -79,9 +79,9 @@
   ],
   "snippet": "b2d900c701aa9f02855d4c0935a2355b8103dc877c62f8b85aaa85b7dc6d6150",
   "original_paths": [
-    "watchlist_batch_20251228_100848/chunk-09/absoluteathletics.net_b21b9e9ddce8/loaded_js/external/external_0010_4fad5211e1bb.js",
-    "watchlist_batch_20251228_100848/chunk-00/akracom.ru_203201c26716/loaded_js/external/external_0003_a72008a75983.js",
-    "watchlist_batch_20251228_100848/chunk-23/changeyourmind.com_4d9c55a7691d/loaded_js/external/external_0002_eda810cf5e2a.js"
+    "external_0010_4fad5211e1bb.js",
+    "external_0003_a72008a75983.js",
+    "external_0002_eda810cf5e2a.js"
   ],
   "version_consensus": [
     {

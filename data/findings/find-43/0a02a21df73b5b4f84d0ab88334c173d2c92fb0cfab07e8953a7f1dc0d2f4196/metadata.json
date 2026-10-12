@@ -11,9 +11,9 @@
   ],
   "snippet": "c6420a55acd1efdda6800402e458b717dca90dc29e66fff193670a7a3f54367a",
   "original_paths": [
-    "watchlist_batch_20260302_001952/chunk-00/www.ajh-menuiseries.com_27ff4d451da0/loaded_js/external/external_0001_ee858e568055.js",
-    "watchlist_batch_20260302_001952/chunk-01/www.centropaseodegracia.com_24e5b718df12/loaded_js/external/external_0001_e35731ec4dcb.js",
-    "watchlist_batch_20260302_001952/chunk-06/www.centropaseodegracia.com_a98836756aac/loaded_js/external/external_0001_e35731ec4dcb.js"
+    "external_0001_ee858e568055.js",
+    "external_0001_e35731ec4dcb.js",
+    "external_0001_e35731ec4dcb.js"
   ],
   "version_consensus": null,
   "plugin_info": {

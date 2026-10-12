@@ -11,9 +11,9 @@
   ],
   "snippet": "3f779f325619f53197093731f5d586c85ed33982a1d3b7e9f7f4f1279b3b2308",
   "original_paths": [
-    "watchlist_batch_20260114_205409/chunk-16/bazeinfo.com_d148b206a590/loaded_js/external/external_0004_0dc9a9485857.js",
-    "watchlist_batch_20260114_205409/chunk-28/culonas.co_df9d8496d203/loaded_js/external/external_0012_0dc9a9485857.js",
-    "watchlist_batch_20260114_205409/chunk-32/ebooks4you.eu_7b14166d888f/loaded_js/external/external_0000_0dc9a9485857.js"
+    "external_0004_0dc9a9485857.js",
+    "external_0012_0dc9a9485857.js",
+    "external_0000_0dc9a9485857.js"
   ],
   "version_consensus": null,
   "plugin_info": {
