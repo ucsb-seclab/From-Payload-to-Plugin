@@ -5,14 +5,14 @@
   "occurrences": 1,
   "source_observations": [
     {
-      "domain": "www.strauss-reisen.de",
+      "domain": "d3b958f61492516cb1174a008131c8adc6f116ce83e97aef2bd1f4dc7ea20e70",
       "signature": "7d41a6d7a95111472315cffcae72b36fae4ffac3666373429209f46d787f8702",
-      "original_path": "watchlist_batch_20260318_202935/chunk-95/www.strauss-reisen.de_9832b414d4a2/loaded_js/external/external_0006_94982219c64c.js"
+      "original_path": "watchlist_batch_20260318_202935/chunk-95/d3b958f61492516cb1174a008131c8adc6f116ce83e97aef2bd1f4dc7ea20e70_9832b414d4a2/loaded_js/external/external_0006_94982219c64c.js"
     },
     {
-      "domain": "costplusunits.com",
+      "domain": "fa9e14add7ed83eb067fccabc22ceb5512978ae9cbb5540ad951cb79911203fc",
       "signature": "ec6ed96f9b0073045a8d3459048b6ae4b9954ddbe40eb993c8a9e615578d70f3",
-      "original_path": "watchlist_batch_20260318_202935/chunk-23/costplusunits.com_6d7e0ef33d8f/loaded_js/external/external_0016_4bfa2e6c43ac.js"
+      "original_path": "watchlist_batch_20260318_202935/chunk-23/fa9e14add7ed83eb067fccabc22ceb5512978ae9cbb5540ad951cb79911203fc_6d7e0ef33d8f/loaded_js/external/external_0016_4bfa2e6c43ac.js"
     }
   ],
   "plugin_info": {
@@ -86,7 +86,7 @@
   },
   "source_component_instances": [
     {
-      "domain": "www.strauss-reisen.de",
+      "domain": "d3b958f61492516cb1174a008131c8adc6f116ce83e97aef2bd1f4dc7ea20e70",
       "signature": "7d41a6d7a95111472315cffcae72b36fae4ffac3666373429209f46d787f8702",
       "plugin_info": {
         "contact-form-7": {
@@ -159,7 +159,7 @@
       }
     },
     {
-      "domain": "costplusunits.com",
+      "domain": "fa9e14add7ed83eb067fccabc22ceb5512978ae9cbb5540ad951cb79911203fc",
       "signature": "ec6ed96f9b0073045a8d3459048b6ae4b9954ddbe40eb993c8a9e615578d70f3",
       "plugin_info": {},
       "theme_info": {}
